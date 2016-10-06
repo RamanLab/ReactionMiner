@@ -1,0 +1,10 @@
+graph G {
+v0 [label=1];
+v0 -- v1
+v0 -- v2
+v1 [label=1];
+v1 -- v2
+v1 -- v3
+v2 [label=1];
+v3 [label=1];
+}

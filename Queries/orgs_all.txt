@@ -1,0 +1,2641 @@
+BMID000000141640 Serratia symbiotica str. 'Cinara cedri'
+BMID000000140995 Caldicellulosiruptor bescii (strain ATCC BAA-1888 / DSM 6725 / Z-1320)
+BMID000000140378 Rhizobium leguminosarum bv. trifolii (strain WSM2304)
+BMID000000141350 Serratia sp. AS12
+BMID000000140341 Yersinia pestis biovar Microtus str. 91001
+BMID000000141283 Mycobacterium tuberculosis CDC1551
+BMID000000141075 Zinderia insecticola (strain CARI)
+BMID000000141102 Pelotomaculum thermopropionicum (strain DSM 13744 / JCM 10971 / SI)
+BMID000000142348 Bordetella parapertussis (strain Bpp5)
+BMID000000142809 Actinobacillus suis H91-0380
+BMID000000142295 Helicobacter cetorum (strain ATCC BAA-429 / MIT 00-7128)
+BMID000000141327 Enterobacter aerogenes (strain ATCC 13048 / DSM 30053 / JCM 1235 / KCTC 2190 / NBRC 13534 / NCIMB 10102 / NCTC 10006)
+BMID000000141958 Lacinutrix sp. (strain 5H-3-7-4)
+BMID000000141275 Mycoplasma penetrans (strain HF-2)
+BMID000000141888 Acidimicrobium ferrooxidans (strain DSM 10331 / JCM 15462 / NBRC 103882 / ICP)
+BMID000000140287 Saccharomonospora viridis (strain ATCC 15386 / DSM 43017 / JCM 3036 / NBRC 12207 / P101)
+BMID000000141853 Salmonella enterica subsp. enterica serovar Typhimurium str. T000240
+BMID000000142550 Lactobacillus rhamnosus ATCC 8530
+BMID000000141773 Leifsonia xyli subsp. xyli (strain CTCB07)
+BMID000000142431 Mycoplasma gallisepticum NC95_13295-2-2P
+BMID000000141022 Oenococcus oeni (strain ATCC BAA-331 / PSU-1)
+BMID000000140681 Bacillus cereus (strain 03BB102)
+BMID000000141885 Marinomonas sp. (strain MWYL1)
+BMID000000142216 Streptomyces davawensis JCM 4913
+BMID000000140213 Brucella pinnipedialis (strain NCTC 12890 / BCCN 94-73 / B2/94)
+BMID000000140816 Bifidobacterium longum subsp. longum (strain ATCC 15707 / DSM 20219 / JCM 1217 / NCTC 11818 / E194b)
+BMID000000140759 Drosophila virilis
+BMID000000141789 Helicobacter pylori (strain HPAG1)
+BMID000000142369 Mycobacterium bovis BCG str. Korea 1168P
+BMID000000142741 Neisseria meningitidis serogroup B (strain M04-240196)
+BMID000000141775 Bifidobacterium longum subsp. longum (strain JDM301)
+BMID000000140416 Methanocorpusculum labreanum (strain ATCC 43576 / DSM 4855 / Z)
+BMID000000142174 Lactobacillus amylovorus (strain GRL 1118)
+BMID000000140307 Streptococcus pneumoniae (strain ATCC BAA-255 / R6)
+BMID000000140828 Erwinia amylovora (strain CFBP1430)
+BMID000000142396 Mycobacterium tuberculosis UT205
+BMID000000142337 Pectobacterium carotovorum subsp. carotovorum PCC21
+BMID000000141040 Salinibacter ruber (strain DSM 13855 / M31)
+BMID000000142334 Shigella flexneri serotype X (strain 2002017)
+BMID000000141666 Acetobacter pasteurianus IFO 3283-01-42C
+BMID000000142845 Marinobacter adhaerens (strain HP15)
+BMID000000142313 Mycoplasma genitalium M2321
+BMID000000140394 Heliobacterium modesticaldum (strain ATCC 51547 / Ice1)
+BMID000000141560 Bacillus anthracis (strain CDC 684 / NRRL 3495)
+BMID000000142182 Mesorhizobium australicum (strain LMG 24608 / HAMBI 3006 / WSM2073)
+BMID000000141206 Bacillus subtilis subsp. spizizenii (strain ATCC 23059 / NRRL B-14472 / W23)
+BMID000000140901 Nitrosococcus oceani (strain ATCC 19707 / NCIMB 11848)
+BMID000000140981 Nautilia profundicola (strain ATCC BAA-1463 / DSM 18972 / AmH)
+BMID000000140944 Giardia intestinalis (strain ATCC 50803 / WB clone C6)
+BMID000000140442 Bifidobacterium bifidum (strain S17)
+BMID000000140245 Mycobacterium rhodesiae (strain NBB3)
+BMID000000142049 Streptococcus equi subsp. zooepidemicus (strain MGCS10565)
+BMID000000142750 Mycoplasma pneumoniae (strain ATCC 15531 / NBRC 14401 / NCTC 10119 / FH)
+BMID000000140728 Shewanella sp. (strain W3-18-1)
+BMID000000142689 Mycoplasma gallisepticum NC96_1596-4-2P
+BMID000000140504 Theileria parva strain Muguga
+BMID000000140262 Corynebacterium pseudotuberculosis 3/99-5
+BMID000000141384 Thermanaerovibrio acidaminovorans (strain ATCC 49978 / DSM 6589 / Su883)
+BMID000000141366 Staphylococcus saprophyticus subsp. saprophyticus (strain ATCC 15305 / DSM 20229)
+BMID000000141371 Nitrosococcus watsoni (strain C-113)
+BMID000000140484 Trichinella spiralis
+BMID000000140701 Drosophila yakuba
+BMID000000140420 Hirschia baltica (strain ATCC 49814 / DSM 5838 / IFAM 1418)
+BMID000000141452 Desulfovibrio salexigens (strain ATCC 14822 / DSM 2638 / NCIB 8403 / VKM B-1763)
+BMID000000141785 Arthrobacter sp. (strain FB24)
+BMID000000140640 Isosphaera pallida (strain ATCC 43644 / DSM 9630 / IS1B)
+BMID000000140586 Haemophilus ducreyi (strain 35000HP / ATCC 700724)
+BMID000000141862 Bacillus thuringiensis subsp. konkukian (strain 97-27)
+BMID000000142819 Ornithobacterium rhinotracheale (strain ATCC 51463 / DSM 15997 / CCUG 23171 / LMG 9086)
+BMID000000140694 Gemmatimonas aurantiaca (strain T-27 / DSM 14586 / JCM 11422 / NBRC 100505)
+BMID000000140517 Polynucleobacter necessarius subsp. necessarius (strain STIR1)
+BMID000000141151 Hodgkinia cicadicola (strain Dsem)
+BMID000000142136 Mycobacterium tuberculosis (strain CCDC5180)
+BMID000000142069 Mycobacterium indicus pranii MTCC 9506
+BMID000000142375 Mycoplasma fermentans (strain ATCC 19989 / NBRC 14854 / NCTC 10117 / PG18)
+BMID000000140257 Oryzias latipes
+BMID000000140234 Variovorax paradoxus (strain S110)
+BMID000000142427 Azotobacter vinelandii CA
+BMID000000141622 Micromonospora aurantiaca (strain ATCC 27029 / DSM 43813 / JCM 10878 / NBRC 16125 / INA 9442)
+BMID000000141506 Prochlorococcus marinus (strain NATL1A)
+BMID000000140258 Branchiostoma floridae
+BMID000000142158 Meiothermus ruber (strain ATCC 35948 / DSM 1279 / VKM B-1258 / 21)
+BMID000000141835 Gallibacterium anatis (strain UMN179)
+BMID000000141638 Lactococcus lactis subsp. cremoris (strain SK11)
+BMID000000142040 Thermotoga petrophila (strain RKU-1 / ATCC BAA-488 / DSM 13995)
+BMID000000142458 Propionibacterium acnes ATCC 11828
+BMID000000141005 Pseudoxanthomonas spadix (strain BD-a59)
+BMID000000142258 Thermoanaerobacterium thermosaccharolyticum M0795
+BMID000000141695 Rickettsia rickettsii str. Hino
+BMID000000142166 Chlamydia trachomatis D/SotonD1
+BMID000000141987 Acinetobacter calcoaceticus (strain PHEA-2)
+BMID000000141122 Brucella canis HSK A52141
+BMID000000141083 Veillonella parvula (strain ATCC 10790 / DSM 2008 / JCM 12972 / Te3)
+BMID000000142061 Helicobacter pylori (strain Gambia94/24)
+BMID000000141032 Ralstonia solanacearum (strain GMI1000)
+BMID000000141191 Acidaminococcus fermentans (strain ATCC 25085 / DSM 20731 / VR4)
+BMID000000140649 Desulfohalobium retbaense (strain DSM 5692)
+BMID000000142315 Geobacter sulfurreducens (strain DL-1 / KN400)
+BMID000000142435 Serratia marcescens FGI94
+BMID000000142147 Mycoplasma bovis HB0801
+BMID000000140238 Edwardsiella ictaluri (strain 93-146)
+BMID000000142206 Bacillus thuringiensis HD-789
+BMID000000140319 Plasmodium falciparum (isolate 3D7)
+BMID000000141306 Mycoplasma hominis (strain ATCC 23114 / NBRC 14850 / NCTC 10111 / PG21)
+BMID000000141664 Ruminococcus albus (strain ATCC 27210 / DSM 20455 / JCM 14654 / NCDO 2250 / 7)
+BMID000000142692 Borrelia afzelii HLJ01
+BMID000000141557 Coraliomargarita akajimensis (strain DSM 45221 / IAM 15411 / JCM 23193 / KCTC 12865)
+BMID000000140796 Synechococcus sp. (strain JA-3-3Ab)
+BMID000000141625 Streptococcus suis (strain 05ZYH33)
+BMID000000140845 Bartonella henselae (strain ATCC 49882 / Houston 1)
+BMID000000141393 Acidobacterium capsulatum (strain ATCC 51196 / DSM 11244 / JCM 7670)
+BMID000000140978 Aster yellows witches'-broom phytoplasma (strain AYWB)
+BMID000000140535 Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099)
+BMID000000142209 Shimwellia blattae (strain ATCC 29907 / DSM 4481 / JCM 1650 / NBRC 105725 / CDC 9005-74)
+BMID000000140207 Rickettsia prowazekii (strain Madrid E)
+BMID000000141162 Pseudomonas aeruginosa (strain PA7)
+BMID000000141770 Thermobispora bispora (strain ATCC 19993 / DSM 43833 / CBS 139.67 / JCM 10125 / NBRC 14880 / R51)
+BMID000000140580 Bacillus cereus (strain G9842)
+BMID000000140519 Carnobacterium sp. (strain 17-4)
+BMID000000140892 Streptococcus pneumoniae (strain 70585)
+BMID000000140263 Bacillus cereus NC7401
+BMID000000140318 Brachyspira intermedia (strain ATCC 51140 / PWS/A)
+BMID000000141953 Campylobacter jejuni subsp. jejuni serotype O:6 (strain 81116 / NCTC 11828)
+BMID000000142430 Helicobacter pylori OK310
+BMID000000141646 Petrotoga mobilis (strain DSM 10674 / SJ95)
+BMID000000141530 Arthrobacter chlorophenolicus (strain A6 / ATCC 700700 / DSM 12829 / JCM 12360)
+BMID000000142521 Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025)
+BMID000000140784 Bacillus clausii (strain KSM-K16)
+BMID000000140943 Mycoplasma arthritidis (strain 158L3-1)
+BMID000000142259 Edwardsiella tarda C07-087
+BMID000000141662 Lactococcus lactis subsp. lactis (strain KF147)
+BMID000000142797 Pectobacterium sp. (strain SCC3193)
+BMID000000140917 Thermococcus onnurineus (strain NA1)
+BMID000000140465 Aggregatibacter aphrophilus (strain NJ8700)
+BMID000000141512 Sphingopyxis alaskensis (strain DSM 13593 / LMG 18877 / RB2256)
+BMID000000140630 Streptococcus pyogenes MGAS15252
+BMID000000141850 Pseudomonas syringae pv. phaseolicola (strain 1448A / Race 6)
+BMID000000142037 Clostridium botulinum (strain ATCC 19397 / Type A)
+BMID000000141711 Onion yellows phytoplasma (strain OY-M)
+BMID000000142591 Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099)
+BMID000000141623 Halorubrum lacusprofundi (strain ATCC 49239 / DSM 5036 / JCM 8891 / ACAM 34)
+BMID000000141091 halophilic archaeon DL31
+BMID000000142726 Streptococcus pyogenes M1 476
+BMID000000141234 Thermoanaerobacter tengcongensis (strain DSM 15242 / JCM 11007 / NBRC 100824 / MB4)
+BMID000000142187 Clavibacter michiganensis subsp. nebraskensis NCPPB 2581
+BMID000000140351 Rhodothermus marinus (strain ATCC 43812 / DSM 4252 / R-10)
+BMID000000140732 Methanococcus maripaludis (strain C5 / ATCC BAA-1333)
+BMID000000140786 Burkholderia phytofirmans (strain DSM 17436 / PsJN)
+BMID000000142636 Corynebacterium pseudotuberculosis 258
+BMID000000140288 Mesorhizobium sp. (strain BNC1)
+BMID000000142559 Clostridium acidurici (strain ATCC 7906 / DSM 604 / KCTC 5404 / 9a)
+BMID000000141965 Acidiphilium cryptum (strain JF-5)
+BMID000000140770 Bartonella grahamii (strain as4aup)
+BMID000000140834 Synechococcus sp. (strain ATCC 27264 / PCC 7002 / PR-6)
+BMID000000142628 Helicobacter pylori 83
+BMID000000141604 Salinispora tropica (strain ATCC BAA-916 / DSM 44818 / CNB-440)
+BMID000000142549 Streptococcus parasanguinis FW213
+BMID000000140817 Pseudomonas brassicacearum (strain NFM421)
+BMID000000140836 Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)
+BMID000000141158 Lactobacillus gasseri (strain ATCC 33323 / DSM 20243)
+BMID000000142045 Acidaminococcus intestini (strain RyC-MR95)
+BMID000000140607 Methanococcus vannielii (strain SB / ATCC 35089 / DSM 1224)
+BMID000000141273 Brucella microti (strain CCM 4915)
+BMID000000141765 Pseudoalteromonas sp. (strain SM9913)
+BMID000000141522 Escherichia coli O55:H7 (strain CB9615 / EPEC)
+BMID000000140538 Pediococcus pentosaceus (strain ATCC 25745 / 183-1w)
+BMID000000140606 Actinobacillus pleuropneumoniae serotype 7 (strain AP76)
+BMID000000142276 Dictyostelium purpureum
+BMID000000141732 Pasteurella multocida (strain HN06)
+BMID000000142740 Bacillus thuringiensis serovar thuringiensis str. IS5056
+BMID000000140353 Lactobacillus casei (strain BL23)
+BMID000000142233 Escherichia coli O150:H5 (strain SE15)
+BMID000000142467 Oryza sativa subsp. japonica
+BMID000000140490 Rhodospirillum photometricum DSM 122
+BMID000000142443 Francisella tularensis subsp. tularensis (strain NE061598)
+BMID000000141900 Arthrobacter arilaitensis (strain DSM 16368 / CIP 108037 / JCM 13566 / Re117)
+BMID000000141889 Leishmania braziliensis MHOM/BR/75/M2904
+BMID000000142720 Candidatus Carsonella ruddii HC isolate Thao2000
+BMID000000141693 Bifidobacterium longum subsp. infantis (strain ATCC 15697 / DSM 20088 / JCM 1222 / NCTC 11817 / S12)
+BMID000000141802 Yersinia pestis KIM10+
+BMID000000141602 Chloroflexus aggregans (strain MD-66 / DSM 9485)
+BMID000000141459 Escherichia coli O111:H- (strain 11128 / EHEC)
+BMID000000140469 Synechocystis sp. PCC 6803
+BMID000000141749 Chromohalobacter salexigens (strain DSM 3043 / ATCC BAA-138 / NCIMB 13768)
+BMID000000142753 Bdellovibrio exovorus JSS
+BMID000000142389 Arthrospira platensis (strain NIES-39 / IAM M-135)
+BMID000000142249 Bacillus subtilis subsp. subtilis 6051-HGW
+BMID000000140598 Natranaerobius thermophilus (strain ATCC BAA-1301 / DSM 18059 / JW/NM-WN-LF)
+BMID000000141806 Parachlamydia acanthamoebae (strain UV7)
+BMID000000141134 Clostridium cellulovorans (strain ATCC 35296 / DSM 3052 / OCM 3 / 743B)
+BMID000000142681 Escherichia coli (strain ATCC 33849 / DSM 4235 / NCIB 12045 / K12 / DH1)
+BMID000000140340 Apple proliferation phytoplasma
+BMID000000142189 Candidatus Arthromitus sp. SFB-mouse-Yit
+BMID000000141097 Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809)
+BMID000000141429 Lactobacillus reuteri (strain DSM 20016)
+BMID000000142094 Bacillus subtilis QB928
+BMID000000140900 Hyphomicrobium denitrificans (strain ATCC 51888 / DSM 1869 / NCIB 11706 / TK 0415)
+BMID000000142525 Listeria monocytogenes ATCC 19117
+BMID000000141167 Thermobifida fusca (strain YX)
+BMID000000142651 Morganella morganii subsp. morganii KT
+BMID000000141450 Alteromonas sp. (strain SN2)
+BMID000000141827 Hydrogenobaculum sp. 3684
+BMID000000141879 Psychrobacter cryohalolentis (strain K5)
+BMID000000141777 Rhizobium sp. (strain NGR234)
+BMID000000142647 Synechocystis sp. PCC 6803 substr. PCC-P
+BMID000000141741 Salmonella enterica subsp. enterica serovar Typhi str. CT18
+BMID000000141219 Staphylococcus aureus (strain Mu3 / ATCC 700698)
+BMID000000141152 Shewanella sp. (strain ANA-3)
+BMID000000141687 Rubrobacter xylanophilus (strain DSM 9941 / NBRC 16129)
+BMID000000142254 Leishmania donovani
+BMID000000141724 Methylomonas methanica (strain MC09)
+BMID000000141919 Ralstonia pickettii (strain 12J)
+BMID000000141224 Sinorhizobium medicae (strain WSM419)
+BMID000000141449 Thioalkalivibrio sp. (strain HL-EbGR7)
+BMID000000141767 Thermosipho melanesiensis (strain BI429 / DSM 12029)
+BMID000000142326 Natronococcus occultus SP4
+BMID000000140971 Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)
+BMID000000142211 Synechocystis sp. PCC 6803
+BMID000000140747 Geobacter lovleyi (strain ATCC BAA-1151 / DSM 17278 / SZ)
+BMID000000141988 Variovorax paradoxus (strain EPS)
+BMID000000141989 Methanosarcina acetivorans (strain ATCC 35395 / DSM 2834 / JCM 12185 / C2A)
+BMID000000140407 Streptococcus pyogenes serotype M12 (strain MGAS9429)
+BMID000000142386 Serratia sp. AS13
+BMID000000141418 Dehalococcoides ethenogenes (strain 195)
+BMID000000140567 Mycoplasma hyopneumoniae (strain 232)
+BMID000000140386 Deinococcus deserti (strain VCD115 / DSM 17065 / LMG 22923)
+BMID000000140306 Paenibacillus terrae (strain HPL-003)
+BMID000000142519 Prevotella intermedia (strain 17)
+BMID000000142201 Thioflavicoccus mobilis 8321
+BMID000000141227 Coxiella burnetii (strain CbuG_Q212)
+BMID000000142039 Renibacterium salmoninarum (strain ATCC 33209 / DSM 20767 / JCM 11484 / NBRC 15589 / NCIMB 2235)
+BMID000000141108 Aspergillus oryzae (strain ATCC 42149 / RIB 40)
+BMID000000142475 Lactobacillus casei (strain BD-II)
+BMID000000142203 Bacillus thuringiensis HD-771
+BMID000000141575 Drosophila mojavensis
+BMID000000142164 Sphingomonas sp. MM-1
+BMID000000141193 Capnocytophaga ochracea (strain ATCC 27872 / DSM 7271 / JCM 12966 / VPI 2845)
+BMID000000141076 Thermodesulfatator indicus (strain DSM 15286 / JCM 11887 / CIR29812)
+BMID000000142806 Sinorhizobium meliloti 2011
+BMID000000141170 Vibrio parahaemolyticus serotype O3:K6 (strain RIMD 2210633)
+BMID000000142516 Thermus thermophilus JL-18
+BMID000000140761 Prochlorococcus marinus (strain MIT 9303)
+BMID000000142352 Pseudomonas sp. UW4
+BMID000000140908 Vibrio sp. EJY3
+BMID000000142394 Acinetobacter baumannii D1279779
+BMID000000140596 Olsenella uli (strain ATCC 49627 / DSM 7084 / CIP 109912 / JCM 12494 / VPI D76D-27C)
+BMID000000142773 Nostoc sp. PCC 7107
+BMID000000142239 Prevotella dentalis (strain ATCC 49559 / DSM 3688 / JCM 13448 / NCTC 12043 / ES 2772)
+BMID000000141855 Streptococcus thermophilus (strain ATCC BAA-250 / LMG 18311)
+BMID000000141723 Neisseria gonorrhoeae (strain NCCP11945)
+BMID000000142341 Escherichia coli OR:K5:H- (strain ABU 83972)
+BMID000000141262 Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4)
+BMID000000142547 Methanosarcina mazei Tuc01
+BMID000000142437 Chlamydia trachomatis serovar G (strain G/11222)
+BMID000000142613 Bacillus subtilis subsp. subtilis str. BAB-1
+BMID000000142611 Chlamydia trachomatis L2b/UCH-2
+BMID000000142603 Cyanobium gracile (strain ATCC 27147 / PCC 6307)
+BMID000000141986 Entamoeba histolytica HM-1:IMSS
+BMID000000140843 Staphylococcus aureus (strain JH1)
+BMID000000140716 Synechocystis sp. PCC 6803 substr. PCC-N
+BMID000000142677 Methanoculleus bourgensis (strain ATCC 43281 / DSM 3045 / OCM 15 / MS2)
+BMID000000142027 Marinitoga piezophila (strain DSM 14283 / JCM 11233 / KA3)
+BMID000000142618 Brachyspira pilosicoli P43/6/78
+BMID000000141790 Halomicrobium mukohataei (strain ATCC 700874 / DSM 12286 / JCM 9738 / NCIMB 13541)
+BMID000000142509 Naumovozyma castellii (strain ATCC 76901 / CBS 4309 / NBRC 1992 / NRRL Y-12630)
+BMID000000141873 Staphylococcus aureus subsp. aureus M013
+BMID000000141457 Denitrovibrio acetiphilus (strain DSM 12809 / N2460)
+BMID000000141929 Ixodes scapularis
+BMID000000141431 Selaginella moellendorffii
+BMID000000141631 Rhizobium etli (strain CFN 42 / ATCC 51251)
+BMID000000141336 Ricinus communis
+BMID000000141837 Caldicellulosiruptor kronotskyensis (strain DSM 18902 / VKM B-2412 / 2002)
+BMID000000142796 Campylobacter jejuni subsp. jejuni NCTC 11168-BN148
+BMID000000140827 Sulfurovum sp. (strain NBC37-1)
+BMID000000141712 Enterococcus faecium (strain Aus0004)
+BMID000000141401 Salmonella paratyphi A (strain ATCC 9150 / SARB42)
+BMID000000142253 Listeria monocytogenes La111
+BMID000000142693 Staphylococcus aureus subsp. aureus LGA251
+BMID000000141357 Methylovorus sp. (strain MP688)
+BMID000000140233 Thauera sp. (strain MZ1T)
+BMID000000141087 Streptococcus salivarius (strain CCHSS3)
+BMID000000141690 Photorhabdus luminescens subsp. laumondii (strain TT01)
+BMID000000142310 Roseburia intestinalis XB6B4
+BMID000000142645 Xanthomonas campestris pv. raphani 756C
+BMID000000141730 Glaciecola nitratireducens (strain JCM 12485 / KCTC 12276 / FR1064)
+BMID000000140754 Leuconostoc citreum (strain KM20)
+BMID000000141797 Streptococcus uberis (strain ATCC BAA-854 / 0140J)
+BMID000000142584 Raoultella ornithinolytica B6
+BMID000000141348 Stenotrophomonas maltophilia (strain K279a)
+BMID000000142057 Propionibacterium acnes 6609
+BMID000000141368 Pelodictyon phaeoclathratiforme (strain DSM 5477 / BU-1)
+BMID000000142277 Lactococcus lactis subsp. cremoris UC509.9
+BMID000000140724 Bacillus amyloliquefaciens subsp. plantarum CAU B946
+BMID000000142034 Pseudomonas putida (strain W619)
+BMID000000141550 Carboxydothermus hydrogenoformans (strain Z-2901 / DSM 6008)
+BMID000000142323 Alteromonas macleodii (strain Balearic Sea AD45)
+BMID000000141367 Methanobrevibacter ruminantium (strain ATCC 35063 / DSM 1093 / JCM 13430 / M1)
+BMID000000141203 Haemophilus somnus (strain 2336)
+BMID000000142066 Naumovozyma dairenensis (strain ATCC 10597 / BCRC 20456 / CBS 421 / NBRC 0211 / NRRL Y-12639)
+BMID000000141619 Amycolicicoccus subflavus (strain DSM 45089 / DQS3-9A1)
+BMID000000141056 Xylella fastidiosa (strain Temecula1 / ATCC 700964)
+BMID000000140560 Geobacillus thermoleovorans CCB_US3_UF5
+BMID000000142436 Liberibacter crescens (strain BT-1)
+BMID000000142013 Campylobacter jejuni subsp. jejuni serotype O:23/36 (strain 81-176)
+BMID000000142491 Streptococcus pneumoniae SPNA45
+BMID000000141766 Thermoanaerobacter brockii subsp. finnii (strain ATCC 43586 / DSM 3389 / AKO-1)
+BMID000000141011 Nasonia vitripennis
+BMID000000142510 Simiduia agarivorans (strain DSM 21679 / JCM 13881 / BCRC 17597 / SA1)
+BMID000000140950 Blastococcus saxobsidens (strain DD2)
+BMID000000141140 Burkholderia rhizoxinica (strain DSM 19002 / CIP 109453 / HKI 454)
+BMID000000140787 Dyadobacter fermentans (strain ATCC 700827 / DSM 18053 / NS114)
+BMID000000142716 Helicobacter pylori Puno120
+BMID000000142162 Natronomonas moolapensis (strain DSM 18674 / JCM 14361 / 8.8.11)
+BMID000000142377 Encephalitozoon intestinalis (strain ATCC 50506)
+BMID000000142172 Gluconobacter oxydans H24
+BMID000000142020 Taylorella equigenitalis (strain MCE9)
+BMID000000140242 Treponema primitia (strain ATCC BAA-887 / DSM 12427 / ZAS-2)
+BMID000000140493 Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)
+BMID000000141256 Burkholderia sp. CCGE1001
+BMID000000141942 Xanthomonas campestris pv. campestris (strain 8004)
+BMID000000141251 Acetobacter pasteurianus IFO 3283-03
+BMID000000140485 Atopobium parvulum (strain ATCC 33793 / DSM 20469 / JCM 10300 / VPI 0546)
+BMID000000141858 Bifidobacterium animalis subsp. lactis CNCM I-2494
+BMID000000142482 Escherichia coli (strain UM146)
+BMID000000142302 Mycoplasma cynos (strain C142)
+BMID000000142130 Chlamydia trachomatis Ia/SotonIa1
+BMID000000142578 Desulfovibrio vulgaris (strain RCH1)
+BMID000000140891 Akkermansia muciniphila (strain ATCC BAA-835)
+BMID000000140270 Erwinia pyrifoliae (strain Ep1/96)
+BMID000000141637 Escherichia coli 'BL21-Gold(DE3)pLysS AG'
+BMID000000140419 Phaeodactylum tricornutum (strain CCAP 1055/1)
+BMID000000141791 Burkholderia ambifaria (strain ATCC BAA-244 / AMMD)
+BMID000000142759 Sarcophilus harrisii
+BMID000000140363 Lactobacillus sakei subsp. sakei (strain 23K)
+BMID000000140624 Rickettsia conorii (strain ATCC VR-613 / Malish 7)
+BMID000000141467 Takifugu rubripes
+BMID000000141932 Rhizobium fredii (strain HH103)
+BMID000000141015 Shewanella sp. (strain MR-4)
+BMID000000140869 Mycobacterium marinum (strain ATCC BAA-535 / M)
+BMID000000142805 Streptococcus suis S735
+BMID000000141400 Lawsonia intracellularis (strain PHE/MN1-00)
+BMID000000140350 Clavibacter michiganensis subsp. michiganensis (strain NCPPB 382)
+BMID000000142661 Erwinia sp. (strain Ejp617)
+BMID000000140975 Thermosynechococcus elongatus (strain BP-1)
+BMID000000142152 Helicobacter pylori (strain F30)
+BMID000000141053 Buchnera aphidicola subsp. Acyrthosiphon pisum (strain TLW03)
+BMID000000140326 Kosmotoga olearia (strain TBF 19.5.1)
+BMID000000141794 Halanaerobium sp. (strain sapolanicus)
+BMID000000141320 Syntrophobotulus glycolicus (strain DSM 8271 / FlGlyR)
+BMID000000140929 Desulfotomaculum reducens (strain MI-1)
+BMID000000141331 Bifidobacterium animalis subsp. lactis (strain AD011)
+BMID000000142214 Vibrio cholerae serotype O1 (strain ATCC 39541 / Ogawa 395 / O395)
+BMID000000140516 Cellvibrio gilvus (strain ATCC 13127 / NRRL B-14078)
+BMID000000140910 Physcomitrella patens subsp. patens
+BMID000000141330 Aromatoleum aromaticum (strain EbN1)
+BMID000000140949 Anaerolinea thermophila (strain DSM 14523 / JCM 11388 / NBRC 100420 / UNI-1)
+BMID000000142468 Escherichia coli P12b
+BMID000000142319 alpha proteobacterium HIMB59
+BMID000000141886 Streptosporangium roseum (strain ATCC 12428 / DSM 43021 / JCM 3005 / NI 9100)
+BMID000000140727 Aminobacterium colombiense (strain DSM 12261 / ALA-1)
+BMID000000141783 Vibrio sp. (strain Ex25)
+BMID000000141265 Geobacillus sp. (strain Y412MC10)
+BMID000000141000 Ostreococcus lucimarinus (strain CCE9901)
+BMID000000140559 Gordonia bronchialis (strain ATCC 25592 / DSM 43247 / JCM 3198 / NCTC 10667)
+BMID000000142476 Myxococcus stipitatus (strain DSM 14675 / JCM 12634 / Mx s8)
+BMID000000141213 Mycoplasma pneumoniae 309
+BMID000000142098 Mycobacterium liflandii (strain 128FXT)
+BMID000000140549 Shewanella frigidimarina (strain NCIMB 400)
+BMID000000142776 Taylorella equigenitalis ATCC 35865
+BMID000000141648 Corynebacterium ulcerans (strain BR-AD22)
+BMID000000142666 Helicobacter pylori HUP-B14
+BMID000000140412 Escherichia coli O7:K1 (strain IAI39 / ExPEC)
+BMID000000141293 Ureaplasma parvum serovar 3 (strain ATCC 700970)
+BMID000000142381 Rhizobium tropici CIAT 899
+BMID000000140954 Anaplasma marginale (strain Florida)
+BMID000000141168 Acidithiobacillus caldus (strain SM-1)
+BMID000000142307 Bacillus licheniformis (strain DSM 13 / ATCC 14580)
+BMID000000141498 Stenotrophomonas maltophilia JV3
+BMID000000141829 Proteus mirabilis (strain HI4320)
+BMID000000142660 Paenibacillus polymyxa M1
+BMID000000142752 Chlamydia trachomatis serovar G (strain G/9301)
+BMID000000140835 Zea mays
+BMID000000140443 Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4)
+BMID000000142478 Hydrogenobaculum sp. HO
+BMID000000142252 Stenotrophomonas maltophilia D457
+BMID000000142395 Lactobacillus salivarius (strain CECT 5713)
+BMID000000141649 Saccharomyces bayanus MCYC 623
+BMID000000141477 Tuber melanosporum (strain Mel28)
+BMID000000142210 Pantoea ananatis (strain AJ13355)
+BMID000000142231 Streptococcus mutans LJ23
+BMID000000140865 Methanocaldococcus sp. (strain FS406-22)
+BMID000000141569 Fervidobacterium pennivorans (strain DSM 9078 / Ven5)
+BMID000000141959 Hyphomonas neptunium (strain ATCC 15444)
+BMID000000141050 Clostridium kluyveri (strain NBRC 12016)
+BMID000000140449 Salmonella choleraesuis (strain SC-B67)
+BMID000000141906 Aggregatibacter actinomycetemcomitans serotype C (strain D11S-1)
+BMID000000141589 Bartonella clarridgeiae (strain CIP 104772 / 73)
+BMID000000141968 Rahnella aquatilis HX2
+BMID000000140305 Prochlorococcus marinus (strain MIT 9312)
+BMID000000141300 Cronobacter sakazakii (strain ATCC BAA-894)
+BMID000000141121 Klebsiella variicola (strain At-22)
+BMID000000142451 Streptomyces albus J1074
+BMID000000141113 Tetragenococcus halophilus (strain DSM 20338 / JCM 20259 / NCIMB 9735 / NBRC 12172)
+BMID000000141843 Clostridium botulinum (strain Loch Maree / Type A3)
+BMID000000142742 Candidatus Uzinura diaspidicola str. ASNER
+BMID000000140369 Photobacterium profundum SS9
+BMID000000140556 Thermus thermophilus (strain HB27 / ATCC BAA-163 / DSM 7039)
+BMID000000141688 Mus musculus
+BMID000000142055 Pseudomonas denitrificans ATCC 13867
+BMID000000141161 Ehrlichia chaffeensis (strain Arkansas)
+BMID000000141731 Plasmodium berghei (strain Anka)
+BMID000000140595 Desulfovibrio vulgaris (strain Miyazaki F / DSM 19637)
+BMID000000140398 Spirochaeta thermophila (strain ATCC 49972 / DSM 6192 / RI 19.B1)
+BMID000000140718 Acidovorax citrulli (strain AAC00-1)
+BMID000000140364 Actinobacillus succinogenes (strain ATCC 55618 / 130Z)
+BMID000000141735 Theileria annulata strain Ankara
+BMID000000140311 Methanothermus fervidus (strain ATCC 43054 / DSM 2088 / JCM 10308 / V24 S)
+BMID000000141578 Anaeromyxobacter dehalogenans (strain 2CP-C)
+BMID000000142479 Escherichia coli NA114
+BMID000000142531 Alteromonas macleodii (strain English Channel 673)
+BMID000000141847 Listeria monocytogenes serotype 4b (strain CLIP80459)
+BMID000000140966 Chloroflexus aurantiacus (strain ATCC 29366 / DSM 635 / J-10-fl)
+BMID000000141314 Vibrio cholerae serotype O1 (strain M66-2)
+BMID000000142417 Eremothecium cymbalariae (strain CBS 270.75 / DBVPG 7215 / KCTC 17166 / NRRL Y-17582)
+BMID000000141127 Taylorella asinigenitalis (strain MCE3)
+BMID000000142450 Lactococcus garvieae (strain Lg2)
+BMID000000142327 Staphylococcus aureus M1
+BMID000000141887 Frankia alni (strain ACN14a)
+BMID000000142463 Wolbachia endosymbiont of Drosophila simulans wHa
+BMID000000142719 Pleurocapsa sp. PCC 7327
+BMID000000140524 Chitinophaga pinensis (strain ATCC 43595 / DSM 2588 / NCIB 11800 / UQM 2034)
+BMID000000140436 Brachyspira murdochii (strain ATCC 51284 / DSM 12563 / 56-150)
+BMID000000142186 Geobacillus sp. GHH01
+BMID000000141038 Frankia symbiont subsp. Datisca glomerata
+BMID000000141425 Thermosediminibacter oceani (strain ATCC BAA-1034 / DSM 16646 / JW/IW-1228P)
+BMID000000142183 Vibrio parahaemolyticus BB22OP
+BMID000000140814 Bombyx mori
+BMID000000142367 Escherichia coli O18:K1:H7 (strain IHE3034 / ExPEC)
+BMID000000141738 Xanthomonas axonopodis pv. citri (strain 306)
+BMID000000142336 Anaerobaculum mobile (strain ATCC BAA-54 / DSM 13181 / NGA)
+BMID000000140680 Porphyromonas gingivalis (strain TDC60)
+BMID000000142538 Oligotropha carboxidovorans (strain OM4)
+BMID000000142058 Sulfolobus islandicus (strain HVE10/4)
+BMID000000140871 Archaeoglobus fulgidus (strain ATCC 49558 / VC-16 / DSM 4304 / JCM 9628 / NBRC 100126)
+BMID000000141880 Mycobacterium ulcerans (strain Agy99)
+BMID000000142778 Chlamydia psittaci 84/55
+BMID000000142504 Enterococcus faecalis str. Symbioflor 1
+BMID000000142074 Chlamydophila psittaci (strain ATCC VR-125 / 6BC)
+BMID000000141200 Methanosarcina barkeri (strain Fusaro / DSM 804)
+BMID000000141197 Asticcacaulis excentricus (strain ATCC 15261 / DSM 4724 / VKM B-1370 / CB 48)
+BMID000000140215 Streptococcus equi subsp. equi (strain 4047)
+BMID000000140448 Coriobacterium glomerans (strain ATCC 49209 / DSM 20642 / JCM 10262 / PW2)
+BMID000000140927 Streptococcus pyogenes serotype M2 (strain MGAS10270)
+BMID000000141679 Rickettsia massiliae (strain Mtu5)
+BMID000000140789 Cyanothece sp. (strain ATCC 51142)
+BMID000000141194 Chlamydia trachomatis serovar L2 (strain 434/Bu / ATCC VR-902B)
+BMID000000142755 Mannheimia haemolytica USDA-ARS-USMARC-183
+BMID000000141945 Waddlia chondrophila (strain ATCC VR-1470 / WSU 86-1044)
+BMID000000142838 Neisseria meningitidis serogroup A (strain WUE 2594)
+BMID000000141613 Thermoanaerobacter wiegelii Rt8.B1
+BMID000000140226 Streptococcus sanguinis (strain SK36)
+BMID000000140693 Roseiflexus sp. (strain RS-1)
+BMID000000141142 Corallococcus coralloides (strain ATCC 25202 / DSM 2259 / NBRC 100086 / M2)
+BMID000000142053 Edwardsiella tarda (strain FL6-60)
+BMID000000141528 Rickettsia prowazekii str. Chernikova
+BMID000000142621 Thermacetogenium phaeum (strain ATCC BAA-254 / DSM 12270 / PB)
+BMID000000140776 Lactobacillus acidophilus (strain 30SC)
+BMID000000142099 Ignavibacterium album (strain DSM 19864 / JCM 16511 / NBRC 101810 / Mat9-16)
+BMID000000141572 Parvularcula bermudensis (strain ATCC BAA-594 / HTCC2503 / KCTC 12087)
+BMID000000142398 Chlamydia trachomatis L1/115
+BMID000000141105 Trichophyton verrucosum (strain HKI 0517)
+BMID000000142822 Chlamydia trachomatis serovar A (strain A2497)
+BMID000000142473 Amycolatopsis mediterranei S699
+BMID000000142710 Candidatus Kinetoplastibacterium oncopeltii TCC290E
+BMID000000142826 Enterococcus faecalis (strain 62)
+BMID000000141411 Thermoplasma volcanium (strain ATCC 51530 / DSM 4299 / JCM 9571 / NBRC 15438 / GSS1)
+BMID000000142558 Bacillus amyloliquefaciens IT-45
+BMID000000141060 Burkholderia pseudomallei (strain 668)
+BMID000000141719 Bifidobacterium longum subsp. infantis (strain 157F)
+BMID000000140259 Bacillus amyloliquefaciens LL3
+BMID000000141608 Desulfovibrio magneticus (strain ATCC 700980 / DSM 13731 / RS-1)
+BMID000000141077 Helicobacter bizzozeronii (strain CIII-1)
+BMID000000140937 Phaeosphaeria nodorum (strain SN15 / ATCC MYA-4574 / FGSC 10173)
+BMID000000141492 Anaeromyxobacter sp. (strain K)
+BMID000000141324 Salmonella paratyphi A (strain AKU_12601)
+BMID000000140339 Methanohalophilus mahii (strain ATCC 35705 / DSM 5219 / SLP)
+BMID000000142610 Salmonella enterica subsp. enterica serovar Typhimurium str. U288
+BMID000000140300 Streptococcus pneumoniae (strain 670-6B)
+BMID000000141865 Hahella chejuensis (strain KCTC 2396)
+BMID000000141927 Leuconostoc mesenteroides subsp. mesenteroides J18
+BMID000000142596 Haemophilus influenzae (strain R2866)
+BMID000000140617 Mycoplasma bovis (strain Hubei-1)
+BMID000000140740 Burkholderia mallei (strain NCTC 10229)
+BMID000000140867 Gluconobacter oxydans (strain 621H)
+BMID000000140304 Granulibacter bethesdensis (strain ATCC BAA-1260 / CGDNIH1)
+BMID000000141303 Mycobacterium intracellulare MOTT-02
+BMID000000142489 Eubacterium siraeum V10Sc8a
+BMID000000142308 Streptococcus pneumoniae serotype 14 (strain INV200)
+BMID000000142156 Salmonella paratyphi B (strain ATCC BAA-1250 / SPB7)
+BMID000000141792 Rhodococcus equi (strain 103S)
+BMID000000140763 Salinispora arenicola (strain CNS-205)
+BMID000000141426 Shewanella denitrificans (strain OS217 / ATCC BAA-1090 / DSM 15013)
+BMID000000140370 Starkeya novella (strain ATCC 8093 / DSM 506 / CCM 1077 / IAM 12100 / NBRC 12443 / NCIB 9113)
+BMID000000141601 Fluviicola taffensis (strain DSM 16823 / RW262 / RW262)
+BMID000000142260 Candidatus Nitrosopumilus koreensis AR1
+BMID000000141355 Helicobacter mustelae (strain ATCC 43772 / LMG 18044 / NCTC 12198 / 12198)
+BMID000000141974 Tolumonas auensis (strain DSM 9187 / TA4)
+BMID000000140643 Terriglobus saanensis (strain ATCC BAA-1853 / DSM 23119 / SP1PR4)
+BMID000000140359 Clostridium botulinum (strain Hall / ATCC 3502 / NCTC 13319 / Type A)
+BMID000000141808 Mycoplasma genitalium (strain ATCC 33530 / G-37 / NCTC 10195)
+BMID000000141718 Rhizobium meliloti (strain 1021)
+BMID000000140321 Marinithermus hydrothermalis (strain DSM 14884 / JCM 11576 / T1)
+BMID000000142221 Corynebacterium pseudotuberculosis (strain 1002)
+BMID000000141165 Plasmodium falciparum (isolate Dd2)
+BMID000000141403 Burkholderia ambifaria (strain MC40-6)
+BMID000000142638 Mycobacterium tuberculosis (strain CCDC5079)
+BMID000000142568 Bacillus sp. JS
+BMID000000142330 Bacillus thuringiensis MC28
+BMID000000142403 Mycoplasma putrefaciens Mput9231
+BMID000000142000 Lactobacillus ruminis (strain ATCC 27782 / RF3)
+BMID000000140880 Pelobacter propionicus (strain DSM 2379)
+BMID000000140800 Pseudovibrio sp. (strain FO-BEG1)
+BMID000000140756 Bacteriovorax marinus (strain ATCC BAA-682 / DSM 15412 / SJ)
+BMID000000140999 Glaciecola sp. (strain 4H-3-7+YE-5)
+BMID000000141333 Buchnera aphidicola subsp. Schizaphis graminum (strain Sg)
+BMID000000140380 Prochlorococcus marinus (strain MIT 9211)
+BMID000000142283 Microcoleus sp. PCC 7113
+BMID000000141669 Geobacillus thermoglucosidasius (strain C56-YS93)
+BMID000000142207 Anabaena sp. 90
+BMID000000140876 Amycolatopsis mediterranei S699
+BMID000000142015 Chlamydia trachomatis serovar A (strain A2497)
+BMID000000142199 Enterococcus faecalis D32
+BMID000000140548 Staphylococcus pseudintermedius (strain HKU10-03)
+BMID000000141869 Desulfurococcus mucosus (strain ATCC 35584 / DSM 2162 / JCM 9187 / O7/1)
+BMID000000141565 Treponema succinifaciens (strain ATCC 33096 / DSM 2489 / 6091)
+BMID000000140833 Populus trichocarpa
+BMID000000141354 Drosophila pseudoobscura pseudoobscura
+BMID000000140625 Mycoplasma pneumoniae (strain ATCC 29342 / M129)
+BMID000000142529 Clostridium acetobutylicum (strain EA 2018)
+BMID000000142837 Chlamydia trachomatis L2b/Ams4
+BMID000000142030 Prochlorococcus marinus (strain MIT 9515)
+BMID000000141964 Cyanothece sp. (strain PCC 8802)
+BMID000000141471 Streptococcus pseudopneumoniae (strain IS7493)
+BMID000000140214 Sulfurihydrogenibium azorense (strain Az-Fu1 / DSM 15241 / OCM 825)
+BMID000000142324 Borrelia garinii BgVir
+BMID000000142019 Deferribacter desulfuricans (strain DSM 14783 / JCM 11476 / NBRC 101012 / SSM1)
+BMID000000142814 Escherichia coli APEC O78
+BMID000000140260 Novosphingobium sp. PP1Y
+BMID000000142385 Ketogulonicigenium vulgare (strain WSH-001)
+BMID000000142278 Amphibacillus xylanus (strain ATCC 51415 / DSM 6626 / JCM 7361 / LMG 17667 / NBRC 15112 / Ep01)
+BMID000000140734 Sinorhizobium meliloti (strain AK83)
+BMID000000141023 Vibrio vulnificus (strain MO6-24/O)
+BMID000000141617 Lactobacillus rhamnosus (strain Lc 705)
+BMID000000141138 Haloquadratum walsbyi (strain DSM 16790 / HBSQ001)
+BMID000000141385 Campylobacter fetus subsp. fetus (strain 82-40)
+BMID000000142471 Methanoregula formicica (strain DSM 22288 / NBRC 105244 / SMSP)
+BMID000000142503 Cronobacter sakazakii ES15
+BMID000000141146 Mycoplasma fermentans (strain JER)
+BMID000000142484 Chlamydia trachomatis D/SotonD5
+BMID000000140279 Mycobacterium bovis BCG str. Mexico
+BMID000000140491 Streptococcus pneumoniae serotype 2 (strain D39 / NCTC 7466)
+BMID000000140855 Capnocytophaga canimorsus (strain 5)
+BMID000000142561 Chlamydia psittaci Mat116
+BMID000000140254 Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1)
+BMID000000140390 Lactobacillus kefiranofaciens (strain ZW3)
+BMID000000142121 Bacillus subtilis XF-1
+BMID000000140857 Lactococcus lactis subsp. lactis (strain IL1403)
+BMID000000141337 Chloroherpeton thalassium (strain ATCC 35110 / GB-78)
+BMID000000141454 Kitasatospora setae (strain ATCC 33774 / DSM 43861 / JCM 3304 / KCC A-0304 / NBRC 14216 / KM-6054)
+BMID000000141100 Dickeya dadantii (strain Ech703)
+BMID000000142132 Escherichia coli O78:H11 (strain H10407 / ETEC)
+BMID000000141677 Azotobacter vinelandii (strain DJ / ATCC BAA-1303)
+BMID000000142717 Pseudomonas aeruginosa NCGM2.S1
+BMID000000142007 Propionibacterium acnes TypeIA2 P.acn31
+BMID000000140387 Sideroxydans lithotrophicus (strain ES-1)
+BMID000000141699 Nocardia farcinica (strain IFM 10152)
+BMID000000141432 Cyanidioschyzon merolae strain 10D
+BMID000000141490 Metallosphaera sedula (strain ATCC 51363 / DSM 5348)
+BMID000000142575 Streptomyces hygroscopicus subsp. jinggangensis TL01
+BMID000000140488 Rickettsia typhi str. TH1527
+BMID000000141006 Escherichia coli O157:H7 str. EDL933
+BMID000000141323 Streptococcus pasteurianus (strain ATCC 43144 / JCM 5346 / CDC 1723-81)
+BMID000000140923 Mycobacterium tuberculosis (strain ATCC 25177 / H37Ra)
+BMID000000141496 Leadbetterella byssophila (strain DSM 17132 / KACC 11308 / 4M15)
+BMID000000140886 Salmonella typhimurium (strain D23580)
+BMID000000142364 Helicobacter pylori SNT49
+BMID000000142279 Taylorella equigenitalis 14/56
+BMID000000140765 Agrobacterium tumefaciens (strain C58 / ATCC 33970)
+BMID000000142784 Leishmania mexicana (strain MHOM/GT/2001/U1103)
+BMID000000141793 Lactobacillus delbrueckii subsp. bulgaricus (strain ND02)
+BMID000000142824 Neisseria meningitidis serogroup B (strain M01-240149)
+BMID000000141645 Lactobacillus casei (strain ATCC 334)
+BMID000000142405 Anabaena cylindrica (strain ATCC 27899 / PCC 7122)
+BMID000000142650 Chlamydophila pneumoniae (strain LPCoLN)
+BMID000000140860 Myxococcus xanthus (strain DK 1622)
+BMID000000142267 Modestobacter marinus
+BMID000000140518 Escherichia coli O8 (strain IAI1)
+BMID000000140657 Aeromonas veronii (strain B565)
+BMID000000142464 Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+BMID000000141588 Meyerozyma guilliermondii (strain ATCC 6260 / CBS 566 / DSM 6381 / JCM 1539 / NBRC 10279 / NRRL Y-324)
+BMID000000141137 Thermodesulfovibrio yellowstonii (strain ATCC 51303 / DSM 11347 / YP87)
+BMID000000140405 Rickettsia bellii (strain RML369-C)
+BMID000000141656 Thermococcus sp. AM4
+BMID000000140455 Intrasporangium calvum (strain ATCC 23552 / DSM 43043 / JCM 3097 / NBRC 12989 / 7 KIP)
+BMID000000140600 Hydrogenobaculum sp. (strain Y04AAS1)
+BMID000000141007 Bradyrhizobium sp. (strain ORS278)
+BMID000000141397 Syntrophothermus lipocalidus (strain DSM 12680 / TGB-C1)
+BMID000000142770 Francisella cf. novicida (strain Fx1)
+BMID000000142018 Hydra magnipapillata
+BMID000000142246 Bibersteinia trehalosi USDA-ARS-USMARC-192
+BMID000000142145 Chlamydia trachomatis L2/434/Bu(i)
+BMID000000141240 Moorella thermoacetica (strain ATCC 39073)
+BMID000000140523 Corynebacterium diphtheriae (strain ATCC 27012 / C7 (beta))
+BMID000000142520 Mycoplasma gallisepticum (strain R(high / passage 156))
+BMID000000141356 Zymomonas mobilis subsp. pomaceae (strain ATCC 29192 / JCM 10191 / NBRC 13757 / NCIMB 11200 / NRRL B-4491)
+BMID000000142068 Chlamydia trachomatis L2b/Ams1
+BMID000000140471 Cyanothece sp. (strain PCC 7822)
+BMID000000140395 Xylanimonas cellulosilytica (strain DSM 15894 / CECT 5975 / LMG 20990 / XIL07)
+BMID000000141260 Methylocella silvestris (strain BL2 / DSM 15510 / NCIMB 13906)
+BMID000000142841 Mycobacterium canettii CIPT 140070010
+BMID000000141517 Francisella tularensis subsp. novicida (strain U112)
+BMID000000141460 Methanobacterium sp. (strain SWAN-1)
+BMID000000141043 Pantoea vagans (strain C9-1)
+BMID000000142560 Bifidobacterium animalis subsp. lactis B420
+BMID000000140735 Alicyclobacillus acidocaldarius subsp. acidocaldarius (strain ATCC 27009 / DSM 446 / 104-1A)
+BMID000000141417 Chlorobium chlorochromatii (strain CaD3)
+BMID000000141743 Klebsiella oxytoca (strain ATCC 8724 / DSM 4798 / JCM 20051 / NBRC 3318 / NRRL B-199 / KCTC 1686)
+BMID000000140723 Salmonella dublin (strain CT_02021853)
+BMID000000140850 Sulfolobus islandicus (strain L.D.8.5 / Lassen #2)
+BMID000000141500 Enterobacter cloacae (strain SCF1)
+BMID000000142296 Streptococcus suis SS12
+BMID000000142376 Staphylococcus aureus (strain ECT-R 2)
+BMID000000140217 Janthinobacterium sp. (strain Marseille)
+BMID000000142739 Buchnera aphidicola subsp. Acyrthosiphon pisum (strain JF99)
+BMID000000140582 Acetobacterium woodii (strain ATCC 29683 / DSM 1030 / JCM 2381 / KCTC 1655)
+BMID000000141998 Drosophila melanogaster
+BMID000000142433 Coprococcus sp. ART55/1
+BMID000000142772 Pseudomonas stutzeri RCH2
+BMID000000141332 Sulfurihydrogenibium sp. (strain YO3AOP1)
+BMID000000142680 Candidatus Kinetoplastibacterium blastocrithidii TCC012E
+BMID000000140730 Staphylococcus aureus (strain ED98)
+BMID000000140838 Coprothermobacter proteolyticus (strain ATCC 35245 / DSM 5265 / BT)
+BMID000000140421 Acidithiobacillus ferrooxidans (strain ATCC 53993)
+BMID000000141387 Bifidobacterium longum subsp. longum (strain BBMN68)
+BMID000000141527 Clostridiales genomosp. BVAB3 (strain UPII9-5)
+BMID000000141414 Legionella pneumophila serogroup 1 (strain 2300/99 Alcoy)
+BMID000000141456 Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1)
+BMID000000141552 Porphyromonas gingivalis (strain ATCC BAA-308 / W83)
+BMID000000141316 Vibrio vulnificus (strain YJ016)
+BMID000000141423 Vibrio cholerae IEC224
+BMID000000142268 Thermogladius cellulolyticus (strain 1633)
+BMID000000141561 Lactobacillus reuteri (strain ATCC 55730 / SD2112)
+BMID000000142426 Staphylococcus aureus (strain JKD6008)
+BMID000000142380 uncultured Sulfuricurvum sp. RIFRC-1
+BMID000000140235 Bdellovibrio bacteriovorus (strain ATCC 15356 / DSM 50701 / NCIB 9529 / HD100)
+BMID000000141763 Leishmania major strain Friedlin
+BMID000000141479 Helicobacter pylori (strain J99 / ATCC 700824)
+BMID000000142771 Helicobacter pylori Puno135
+BMID000000141185 Mycoplasma hyopneumoniae (strain J / ATCC 25934 / NCTC 10110)
+BMID000000141514 Sulfolobus islandicus (strain Y.G.57.14 / Yellowstone #1)
+BMID000000140802 Nosema ceranae (strain BRL01)
+BMID000000141591 Rickettsia montanensis (strain OSU 85-930)
+BMID000000141670 Neorickettsia risticii (strain Illinois)
+BMID000000142358 Desulfocapsa sulfexigens (strain DSM 10523 / SB164P1)
+BMID000000142625 Staphylococcus aureus (strain TW20 / 0582)
+BMID000000140224 Polynucleobacter necessarius subsp. asymbioticus (strain DSM 18221 / CIP 109841 / QLW-P1DMWA-1)
+BMID000000142764 Chlamydia trachomatis serovar E (strain E/11023)
+BMID000000140983 Escherichia coli (strain K12 / MC4100 / BW2952)
+BMID000000141128 Pantoea sp. (strain At-9b)
+BMID000000141539 Desulfurococcus kamchatkensis (strain 1221n / DSM 18924)
+BMID000000141667 Dickeya dadantii (strain Ech586)
+BMID000000141634 Shewanella baltica (strain OS155 / ATCC BAA-1091)
+BMID000000140290 Zobellia galactanivorans (strain DSM 12802 / CIP 106680 / NCIMB 13871 / Dsij)
+BMID000000142585 Mycobacterium tuberculosis CTRI-2
+BMID000000141046 Bordetella petrii (strain ATCC BAA-461 / DSM 12804 / CCUG 43448)
+BMID000000142046 Desulfosporosinus orientis (strain ATCC 19365 / DSM 765 / NCIMB 8382 / VKM B-1628)
+BMID000000140400 Eubacterium limosum (strain KIST612)
+BMID000000140778 Treponema pallidum subsp. pertenue (strain Gauthier)
+BMID000000141427 Chlorobium tepidum (strain ATCC 49652 / DSM 12025 / TLS)
+BMID000000140576 Salmonella typhimurium (strain ATCC 68169 / UK-1)
+BMID000000141406 Wolbachia pipientis wMel
+BMID000000141125 Haliscomenobacter hydrossis (strain ATCC 27775 / DSM 1100 / LMG 10767 / O)
+BMID000000141438 Rickettsia heilongjiangensis (strain ATCC VR-1524 / 054)
+BMID000000142498 Mycoplasma haemolamae (strain Purdue)
+BMID000000142365 Escherichia coli LF82
+BMID000000142285 Sinorhizobium fredii USDA 257
+BMID000000142564 Borrelia garinii NMJW1
+BMID000000141092 Escherichia coli (strain UTI89 / UPEC)
+BMID000000141842 Alkaliphilus metalliredigens (strain QYMF)
+BMID000000140346 Blochmannia floridanus
+BMID000000140265 Leuconostoc gasicomitatum (strain DSM 15947 / CECT 5767 / JCM 12535 / LMG 18811 / TB1-10)
+BMID000000140501 Streptococcus thermophilus (strain CNRZ 1066)
+BMID000000142169 Corynebacterium ulcerans 0102
+BMID000000141133 Nitrosococcus halophilus (strain Nc4)
+BMID000000141720 Pseudoalteromonas atlantica (strain T6c / ATCC BAA-1087)
+BMID000000141402 Burkholderia sp. (strain 383)
+BMID000000142767 Burkholderia phenoliruptrix BR3459a
+BMID000000140285 Salinibacter ruber (strain M8)
+BMID000000142454 Escherichia coli O44:H18 (strain 042 / EAEC)
+BMID000000140355 Escherichia coli (strain SMS-3-5 / SECEC)
+BMID000000140349 Neisseria meningitidis (strain alpha14)
+BMID000000140520 Medicago truncatula
+BMID000000142229 Marinobacter sp. BSs20148
+BMID000000141985 Actinobacillus pleuropneumoniae serotype 3 (strain JL03)
+BMID000000141912 Chlorobaculum parvum (strain NCIB 8327)
+BMID000000142116 Thermoanaerobacterium saccharolyticum (strain DSM 8691 / JW/SL-YS485)
+BMID000000140541 Baumannia cicadellinicola subsp. Homalodisca coagulata
+BMID000000142829 Methanosaeta harundinacea (strain 6Ac)
+BMID000000140333 Phycisphaera mikurensis (strain NBRC 102666 / KCTC 22515 / FYK2301M01)
+BMID000000141484 Sulfolobus acidocaldarius (strain ATCC 33909 / DSM 639 / JCM 8929 / NBRC 15157 / NCIMB 11770)
+BMID000000140893 Plasmodium chabaudi chabaudi
+BMID000000140222 Escherichia coli str. K-12 substr. MG1655
+BMID000000140832 Dinoroseobacter shibae (strain DFL 12)
+BMID000000142562 Mycoplasma genitalium M6282
+BMID000000142499 Candidatus Kinetoplastibacterium galatii TCC219
+BMID000000142275 Pyrococcus furiosus COM1
+BMID000000141804 Sulfurimonas autotrophica (strain ATCC BAA-671 / DSM 16294 / JCM 11897 / OK10)
+BMID000000141902 Methanococcus aeolicus (strain Nankai-3 / ATCC BAA-1280)
+BMID000000140301 Borrelia recurrentis (strain A1)
+BMID000000140295 Eubacterium rectale (strain ATCC 33656 / VPI 0990)
+BMID000000142153 Felis catus
+BMID000000140794 Thermotoga naphthophila (strain ATCC BAA-489 / DSM 13996 / JCM 10882 / RKU-10)
+BMID000000141996 Shewanella baltica (strain OS223)
+BMID000000140936 Leptospira borgpetersenii serovar Hardjo-bovis (strain L550)
+BMID000000141716 Nanoarchaeum equitans (strain Kin4-M)
+BMID000000142606 Candidatus Nitrosopumilus sp. AR2
+BMID000000142328 Neisseria meningitidis serogroup B (strain alpha710)
+BMID000000141681 Thermoanaerobacterium xylanolyticum (strain ATCC 49914 / DSM 7097 / LX-11)
+BMID000000140291 Bacillus cereus (strain ATCC 14579 / DSM 31)
+BMID000000140528 Drosophila erecta
+BMID000000140819 Rhodopseudomonas palustris (strain TIE-1)
+BMID000000142177 Listeria monocytogenes SLCC2378
+BMID000000141599 Ailuropoda melanoleuca
+BMID000000140427 Escherichia coli (strain K12 / W3110 / ATCC 27325 / DSM 5911)
+BMID000000140745 Vibrio cholerae serotype O1 (strain MJ-1236)
+BMID000000142382 Chlamydia trachomatis K/SotonK1
+BMID000000140982 Mycoplasma mycoides subsp. mycoides SC (strain PG1)
+BMID000000142346 Alteromonas macleodii ATCC 27126
+BMID000000140216 Staphylococcus aureus (strain bovine RF122 / ET3-1)
+BMID000000140317 Equus caballus
+BMID000000141080 Picrophilus torridus (strain ATCC 700027 / DSM 9790 / JCM 10055 / NBRC 100828)
+BMID000000140308 Leptospira borgpetersenii serovar Hardjo-bovis (strain JB197)
+BMID000000142342 Lactobacillus helveticus (strain H10)
+BMID000000141752 Propionibacterium acnes TypeIA2 P.acn17
+BMID000000141584 Bacillus thuringiensis subsp. finitimus (strain YBT-020)
+BMID000000141155 Burkholderia cenocepacia (strain HI2424)
+BMID000000141225 Streptococcus pyogenes serotype M3 (strain SSI-1)
+BMID000000141782 Methanoculleus marisnigri (strain ATCC 35101 / DSM 1498 / JR1)
+BMID000000141003 Treponema denticola (strain ATCC 35405 / CIP 103919 / DSM 14222)
+BMID000000141696 Tetraodon nigroviridis
+BMID000000141347 Idiomarina loihiensis (strain ATCC BAA-735 / DSM 15497 / L2-TR)
+BMID000000141455 Apis mellifera
+BMID000000142188 Calothrix sp. PCC 7507
+BMID000000141590 Bacillus anthracis str. 'Ames Ancestor'
+BMID000000141938 Parvibaculum lavamentivorans (strain DS-1 / DSM 13023 / NCIMB 13966)
+BMID000000142297 Arthrobacter sp. Rue61a
+BMID000000141582 Polaromonas naphthalenivorans (strain CJ2)
+BMID000000141742 Escherichia coli O157:H7 (strain EC4115 / EHEC)
+BMID000000141024 Streptococcus pneumoniae (strain Taiwan19F-14)
+BMID000000141941 Vibrio anguillarum (strain ATCC 68554 / 775)
+BMID000000141010 Chlamydophila pneumoniae J138
+BMID000000141746 Rickettsia prowazekii str. GvV257
+BMID000000141628 Corynebacterium diphtheriae (strain HC01)
+BMID000000141891 Rhizobium leguminosarum bv. trifolii (strain WSM1325)
+BMID000000140345 Meleagris gallopavo
+BMID000000141012 Aeromonas hydrophila subsp. hydrophila (strain ATCC 7966 / NCIB 9240)
+BMID000000142088 Chlamydia trachomatis L2b/LST
+BMID000000142704 Streptococcus suis (strain GZ1)
+BMID000000142528 Streptococcus suis (strain JS14)
+BMID000000140597 Treponema pallidum (strain Nichols)
+BMID000000140671 Clostridium botulinum (strain Okra / Type B1)
+BMID000000140367 Cellulomonas fimi (strain ATCC 484 / DSM 20113 / JCM 1341 / NBRC 15513 / NCIMB 8980 / NCTC 7547)
+BMID000000141821 Salmonella schwarzengrund (strain CVM19633)
+BMID000000141190 Methanococcus maripaludis (strain C7 / ATCC BAA-1331)
+BMID000000140713 Desulfovibrio desulfuricans (strain ATCC 27774 / DSM 6949)
+BMID000000141890 Bacillus pseudofirmus (strain OF4)
+BMID000000140402 Clostridium sticklandii (strain ATCC 12662 / DSM 519 / JCM 1433 / NCIB 10654)
+BMID000000141803 Sulcia muelleri (strain CARI)
+BMID000000140864 Methylobacterium populi (strain ATCC BAA-705 / NCIMB 13946 / BJ001)
+BMID000000140914 Xanthomonas albilineans (strain GPE PC73 / CFBP 7063)
+BMID000000142021 Pyrobaculum oguniense (strain DSM 13380 / JCM 10595 / TE7)
+BMID000000142312 Chlamydia trachomatis L2b/CV204
+BMID000000141244 Salmonella enterica subsp. enterica serovar Typhimurium str. 798
+BMID000000140964 Vitis vinifera
+BMID000000140695 Erysipelothrix rhusiopathiae (strain Fujisawa)
+BMID000000140690 Planctomyces limnophilus (strain ATCC 43296 / DSM 3776 / IFAM 1008 / 290)
+BMID000000141727 Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC)
+BMID000000141428 Bordetella pertussis (strain Tohama I / ATCC BAA-589 / NCTC 13251)
+BMID000000140621 Azorhizobium caulinodans (strain ATCC 43989 / DSM 5975 / ORS 571)
+BMID000000141242 Helicobacter acinonychis (strain Sheeba)
+BMID000000140546 Desulfobacca acetoxidans (strain ATCC 700848 / DSM 11109 / ASRB2)
+BMID000000141129 Meiothermus silvanus (strain ATCC 700542 / DSM 9946 / VI-R2)
+BMID000000140658 Plasmodium vivax (strain Salvador I)
+BMID000000141279 Melissococcus plutonius (strain DAT561)
+BMID000000140227 Burkholderia mallei (strain NCTC 10247)
+BMID000000140593 Pusillimonas sp. (strain T7-7)
+BMID000000142322 Propionibacterium avidum 44067
+BMID000000140962 Geobacter uraniireducens (strain Rf4)
+BMID000000142607 Bifidobacterium breve (strain NCIMB 8807 / UCC2003)
+BMID000000140372 Cryptococcus neoformans var. neoformans serotype D (strain JEC21 / ATCC MYA-565)
+BMID000000140839 Shewanella piezotolerans (strain WP3 / JCM 13877)
+BMID000000142788 Bordetella bronchiseptica 253
+BMID000000141301 Deinococcus proteolyticus (strain ATCC 35074 / DSM 20540 / JCM 6276 / NBRC 101906 / NCIMB 13154 / VKM Ac-1939 / CCM 2703)
+BMID000000142566 Riemerella anatipestifer (strain RA-GD)
+BMID000000142230 Sinorhizobium meliloti (strain BL225C)
+BMID000000141343 Delftia sp. (strain Cs1-4)
+BMID000000142782 Chlamydia trachomatis L2b/Canada2
+BMID000000141214 Amoebophilus asiaticus (strain 5a2)
+BMID000000141334 Fusobacterium nucleatum subsp. nucleatum (strain ATCC 25586 / CIP 101130 / JCM 8532 / LMG 13131)
+BMID000000140862 Helicobacter pylori (strain B38)
+BMID000000142425 Calothrix sp. PCC 6303
+BMID000000141676 Pasteurella multocida (strain Pm70)
+BMID000000141145 Tetrahymena thermophila (strain SB210)
+BMID000000142501 Chlamydia trachomatis serovar G (strain G/11074)
+BMID000000140737 Prosthecochloris vibrioformis (strain DSM 265)
+BMID000000142293 Streptococcus pneumoniae gamPNI0373
+BMID000000142192 Shewanella baltica BA175
+BMID000000140441 Chlamydophila caviae (strain GPIC)
+BMID000000140553 Bacillus megaterium (strain ATCC 12872 / QMB1551)
+BMID000000140294 Rhodomicrobium vannielii (strain ATCC 17100 / ATH 3.1.1 / DSM 162 / LMG 4299)
+BMID000000141157 Rickettsia africae (strain ESF-5)
+BMID000000141042 Pseudomonas fluorescens F113
+BMID000000141103 Tribolium castaneum
+BMID000000140566 Bos taurus
+BMID000000141563 Rhodospirillum centenum (strain ATCC 51521 / SW)
+BMID000000140572 Dehalogenimonas lykanthroporepellens (strain ATCC BAA-1523 / JCM 15061 / BL-DC-9)
+BMID000000141365 Marinomonas posidonica (strain CECT 7376 / NCIMB 14433 / IVIA-Po-181)
+BMID000000141513 Thermomonospora curvata (strain ATCC 19995 / DSM 43183 / JCM 3096 / NCIMB 10081)
+BMID000000140410 Persephonella marina (strain DSM 14350 / EX-H1)
+BMID000000142340 Chlamydia trachomatis A/5291
+BMID000000141497 Acidithiobacillus ferrooxidans (strain ATCC 23270 / DSM 14882 / NCIB 8455)
+BMID000000141150 Candidatus Nitrospira defluvii
+BMID000000140331 Streptobacillus moniliformis (strain ATCC 14647 / DSM 12112 / NCTC 10651 / 9901)
+BMID000000142648 Fibrobacter succinogenes (strain ATCC 19169 / S85)
+BMID000000141205 Sulfolobus islandicus (strain L.S.2.15 / Lassen #1)
+BMID000000141849 Staphylothermus marinus (strain ATCC 43588 / DSM 3639 / F1)
+BMID000000142490 Escherichia coli O7:K1 str. CE10
+BMID000000141052 Escherichia coli (strain ATCC 55124 / KO11)
+BMID000000142274 Chlamydia trachomatis G/SotonG1
+BMID000000141698 Haemophilus influenzae F3031
+BMID000000142615 Eubacterium rectale M104/1
+BMID000000142263 Streptococcus pneumoniae (strain ST556)
+BMID000000140736 Sphingobium chlorophenolicum L-1
+BMID000000140710 Shigella boydii serotype 18 (strain CDC 3083-94 / BS512)
+BMID000000141132 Acidithiobacillus ferrivorans SS3
+BMID000000142171 Leuconostoc gelidum (strain JB7)
+BMID000000141568 Gluconacetobacter diazotrophicus (strain ATCC 49037 / DSM 5601 / PAl5)
+BMID000000142839 Bacillus amyloliquefaciens Y2
+BMID000000140782 Halomonas elongata (strain ATCC 33173 / DSM 2581 / NBRC 15536 / NCIMB 2198 / 1H9)
+BMID000000140769 Shigella flexneri 2a str. 2457T
+BMID000000140847 Chlamydophila felis (strain Fe/C-56)
+BMID000000142472 Chlamydia trachomatis E/SotonE8
+BMID000000141833 Porphyromonas gingivalis (strain ATCC 33277 / DSM 20709 / JCM 12257)
+BMID000000140711 Salmonella typhimurium (strain SL1344)
+BMID000000140283 Listeria ivanovii (strain ATCC BAA-678 / PAM 55)
+BMID000000140980 Erwinia carotovora subsp. atroseptica (strain SCRI 1043 / ATCC BAA-672)
+BMID000000141657 Clostridium botulinum (strain Alaska E43 / Type E3)
+BMID000000140431 Hydrogenobaculum sp. SN
+BMID000000142024 Helicobacter pylori (strain P12)
+BMID000000140414 Clostridium cellulolyticum (strain ATCC 35319 / DSM 5812 / JCM 6584 / H10)
+BMID000000141671 Streptococcus dysgalactiae subsp. equisimilis (strain GGS_124)
+BMID000000140714 Pseudomonas syringae pv. syringae (strain B728a)
+BMID000000140715 Mobiluncus curtisii (strain ATCC 43063 / DSM 2711 / V125)
+BMID000000142262 Dehalococcoides mccartyi DCMB5
+BMID000000142373 Zymomonas mobilis subsp. mobilis ATCC 29191
+BMID000000141345 Rickettsia rickettsii (strain Iowa)
+BMID000000140873 Hamiltonella defensa subsp. Acyrthosiphon pisum (strain 5AT)
+BMID000000140856 Shewanella baltica (strain OS195)
+BMID000000141576 Listeria monocytogenes serovar 1/2a (strain ATCC BAA-679 / EGD-e)
+BMID000000141859 Malassezia globosa (strain ATCC MYA-4612 / CBS 7966)
+BMID000000142082 Nocardia brasiliensis ATCC 700358
+BMID000000141026 Methylococcus capsulatus (strain ATCC 33009 / NCIMB 11132 / Bath)
+BMID000000142763 Thermoplasmatales archaeon BRNA1
+BMID000000140742 Chlamydophila psittaci (strain ATCC VR-125 / 6BC)
+BMID000000141292 Corynebacterium diphtheriae (strain PW8)
+BMID000000140397 Edwardsiella tarda (strain EIB202)
+BMID000000142213 Natrinema pellirubrum (strain DSM 15624 / JCM 10476 / NCIMB 786)
+BMID000000140872 Lactobacillus fermentum (strain NBRC 3956 / LMG 18251)
+BMID000000141817 Orientia tsutsugamushi (strain Ikeda)
+BMID000000140666 Kribbella flavida (strain DSM 17836 / JCM 10339 / NBRC 14399)
+BMID000000141839 Escherichia coli O6:K15:H31 (strain 536 / UPEC)
+BMID000000142447 Chlamydia trachomatis F/SW4
+BMID000000141544 Enterobacter sp. (strain 638)
+BMID000000142556 Sulfolobus islandicus LAL14/1
+BMID000000141630 Salmonella enterica subsp. enterica serovar Typhi str. P-stx-12
+BMID000000141126 Propionibacterium freudenreichii subsp. shermanii (strain ATCC 9614 / CIP 103027 / CIRM-BIA1)
+BMID000000142658 Rhodanobacter sp. 2APBS1
+BMID000000140970 Methanosaeta concilii (strain ATCC 5969 / DSM 3671 / JCM 10134 / NBRC 103675 / OCM 69 / GP-6)
+BMID000000142219 Bifidobacterium thermophilum RBL67
+BMID000000142371 Pseudomonas stutzeri DSM 10701
+BMID000000140930 Volvox carteri f. nagariensis
+BMID000000141285 Escherichia coli O9:H4 (strain HS)
+BMID000000140987 Staphylococcus aureus subsp. aureus VC40
+BMID000000140812 Tsukamurella paurometabola (strain ATCC 8368 / DSM 20162 / JCM 10117 / NBRC 16120 / NCTC 13040)
+BMID000000140831 Gardnerella vaginalis (strain 409-05)
+BMID000000141750 gamma proteobacterium HdN1
+BMID000000141153 Chlorobium limicola (strain DSM 245 / NBRC 103803)
+BMID000000141036 Nocardia cyriacigeorgica (strain GUH-2)
+BMID000000141375 Yersinia pestis bv. Antiqua (strain Nepal516)
+BMID000000142702 Candidatus Mycoplasma haemominutum 'Birmingham 1'
+BMID000000141376 Phenylobacterium zucineum (strain HLK1)
+BMID000000142452 Paenibacillus mucilaginosus K02
+BMID000000141004 Corynebacterium pseudotuberculosis P54B96
+BMID000000142834 Sulfolobus solfataricus (strain 98/2)
+BMID000000142511 Escherichia coli (strain ATCC 9637 / CCM 2024 / DSM 1116 / NCIMB 8666 / NRRL B-766 / W)
+BMID000000140709 Ochrobactrum anthropi (strain ATCC 49188 / DSM 6882 / NCTC 12168)
+BMID000000142090 Ralstonia solanacearum (strain Po82)
+BMID000000141063 Mycoplasma capricolum subsp. capricolum (strain California kid / ATCC 27343 / NCTC 10154)
+BMID000000141615 Treponema paraluiscuniculi (strain Cuniculi A)
+BMID000000141230 Spirosoma linguale (strain ATCC 33905 / DSM 74 / LMG 10896)
+BMID000000142228 Gordonia sp. KTR9
+BMID000000140830 Ferroglobus placidus (strain DSM 10642 / AEDII12DO)
+BMID000000142379 Pan paniscus
+BMID000000141171 Treponema pallidum subsp. pertenue (strain CDC2)
+BMID000000142434 Propionibacterium acnes HL096PA1
+BMID000000141065 Enterobacter cloacae EcWSU1
+BMID000000142844 Escherichia coli Xuzhou21
+BMID000000140433 Brachyspira pilosicoli (strain ATCC BAA-1826 / 95/1000)
+BMID000000140806 Xanthomonas oryzae pv. oryzae (strain PXO99A)
+BMID000000140931 Elusimicrobium minutum (strain Pei191)
+BMID000000141407 Nitrosomonas europaea (strain ATCC 19718 / NBRC 14298)
+BMID000000141051 Burkholderia cenocepacia (strain MC0-3)
+BMID000000141307 Isoptericola variabilis (strain 225)
+BMID000000141211 Staphylococcus lugdunensis (strain HKU09-01)
+BMID000000140942 Ostreococcus tauri
+BMID000000142016 Sulfolobus islandicus (strain Y.N.15.51 / Yellowstone #2)
+BMID000000142245 Chlamydia trachomatis IU824
+BMID000000141107 Lactobacillus johnsonii (strain FI9785)
+BMID000000141437 Arcobacter butzleri ED-1
+BMID000000142008 Porphyromonas asaccharolytica (strain ATCC 25260 / DSM 20707 / VPI 4198)
+BMID000000142679 Desulfomonile tiedjei (strain ATCC 49306 / DSM 6799 / DCB-1)
+BMID000000140842 Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)
+BMID000000141848 Jannaschia sp. (strain CCS1)
+BMID000000141525 Daphnia pulex
+BMID000000140639 Entamoeba dispar (strain ATCC PRA-260 / SAW760)
+BMID000000140302 Tremblaya princeps (strain PCIT)
+BMID000000141464 Arabidopsis lyrata subsp. lyrata
+BMID000000140744 Pasteurella multocida 36950
+BMID000000140633 Buchnera aphidicola str. Ak (Acyrthosiphon kondoi)
+BMID000000141284 Dehalococcoides sp. (strain BAV1)
+BMID000000142117 Plasmodium cynomolgi strain B
+BMID000000141297 Escherichia coli O26:H11 (strain 11368 / EHEC)
+BMID000000141209 Streptococcus gallolyticus (strain ATCC BAA-2069)
+BMID000000142497 Candidatus Portiera aleyrodidarum BT-QVLC
+BMID000000140532 Beijerinckia indica subsp. indica (strain ATCC 9039 / DSM 1715 / NCIB 8712)
+BMID000000141258 Ustilago maydis (strain 521 / FGSC 9021)
+BMID000000142821 Chlamydia trachomatis L2b/Ams2
+BMID000000140250 Bacillus anthracis str. Sterne
+BMID000000142465 Nocardiopsis alba (strain ATCC BAA-2165 / BE74)
+BMID000000140573 Coccidioides posadasii (strain C735)
+BMID000000142833 Salmonella enterica subsp. enterica serovar Typhi str. Ty21a
+BMID000000140926 Geobacter metallireducens (strain GS-15 / ATCC 53774 / DSM 7210)
+BMID000000141844 Thermovibrio ammonificans (strain DSM 15698 / JCM 12110 / HB-1)
+BMID000000140682 Zygosaccharomyces rouxii (strain ATCC 2623 / CBS 732 / NBRC 1130 / NCYC 568 / NRRL Y-229)
+BMID000000142080 Borrelia crocidurae (strain Achema)
+BMID000000141048 Yersinia pestis (strain Z176003)
+BMID000000140316 Bartonella bacilliformis (strain ATCC 35685 / KC583)
+BMID000000142265 Clostridium cf. saccharolyticum K10
+BMID000000142410 Corynebacterium glutamicum (strain ATCC 13032 / K051)
+BMID000000142581 Listeria monocytogenes SLCC2372
+BMID000000142248 Dehalobacter sp. DCA
+BMID000000140938 Paramecium tetraurelia strain d4-2
+BMID000000141820 Azospirillum sp. (strain B510)
+BMID000000141033 Pyrococcus horikoshii (strain ATCC 700860 / DSM 12428 / JCM 9974 / NBRC 100139 / OT-3)
+BMID000000142597 Escherichia coli O104:H4 (strain 2009EL-2071)
+BMID000000142202 Chlamydia trachomatis serovar D (strain D-EC)
+BMID000000140256 Streptococcus agalactiae serotype Ia (strain ATCC 27591 / A909 / CDC SS700)
+BMID000000142071 Cyanobacterium stanieri (strain ATCC 29140 / PCC 7202)
+BMID000000140953 Ralstonia solanacearum CFBP2957
+BMID000000142180 Lactobacillus casei W56
+BMID000000140483 Yersinia pseudotuberculosis serotype IB (strain PB1/+)
+BMID000000141913 Leuconostoc mesenteroides subsp. mesenteroides (strain ATCC 8293 / NCDO 523)
+BMID000000140329 Listeria welshimeri serovar 6b (strain ATCC 35897 / DSM 20650 / SLCC5334)
+BMID000000141070 Sebaldella termitidis (strain ATCC 33386 / NCTC 11300)
+BMID000000140898 Anabaena variabilis (strain ATCC 29413 / PCC 7937)
+BMID000000142567 Candidatus Liberibacter asiaticus str. gxpsy
+BMID000000142128 Chlamydia psittaci 01DC12
+BMID000000142804 Enterococcus sp. 7L76
+BMID000000140472 Staphylococcus aureus (strain USA300 / TCH1516)
+BMID000000140738 Yersinia pestis A1122
+BMID000000142494 Neisseria meningitidis serogroup B (strain M01-240355)
+BMID000000142144 Mycoplasma haemofelis (strain Ohio2)
+BMID000000140620 Komagataella pastoris (strain GS115 / ATCC 20864)
+BMID000000141760 Escherichia coli (strain ATCC 8739 / DSM 1576 / Crooks)
+BMID000000140476 Shigella sonnei 53G
+BMID000000141241 Deinococcus radiodurans (strain ATCC 13939 / DSM 20539 / JCM 16871 / LMG 4051 / NBRC 15346 / NCIMB 9279 / R1 / VKM B-1422)
+BMID000000141611 Xanthomonas oryzae pv. oryzae (strain KACC10331 / KXO85)
+BMID000000142768 Chlamydia trachomatis L1/1322/p2
+BMID000000142609 Staphylococcus aureus subsp. aureus 71193
+BMID000000140570 Sphingobium japonicum (strain NBRC 101211 / UT26S)
+BMID000000142711 Lactococcus lactis subsp. cremoris A76
+BMID000000141805 Streptococcus agalactiae serotype V (strain ATCC BAA-611 / 2603 V/R)
+BMID000000141864 Maricaulis maris (strain MCS10)
+BMID000000141315 Trichomonas vaginalis G3
+BMID000000140664 Thermoproteus tenax (strain ATCC 35583 / NBRC 100435 / JCM 9277 / Kra 1)
+BMID000000140717 Desulfotalea psychrophila (strain LSv54 / DSM 12343)
+BMID000000142237 Tetrapisispora phaffii (strain ATCC 24235 / CBS 4417 / NBRC 1672 / NRRL Y-8282 / UCD 70-5)
+BMID000000141215 Acetobacter pasteurianus IFO 3283-26
+BMID000000142141 Klebsiella pneumoniae subsp. pneumoniae 1084
+BMID000000141143 Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)
+BMID000000140578 Mycobacterium sp. (strain Spyr1)
+BMID000000140940 Carsonella ruddii (strain PV)
+BMID000000140935 Oceanobacillus iheyensis (strain DSM 14371 / JCM 11309 / KCTC 3954 / HTE831)
+BMID000000141361 Escherichia fergusonii (strain ATCC 35469 / DSM 13698 / CDC 0568-73)
+BMID000000140911 Haloarcula hispanica (strain ATCC 33960 / DSM 4426 / JCM 8911 / NBRC 102182 / NCIMB 2187 / VKM B-1755)
+BMID000000140360 Rickettsia canadensis str. CA410
+BMID000000141035 Helicobacter pylori ELS37
+BMID000000140323 Mycoplasma pulmonis (strain UAB CTIP)
+BMID000000141259 Alicycliphilus denitrificans (strain DSM 14773 / CIP 107495 / K601)
+BMID000000140275 Thiobacillus denitrificans (strain ATCC 25259)
+BMID000000141993 Rhodococcus opacus (strain B4)
+BMID000000142060 Streptococcus pyogenes Alab49
+BMID000000142198 Campylobacter jejuni subsp. jejuni serotype HS21 (strain M1 / 99/308)
+BMID000000141524 Thiomonas intermedia (strain K12)
+BMID000000140211 Pelagibacter sp. (strain IMCC9063)
+BMID000000140413 Pirellula staleyi (strain ATCC 27377 / DSM 6068 / ICPB 4128)
+BMID000000142170 Clostridium stercorarium subsp. stercorarium (strain ATCC 35414 / DSM 8532 / NCIMB 11754)
+BMID000000140385 Anaeromyxobacter dehalogenans (strain 2CP-1 / ATCC BAA-258)
+BMID000000142316 Candidatus Methanomethylophilus alvus Mx1201
+BMID000000140347 Aggregatibacter actinomycetemcomitans ANH9381
+BMID000000141830 Rickettsia japonica (strain ATCC VR-1363 / YH)
+BMID000000142311 Francisella noatunensis subsp. orientalis (strain Toba 04)
+BMID000000141626 Halopiger xanaduensis (strain DSM 18323 / JCM 14033 / SH-6)
+BMID000000141482 Chlamydia trachomatis (strain L2c)
+BMID000000141692 Staphylococcus epidermidis (strain ATCC 12228)
+BMID000000140990 Rickettsia philipii (strain 364D)
+BMID000000141473 Shigella dysenteriae serotype 1 (strain Sd197)
+BMID000000141257 Bacillus thuringiensis (strain BMB171)
+BMID000000140460 Mycobacterium abscessus (strain ATCC 19977 / DSM 44196)
+BMID000000142517 Gorilla gorilla gorilla
+BMID000000140505 Escherichia coli (strain B / REL606)
+BMID000000140529 Nitrosomonas sp. AL212
+BMID000000140783 Cupriavidus taiwanensis LMG 19424
+BMID000000142835 Helicobacter pylori (strain 52)
+BMID000000141248 Methanoregula boonei (strain 6A8)
+BMID000000142706 Lactococcus lactis subsp. lactis (strain CV56)
+BMID000000141218 Burkholderia cenocepacia (strain AU 1054)
+BMID000000141795 Thermococcus gammatolerans (strain DSM 15229 / JCM 11827 / EJ3)
+BMID000000142728 Mycobacterium chubuense (strain NBB4)
+BMID000000141744 Desulfarculus baarsii (strain ATCC 33931 / DSM 2075 / VKM B-1802 / 2st14)
+BMID000000142073 Lactococcus lactis subsp. cremoris (strain NZ9000)
+BMID000000141495 Bifidobacterium animalis subsp. lactis (strain BB-12)
+BMID000000140550 Sphingomonas wittichii (strain RW1 / DSM 6014 / JCM 10273)
+BMID000000141643 Mycobacterium bovis (strain BCG / Tokyo 172 / ATCC 35737 / TMC 1019)
+BMID000000141555 Staphylococcus aureus (strain MRSA252)
+BMID000000142721 Burkholderia pseudomallei 1026b
+BMID000000141031 Bacillus thuringiensis serovar chinensis CT-43
+BMID000000141636 Streptococcus pneumoniae (strain CGSP14)
+BMID000000141832 Leptospira interrogans serogroup Icterohaemorrhagiae serovar Lai (strain 56601)
+BMID000000140564 Phytophthora infestans (strain T30-4)
+BMID000000141037 Acidothermus cellulolyticus (strain ATCC 43068 / 11B)
+BMID000000140902 Halorhabdus utahensis (strain DSM 12940 / JCM 11049 / AX-2)
+BMID000000141502 Escherichia coli O139:H28 (strain E24377A / ETEC)
+BMID000000142518 Gordonibacter pamelaeae 7-10-1-b
+BMID000000140362 Rhodococcus sp. (strain RHA1)
+BMID000000140743 Cellulomonas flavigena (strain ATCC 482 / DSM 20109 / NCIB 8073 / NRS 134)
+BMID000000142054 Lactobacillus casei (strain LC2W)
+BMID000000141372 Actinobacillus pleuropneumoniae serotype 5b (strain L20)
+BMID000000141641 Acholeplasma laidlawii (strain PG-8A)
+BMID000000142077 Clostridium saccharoperbutylacetonicum N1-4(HMT)
+BMID000000141163 Serratia plymuthica (strain AS9)
+BMID000000140705 Meiothermus ruber (strain ATCC 35948 / DSM 1279 / VKM B-1258 / 21)
+BMID000000141992 Mycoplasma hyorhinis GDL-1
+BMID000000140973 Allochromatium vinosum (strain ATCC 17899 / DSM 180 / NBRC 103801 / D)
+BMID000000142761 Streptococcus pyogenes MGAS1882
+BMID000000140683 Gordonia polyisoprenivorans (strain DSM 44266 / VH2)
+BMID000000141089 Pyrobaculum neutrophilum (strain DSM 2338 / JCM 9278 / V24Sta)
+BMID000000141972 Halobacterium salinarum (strain ATCC 29341 / DSM 671 / R1)
+BMID000000141583 Helicobacter felis (strain ATCC 49179 / NCTC 12436 / CS1)
+BMID000000140486 Legionella pneumophila (strain Lens)
+BMID000000142002 Staphylococcus carnosus (strain TM300)
+BMID000000142181 Ilumatobacter coccineum YM16-304
+BMID000000142801 Klebsiella pneumoniae KCTC 2242
+BMID000000142234 Mannheimia haemolytica M42548
+BMID000000141119 Geobacillus sp. (strain Y412MC52)
+BMID000000141871 Xenorhabdus bovienii (strain SS-2004)
+BMID000000142811 Chlamydia trachomatis L2/434/Bu(f)
+BMID000000142670 Blattabacterium sp. (Blaberus giganteus)
+BMID000000142655 Bacillus amyloliquefaciens subsp. plantarum YAU B9601-Y2
+BMID000000142816 Staphylococcus aureus (strain TCH60)
+BMID000000141639 Sphaerochaeta globosa (strain ATCC BAA-1886 / DSM 22777 / Buddy)
+BMID000000140605 Legionella pneumophila (strain Paris)
+BMID000000141807 Methylobacterium sp. (strain 4-46)
+BMID000000142029 Shewanella baltica (strain OS678)
+BMID000000142532 Desulfobacula toluolica (strain DSM 7467 / Tol2)
+BMID000000140229 Corynebacterium diphtheriae (strain VA01)
+BMID000000142619 Mycobacterium smegmatis JS623
+BMID000000142185 Candidatus Endolissoclinum patella L2
+BMID000000141838 Geodermatophilus obscurus (strain ATCC 25078 / DSM 43160 / JCM 3152 / G-20)
+BMID000000141939 Actinosynnema mirum (strain ATCC 29888 / DSM 43827 / NBRC 14064 / IMRU 3971)
+BMID000000142790 Enterococcus faecium NRRL B-2354
+BMID000000141025 Buchnera aphidicola subsp. Cinara cedri (strain Cc)
+BMID000000142247 Phaeobacter gallaeciensis (strain 2.10)
+BMID000000141937 Campylobacter curvus (strain 525.92)
+BMID000000141389 Desulfurispirillum indicum (strain ATCC BAA-1389 / S5)
+BMID000000140530 Bacillus licheniformis (strain DSM 13 / ATCC 14580)
+BMID000000142787 Listeria monocytogenes serotype 4a (strain L99)
+BMID000000142682 Ruminococcus torques L2-14
+BMID000000141243 Pseudomonas aeruginosa (strain LESB58)
+BMID000000140946 Spirochaeta smaragdinae (strain DSM 11293 / JCM 15392 / SEBR 4228)
+BMID000000141392 Trichoplax adhaerens
+BMID000000142406 Escherichia coli (strain ATCC 33849 / DSM 4235 / NCIB 12045 / K12 / DH1)
+BMID000000141124 Geobacter sp. (strain FRC-32)
+BMID000000142225 Listeria monocytogenes serotype 4b str. LL195
+BMID000000141469 Streptococcus mutans serotype c (strain ATCC 700610 / UA159)
+BMID000000140771 Acinetobacter sp. (strain ADP1)
+BMID000000140888 Cyanothece sp. (strain PCC 7425 / ATCC 29141)
+BMID000000142480 Ruminococcus bromii L2-63
+BMID000000142828 Propionibacterium acnes 266
+BMID000000141559 Aerococcus urinae (strain ACS-120-V-Col10a)
+BMID000000141451 Bradyrhizobium japonicum USDA 6
+BMID000000141044 Acetobacter pasteurianus (strain NBRC 3283 / LMG 1513 / CCTM 1153)
+BMID000000141597 Streptococcus parauberis (strain KCTC 11537)
+BMID000000141828 Dehalococcoides sp. (strain GT)
+BMID000000141408 Thioalkalimicrobium cyclicum (strain DSM 14477 / JCM 11371 / ALM1)
+BMID000000142096 Corynebacterium pseudotuberculosis 42/02-A
+BMID000000142286 Chlamydia trachomatis serovar E (strain E/150)
+BMID000000141019 Segniliparus rotundus (strain ATCC BAA-972 / CDC 1076 / CIP 108378 / DSM 44985 / JCM 13578)
+BMID000000142010 Rhizobium etli (strain CIAT 652)
+BMID000000142673 Listeria monocytogenes Finland 1998
+BMID000000141947 Nocardiopsis dassonvillei (strain ATCC 23218 / DSM 43111 / IMRU 509 / JCM 7437 / NCTC 10488)
+BMID000000141868 Microlunatus phosphovorus (strain ATCC 700054 / DSM 10555 / JCM 9379 / NBRC 101784 / NCIMB 13414 / VKM Ac-1990 / NM-1)
+BMID000000141271 Mycoplasma bovis (strain ATCC 25523 / PG45)
+BMID000000140726 Thalassiosira pseudonana CCMP1335
+BMID000000141616 Flavobacterium psychrophilum (strain JIP02/86 / ATCC 49511)
+BMID000000142669 Chamaesiphon minutus PCC 6605
+BMID000000141081 Lachancea waltii NCYC 2644
+BMID000000141266 Candida glabrata (strain ATCC 2001 / CBS 138 / JCM 3761 / NBRC 0622 / NRRL Y-65)
+BMID000000140561 Arcobacter nitrofigilis (strain ATCC 33309 / DSM 7299 / LMG 7604 / NCTC 12251 / CI)
+BMID000000142737 Corynebacterium pseudotuberculosis 1/06-A
+BMID000000141016 Thermodesulfobacterium sp. (strain OPB45)
+BMID000000140616 Sulfobacillus acidophilus (strain ATCC 700253 / DSM 10332 / NAL)
+BMID000000142266 Halothece sp. (strain PCC 7418)
+BMID000000141647 Wolbachia pipientis subsp. Culex pipiens (strain wPip)
+BMID000000141246 Plasmodium falciparum (isolate HB3)
+BMID000000141860 Acidovorax avenae (strain ATCC 19860 / DSM 7227 / JCM 20985 / NCPPB 1011)
+BMID000000142067 Thermococcus sp. CL1
+BMID000000141580 Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / JCM 1990 / NBRC 0083 / IGC 2968)
+BMID000000141064 Pectobacterium wasabiae (strain WPP163)
+BMID000000140631 Blattabacterium sp. subsp. Periplaneta americana (strain BPLAN)
+BMID000000141894 Clostridium difficile (strain R20291)
+BMID000000142059 Pseudomonas putida ND6
+BMID000000142392 Borrelia burgdorferi (strain N40)
+BMID000000140947 Francisella tularensis subsp. mediasiatica (strain FSC147)
+BMID000000141845 Chloracidobacterium thermophilum (strain B)
+BMID000000142599 Gluconacetobacter diazotrophicus (strain ATCC 49037 / DSM 5601 / PAl5)
+BMID000000140391 Hippea maritima (strain ATCC 700847 / DSM 10411 / MH2)
+BMID000000141220 Escherichia coli O81 (strain ED1a)
+BMID000000140248 Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145)
+BMID000000141178 Lactobacillus acidophilus (strain ATCC 700396 / NCK56 / N2 / NCFM)
+BMID000000142614 Cryptococcus gattii serotype B (strain WM276 / ATCC MYA-4071)
+BMID000000141433 Streptococcus suis (strain BM407)
+BMID000000141691 Rickettsia peacockii (strain Rustic)
+BMID000000142157 Corynebacterium pseudotuberculosis PAT10
+BMID000000140655 Synechococcus sp. (strain CC9311)
+BMID000000140905 Homo sapiens
+BMID000000142624 Corynebacterium callunae DSM 20147
+BMID000000141281 Lactococcus garvieae (strain ATCC 49156 / DSM 6783 / NCIMB 13208 / YT-3)
+BMID000000141078 Sanguibacter keddieii (strain ATCC 51767 / DSM 10542 / NCFB 3025 / ST-74)
+BMID000000140955 Leptotrichia buccalis (strain ATCC 14201 / DSM 1135 / JCM 12969 / NCTC 10249)
+BMID000000142052 Oscillatoria acuminata PCC 6304
+BMID000000142129 Streptococcus suis ST1
+BMID000000142441 Pseudomonas aeruginosa M18
+BMID000000140663 Mycobacterium tuberculosis H37Rv
+BMID000000142165 Chlamydia trachomatis IU888
+BMID000000142366 Vibrio cholerae LMA3984-4
+BMID000000142032 Rhodobacter sphaeroides (strain ATCC 17025 / ATH 2.4.3)
+BMID000000140669 Acaryochloris marina (strain MBIC 11017)
+BMID000000141305 Laccaria bicolor (strain S238N-H82 / ATCC MYA-4686)
+BMID000000141971 Clostridium ljungdahlii (strain ATCC 55383 / DSM 13528 / PETC)
+BMID000000141878 Vibrio cholerae serotype O1 (strain ATCC 39541 / Ogawa 395 / O395)
+BMID000000140707 Pyrococcus yayanosii (strain CH1 / JCM 16557)
+BMID000000140653 Shigella flexneri 2a str. 301
+BMID000000142095 Lactobacillus helveticus R0052
+BMID000000140563 Kineococcus radiotolerans (strain ATCC BAA-149 / DSM 14245 / SRS30216)
+BMID000000140514 Exiguobacterium sibiricum (strain DSM 17290 / JCM 13490 / 255-15)
+BMID000000140807 Staphylococcus aureus (strain N315)
+BMID000000142514 Corynebacterium pseudotuberculosis 267
+BMID000000140609 Corynebacterium kroppenstedtii (strain DSM 44385 / CCUG 35717)
+BMID000000142355 Faecalibacterium prausnitzii SL3/3
+BMID000000142264 Helicobacter pylori 2018
+BMID000000141548 Mycobacterium smegmatis (strain ATCC 700084 / mc(2)155)
+BMID000000141819 Clostridium botulinum (strain Kyoto / Type A2)
+BMID000000142368 Streptococcus dysgalactiae subsp. equisimilis RE378
+BMID000000140780 Corynebacterium pseudotuberculosis (strain FRC41)
+BMID000000142125 Blattabacterium sp. (Panesthia angustipennis spadica) str. BPAA
+BMID000000142035 Cellulosilyticum lentocellum (strain ATCC 49066 / DSM 5427 / NCIMB 11756 / RHM5)
+BMID000000141813 Lysinibacillus sphaericus (strain C3-41)
+BMID000000140575 Cryptobacterium curtum (strain ATCC 700683 / DSM 15641 / 12-3)
+BMID000000142122 Desulfurococcus fermentans DSM 16532
+BMID000000141413 Francisella tularensis subsp. tularensis TI0902
+BMID000000142232 Mycoplasma gallisepticum WI01_2001.043-13-2P
+BMID000000141363 Rubrivivax gelatinosus (strain NBRC 100245 / IL144)
+BMID000000141916 Neisseria meningitidis serogroup A / serotype 4A (strain Z2491)
+BMID000000141237 Streptococcus gordonii str. Challis substr. CH1
+BMID000000141290 Ralstonia pickettii (strain 12D)
+BMID000000142500 Streptococcus pyogenes A20
+BMID000000141910 Streptococcus mutans serotype c (strain NN2025)
+BMID000000141546 Methanocaldococcus fervens (strain DSM 4213 / JCM 157852 / AG86)
+BMID000000142505 Brachyspira pilosicoli WesB
+BMID000000142831 Providencia stuartii (strain MRSN 2154)
+BMID000000141866 Pyrobaculum sp. 1860
+BMID000000141585 Corynebacterium pseudotuberculosis 316
+BMID000000140933 Mycobacterium tuberculosis (strain F11)
+BMID000000142466 Staphylococcus aureus (strain 04-02981)
+BMID000000142729 Mycobacterium canettii CIPT 140070008
+BMID000000141721 Thermoanaerobacter sp. (strain X513)
+BMID000000141192 Lactobacillus casei (strain Zhang)
+BMID000000140647 Borrelia hermsii (strain DAH)
+BMID000000141370 Roseiflexus castenholzii (strain DSM 13941 / HLO8)
+BMID000000141054 Sulfolobus islandicus (strain M.16.27)
+BMID000000142227 Salmonella enterica subsp. enterica serovar Javiana str. CFSAN001992
+BMID000000140251 Desulfovibrio vulgaris subsp. vulgaris (strain DP4)
+BMID000000142496 Tistrella mobilis (strain KA081020-065)
+BMID000000142256 Halovivax ruber (strain DSM 18193 / JCM 13892 / XH-70)
+BMID000000141834 Corynebacterium diphtheriae (strain INCA 402)
+BMID000000140522 Mycoplasma suis (strain KI_3806)
+BMID000000141212 Listeria monocytogenes serotype 1/2a (strain 08-5923)
+BMID000000141462 Cellulophaga lytica (strain ATCC 23178 / DSM 7489 / JCM 8516 / NBRC 14961 / NCIMB 1423 / VKM B-1433 / Cy l20)
+BMID000000140721 Shigella flexneri serotype 5b (strain 8401)
+BMID000000141166 Helicobacter pylori (strain SJM180)
+BMID000000142649 Enterococcus faecalis (strain ATCC 47077 / OG1RF)
+BMID000000140569 Synechococcus sp. (strain CC9605)
+BMID000000140641 Acinetobacter baumannii MDR-ZJ06
+BMID000000141169 Geobacter sp. (strain M21)
+BMID000000140924 Thermoanaerobacter italicus (strain DSM 9252 / Ab9)
+BMID000000142659 Escherichia coli O83:H1 (strain NRG 857C / AIEC)
+BMID000000141461 Desulfovibrio africanus str. Walvis Bay
+BMID000000142280 Chlamydia trachomatis Ia/SotonIa3
+BMID000000140296 Paludibacter propionicigenes (strain DSM 17365 / JCM 13257 / WB4)
+BMID000000140673 Clostridium botulinum (strain Eklund 17B / Type B)
+BMID000000142744 Mesotoga prima MesG1.Ag.4.2
+BMID000000140852 Methanocaldococcus vulcanius (strain ATCC 700851 / DSM 12094 / M7)
+BMID000000142123 Chlamydia trachomatis serovar D (strain D-LC)
+BMID000000141984 Mycobacterium tuberculosis KZN 4207
+BMID000000142691 Synechococcus sp. (strain ATCC 27167 / PCC 6312)
+BMID000000140551 Thermus scotoductus (strain ATCC 700910 / SA-01)
+BMID000000141264 Acetobacter pasteurianus IFO 3283-12
+BMID000000140314 Thermosphaera aggregans (strain DSM 11486 / M11TL)
+BMID000000142318 Staphylococcus lugdunensis (strain N920143)
+BMID000000141960 Xanthomonas campestris pv. campestris (strain ATCC 33913 / NCPPB 528 / LMG 568)
+BMID000000141396 Liberibacter asiaticus (strain psy62)
+BMID000000141341 Bordetella parapertussis (strain 12822 / ATCC BAA-587 / NCTC 13253)
+BMID000000140731 Mycoplasma synoviae (strain 53)
+BMID000000140473 Alicycliphilus denitrificans (strain JCM 14587 / BC)
+BMID000000142281 Burkholderia cepacia GG4
+BMID000000140475 Streptococcus pneumoniae (strain P1031)
+BMID000000142786 Mycoplasma hyorhinis SK76
+BMID000000140628 Burkholderia pseudomallei (strain 1106a)
+BMID000000141288 Eubacterium eligens (strain ATCC 27750 / VPI C15-48)
+BMID000000140992 Haliangium ochraceum (strain DSM 14365 / JCM 11303 / SMP-2)
+BMID000000141253 Sodalis glossinidius (strain morsitans)
+BMID000000142707 Clostridium thermocellum (strain DSM 1313 / LMG 6656 / LQ8)
+BMID000000140453 Methanosarcina mazei (strain ATCC BAA-159 / DSM 3647 / Goe1 / Go1 / JCM 11833 / OCM 88)
+BMID000000141740 Catenulispora acidiphila (strain DSM 44928 / NRRL B-24433 / NBRC 102108 / JCM 14897)
+BMID000000141139 Stenotrophomonas maltophilia (strain R551-3)
+BMID000000142644 Cycloclasticus sp. (strain P1)
+BMID000000142387 Spirochaeta africana (strain ATCC 700263 / DSM 8902 / Z-7692)
+BMID000000142462 Methanomethylovorans hollandica (strain DSM 15978 / NBRC 107637 / DMS1)
+BMID000000140799 Arabidopsis thaliana
+BMID000000142415 Brachyspira pilosicoli B2904
+BMID000000141061 Chlamydia trachomatis serovar A (strain HAR-13 / ATCC VR-571B)
+BMID000000140435 Pseudomonas putida (strain F1 / ATCC 700007)
+BMID000000141726 Bacteroides thetaiotaomicron (strain ATCC 29148 / DSM 2079 / NCTC 10582 / E50 / VPI-5482)
+BMID000000142115 Pseudomonas stutzeri CCUG 29243
+BMID000000142608 Listeria monocytogenes 07PF0776
+BMID000000142204 Streptomyces venezuelae (strain ATCC 10712 / CBS 650.69 / DSM 40230 / JCM 4526 / NBRC 13096 / PD 04745)
+BMID000000141774 Polaromonas sp. (strain JS666 / ATCC BAA-500)
+BMID000000142522 Coprococcus catus GD/7
+BMID000000142271 Bartonella vinsonii subsp. berkhoffii (strain Winnie)
+BMID000000140627 Buchnera aphidicola str. Ua (Uroleucon ambrosiae)
+BMID000000142306 Sinorhizobium meliloti (strain SM11)
+BMID000000141812 Arthromitus sp. (strain SFB-mouse-Japan)
+BMID000000141579 Pseudomonas entomophila (strain L48)
+BMID000000141115 Brugia malayi
+BMID000000141704 Wolbachia sp. subsp. Brugia malayi (strain TRS)
+BMID000000140774 Enterobacter cloacae subsp. cloacae (strain ATCC 13047 / DSM 30054 / NBRC 13535 / NCDC 279-56)
+BMID000000142298 Bordetella bronchiseptica (strain MO149)
+BMID000000142536 Corynebacterium pseudotuberculosis (strain C231)
+BMID000000142727 Streptococcus thermophilus JIM 8232
+BMID000000140619 Bacillus cereus F837/76
+BMID000000141918 Corynebacterium jeikeium (strain K411)
+BMID000000141519 Escherichia coli O103:H2 (strain 12009 / EHEC)
+BMID000000140526 Candidatus Arthromitus sp. SFB-rat-Yit
+BMID000000141412 Staphylococcus aureus (strain JH9)
+BMID000000142820 Thalassolituus oleivorans MIL-1
+BMID000000141814 Trypanosoma brucei brucei (strain 927/4 GUTat10.1)
+BMID000000141896 Deinococcus maricopensis (strain DSM 21211 / LMG 22137 / NRRL B-23946 / LB-34)
+BMID000000141268 Methanosphaera stadtmanae (strain ATCC 43021 / DSM 3091 / JCM 11832 / MCB-3)
+BMID000000142502 Staphylococcus aureus subsp. aureus (strain ED133)
+BMID000000141776 Erwinia billingiae (strain Eb661)
+BMID000000141041 Scheffersomyces stipitis (strain ATCC 58785 / CBS 6054 / NBRC 10063 / NRRL Y-11545)
+BMID000000141149 Streptococcus pyogenes serotype M3 (strain ATCC BAA-595 / MGAS315)
+BMID000000141685 Vibrio furnissii (strain DSM 14383 / NCTC 11218)
+BMID000000140210 Streptomyces scabies (strain 87.22)
+BMID000000140462 Mycoplasma haemocanis (strain Illinois)
+BMID000000141404 Helicobacter pylori (strain B8)
+BMID000000141028 Arthroderma benhamiae (strain ATCC MYA-4681 / CBS 112371)
+BMID000000141364 Corynebacterium diphtheriae (strain 31A)
+BMID000000140844 Owenweeksia hongkongensis (strain DSM 17368 / JCM 12287 / NRRL B-23963)
+BMID000000141707 Psychrobacter arcticus (strain DSM 17307 / 273-4)
+BMID000000140373 Thermoplasma acidophilum (strain ATCC 25905 / DSM 1728 / JCM 9062 / NBRC 15155 / AMRC-C165)
+BMID000000142769 Sulfolobus acidocaldarius Ron12/I
+BMID000000141319 Staphylococcus aureus (strain Newman)
+BMID000000142455 Candidatus Kinetoplastibacterium crithidii (ex Angomonas deanei ATCC 30255)
+BMID000000142675 Propionibacterium propionicum (strain F0230a)
+BMID000000140357 Selenomonas ruminantium subsp. lactilytica (strain NBRC 103574 / TAM6421)
+BMID000000142800 Dehalobacter sp. CF
+BMID000000141811 Bacillus coagulans 36D1
+BMID000000142424 Nitrososphaera gargensis (strain Ga9.2)
+BMID000000140877 Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+BMID000000140527 Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025)
+BMID000000140823 Hyperthermus butylicus (strain DSM 5456 / JCM 9403)
+BMID000000142640 Helicobacter pylori (strain 908)
+BMID000000142630 Bacillus subtilis subsp. natto (strain BEST195)
+BMID000000142663 Glaciecola psychrophila 170
+BMID000000140264 Escherichia coli O1:K1 / APEC
+BMID000000142429 Helicobacter pylori (strain v225d)
+BMID000000142563 Staphylococcus warneri (strain SG1)
+BMID000000141553 Thioalkalivibrio sp. (strain K90mix)
+BMID000000140482 Rickettsia slovaca (strain 13-B)
+BMID000000142031 Mycobacterium canettii (strain CIPT 140010059)
+BMID000000140458 Pseudomonas putida S16
+BMID000000141217 Comamonas testosteroni (strain CNB-2)
+BMID000000140977 Mycobacterium avium (strain 104)
+BMID000000142151 Treponema pallidum subsp. pallidum (strain Chicago)
+BMID000000140637 Flavobacterium johnsoniae (strain ATCC 17061 / DSM 2064 / UW101)
+BMID000000142495 Bartonella australis (strain Aust/NH1)
+BMID000000140422 Frateuria aurantia (strain ATCC 33424 / DSM 6220 / NBRC 3245 / NCIMB 13370)
+BMID000000142572 Streptococcus agalactiae SA20-06
+BMID000000141969 Neisseria meningitidis serogroup C (strain 053442)
+BMID000000140298 Bartonella tribocorum (strain CIP 105476 / IBS 506)
+BMID000000141493 Thermotoga lettingae (strain ATCC BAA-301 / DSM 14385 / TMO)
+BMID000000140899 Streptococcus suis (strain SC84)
+BMID000000141748 Microbacterium testaceum (strain StLB037)
+BMID000000141304 Escherichia coli (strain K12 / DH10B)
+BMID000000140383 Pseudomonas syringae pv. tomato (strain DC3000)
+BMID000000140672 Truepera radiovictrix (strain DSM 17093 / CIP 108686 / LMG 22925 / RQ-24)
+BMID000000141184 Hyphomicrobium sp. (strain MC1)
+BMID000000141753 Rickettsia rickettsii str. Hlp#2
+BMID000000140650 Chloroflexus aurantiacus (strain ATCC 29364 / DSM 637 / Y-400-fl)
+BMID000000140499 Bacillus cereus (strain AH820)
+BMID000000141999 Pseudomonas stutzeri (strain A1501)
+BMID000000142196 Streptococcus suis D12
+BMID000000140272 Drosophila simulans
+BMID000000141952 Haemophilus influenzae F3047
+BMID000000140510 Sulfobacillus acidophilus (strain TPY)
+BMID000000142047 Candida albicans (strain SC5314 / ATCC MYA-2876)
+BMID000000140590 Methylobacterium extorquens (strain CM4 / NCIMB 13688)
+BMID000000140613 Haemophilus parasuis serovar 5 (strain SH0165)
+BMID000000141084 Stackebrandtia nassauensis (strain DSM 44728 / NRRL B-16338 / NBRC 102104 / LLR-40K-21)
+BMID000000142119 Leptolyngbya sp. PCC 7376
+BMID000000141378 Finegoldia magna (strain ATCC 29328)
+BMID000000141272 Nitrosopumilus maritimus (strain SCM1)
+BMID000000142459 Octadecabacter arcticus 238
+BMID000000141443 Neisseria meningitidis serogroup C / serotype 2a (strain ATCC 700532 / FAM18)
+BMID000000141286 Methanococcus maripaludis (strain S2 / LL)
+BMID000000140480 Streptococcus suis ST3
+BMID000000142535 Chlamydia trachomatis E/SW3
+BMID000000141179 Cryptosporidium parvum (strain Iowa II)
+BMID000000141567 Burkholderia xenovorans (strain LB400)
+BMID000000141090 Blattabacterium sp. subsp. Blattella germanica (strain Bge)
+BMID000000142546 Rhodospirillum rubrum F11
+BMID000000140417 Oceanithermus profundus (strain DSM 14977 / NBRC 100410 / VKM B-2274 / 506)
+BMID000000140450 Mycobacterium tuberculosis (strain KZN 1435 / MDR)
+BMID000000141094 Burkholderia cepacia (strain J2315 / LMG 16656)
+BMID000000142598 Streptococcus pneumoniae SPN034156
+BMID000000142512 Cucumis sativus
+BMID000000142224 Kazachstania africana (strain ATCC 22294 / BCRC 22015 / CBS 2517 / CECT 1963 / NBRC 1671 / NRRL Y-8276)
+BMID000000142384 Eubacterium rectale DSM 17629
+BMID000000142300 Chlamydia trachomatis A/7249
+BMID000000140544 Lactobacillus helveticus (strain DPC 4571)
+BMID000000141199 Desulfurivibrio alkaliphilus (strain DSM 19089 / UNIQEM U267 / AHT2)
+BMID000000141468 Caenorhabditis elegans
+BMID000000141980 Prevotella ruminicola (strain ATCC 19189 / JCM 8958 / 23)
+BMID000000141898 Rickettsia slovaca str. D-CWPP
+BMID000000142004 Mycobacterium leprae (strain TN)
+BMID000000140312 Brachyspira hyodysenteriae (strain ATCC 49526 / WA1)
+BMID000000142303 Bifidobacterium animalis subsp. lactis Bi-07
+BMID000000140403 Clostridium sp. BNL1100
+BMID000000141780 Botryotinia fuckeliana (strain B05.10)
+BMID000000141447 Clostridium acetobutylicum (strain ATCC 824 / DSM 792 / JCM 1419 / LMG 5710 / VKM B-1787)
+BMID000000142832 Cyanobacterium aponinum (strain PCC 10605)
+BMID000000141523 Arcanobacterium haemolyticum (strain ATCC 9345 / DSM 20595 / NBRC 15585 / NCTC 8452 / 11018)
+BMID000000141310 Propionibacterium acnes (strain KPA171202 / DSM 16379)
+BMID000000142456 Pseudomonas stutzeri (strain DSM 4166 / CMT.9.A)
+BMID000000141642 Naegleria gruberi strain NEG-M
+BMID000000140712 Neisseria meningitidis serogroup B (strain MC58)
+BMID000000141772 Escherichia coli O45:K1 (strain S88 / ExPEC)
+BMID000000142632 Haemophilus influenzae (strain R2846 / 12)
+BMID000000141339 Anolis carolinensis
+BMID000000140415 Bifidobacterium animalis subsp. lactis (strain V9)
+BMID000000141435 Leishmania infantum JPCM5
+BMID000000141778 Desulfurobacterium thermolithotrophum (strain DSM 11699 / BSA)
+BMID000000140479 Pyrobaculum calidifontis (strain JCM 11548 / VA1)
+BMID000000140952 Desulfotomaculum kuznetsovii (strain DSM 6115 / VKM B-1805 / 17)
+BMID000000141380 Granulicella tundricola MP5ACTX9
+BMID000000140878 Eggerthella lenta (strain ATCC 25559 / DSM 2243 / JCM 9979 / NCTC 11813 / VPI 0255)
+BMID000000142112 Geitlerinema sp. PCC 7407
+BMID000000140371 Nostoc punctiforme (strain ATCC 29133 / PCC 73102)
+BMID000000142671 Bacillus subtilis BEST7613
+BMID000000140825 Selenomonas sputigena (strain ATCC 35185 / DSM 20758 / VPI D19B-28)
+BMID000000141747 Prochlorococcus marinus (strain MIT 9301)
+BMID000000142738 Ruminococcus obeum A2-162
+BMID000000141475 Rhizobium leguminosarum bv. viciae (strain 3841)
+BMID000000140565 Yersinia enterocolitica subsp. palearctica serotype O:9 / biotype 3 (strain 105.5R(r))
+BMID000000142445 Candidatus Moranella endobia PCVAL
+BMID000000140840 Helicobacter pylori (strain G27)
+BMID000000141340 Corynebacterium glutamicum (strain R)
+BMID000000141141 Agrobacterium radiobacter (strain K84 / ATCC BAA-868)
+BMID000000141810 Vesicomyosocius okutanii subsp. Calyptogena okutanii (strain HA)
+BMID000000141975 Pseudogulbenkiania sp. (strain NH8B)
+BMID000000141758 Bradyrhizobium sp. (strain BTAi1 / ATCC BAA-1182)
+BMID000000141598 Borrelia burgdorferi (strain ZS7)
+BMID000000141577 Bordetella bronchiseptica (strain ATCC BAA-588 / NCTC 13252 / RB50)
+BMID000000141472 Listeria monocytogenes serotype 4a (strain HCC23)
+BMID000000141510 Yersinia pestis (strain Pestoides F)
+BMID000000142178 butyrate-producing bacterium SSC/2
+BMID000000141897 Halogeometricum borinquense (strain ATCC 700274 / DSM 11551 / JCM 10706 / PR3)
+BMID000000142762 Neisseria meningitidis serogroup C (strain 8013)
+BMID000000142526 Streptococcus agalactiae serotype Ia (strain GD201008-001)
+BMID000000142416 Listeria monocytogenes FSL R2-561
+BMID000000140470 Shewanella loihica (strain ATCC BAA-1088 / PV-4)
+BMID000000142003 Ehrlichia canis (strain Jake)
+BMID000000140444 Haloterrigena turkmenica (strain ATCC 51198 / DSM 5511 / NCIMB 13204 / VKM B-1734)
+BMID000000141017 Xylella fastidiosa (strain M23)
+BMID000000141118 Rhodoferax ferrireducens (strain DSM 15236 / ATCC BAA-621 / T118)
+BMID000000141755 Vanderwaltozyma polyspora (strain ATCC 22028 / DSM 70294)
+BMID000000140393 Francisella tularensis subsp. tularensis (strain SCHU S4 / Schu 4)
+BMID000000141915 Lactobacillus plantarum (strain JDM1)
+BMID000000142527 Helicobacter pylori Shi169
+BMID000000140474 Caldicellulosiruptor hydrothermalis (strain DSM 18901 / VKM B-2411 / 108)
+BMID000000142593 Brucella melitensis NI
+BMID000000142600 Bradyrhizobium oligotrophicum S58
+BMID000000140822 Pantoea ananatis LMG 5342
+BMID000000142612 Neisseria meningitidis serogroup B (strain NZ-05/33)
+BMID000000142687 Streptococcus equi subsp. zooepidemicus (strain ATCC 35246 / C74-63)
+BMID000000141540 Moranella endobia (strain PCIT)
+BMID000000142676 Thermus oshimai JL-2
+BMID000000141798 Colwellia psychrerythraea (strain 34H / ATCC BAA-681)
+BMID000000140896 Streptococcus pneumoniae serotype A19 (strain TCH8431)
+BMID000000142012 Paenibacillus sp. (strain JDR-2)
+BMID000000142634 Lactobacillus johnsonii DPC 6026
+BMID000000142356 Streptomyces hygroscopicus subsp. jinggangensis (strain 5008)
+BMID000000141683 Flavobacterium indicum (strain DSM 17447 / CIP 109464 / GPTSA100-9)
+BMID000000140813 Thermotoga thermarum DSM 5069
+BMID000000140303 Coxiella burnetii (strain RSA 493 / Nine Mile phase I)
+BMID000000141713 Ureaplasma urealyticum serovar 10 (strain ATCC 33699 / Western)
+BMID000000141394 Yersinia pestis CO92
+BMID000000141189 Chlamydia trachomatis serovar B (strain Jali20/OT)
+BMID000000140408 Salmonella enterica subsp. enterica serovar Paratyphi B
+BMID000000140660 Arcobacter butzleri (strain RM4018)
+BMID000000140868 Clostridium botulinum (strain 657 / Type Ba4)
+BMID000000142791 Natrinema sp. (strain J7-2)
+BMID000000140521 Tepidanaerobacter acetatoxydans (strain DSM 21804 / JCM 16047 / Re1)
+BMID000000141263 Yersinia pestis (strain D182038)
+BMID000000142779 Helicobacter pylori (strain F57)
+BMID000000140989 Salmonella bongori (strain ATCC 43975 / DSM 13772 / NCTC 12419)
+BMID000000142534 Enterobacter cloacae subsp. dissolvens SDM
+BMID000000142810 Thermus thermophilus (strain SG0.5JP17-16)
+BMID000000140446 Anaeromyxobacter sp. (strain Fw109-5)
+BMID000000142160 Clostridium difficile BI1
+BMID000000141419 Plasmodium yoelii yoelii 17XNL
+BMID000000140286 Treponema brennaborense (strain DSM 12168 / CIP 105900 / DD5/3)
+BMID000000140432 Geobacillus kaustophilus (strain HTA426)
+BMID000000141781 Burkholderia sp. (strain CCGE1002)
+BMID000000140956 Pseudomonas mendocina (strain NK-01)
+BMID000000142690 Bacillus amyloliquefaciens subsp. plantarum AS43.3
+BMID000000142523 Helicobacter pylori (strain F32)
+BMID000000142792 Chlamydia trachomatis L1/224
+BMID000000140636 Bacteroides vulgatus (strain ATCC 8482 / DSM 1447 / NCTC 11154)
+BMID000000141632 Vibrio fischeri (strain ATCC 700601 / ES114)
+BMID000000142048 Haemophilus influenzae (strain PittEE)
+BMID000000142731 Helicobacter pylori (strain India7)
+BMID000000140274 Dehalococcoides sp. (strain VS)
+BMID000000141593 Borrelia duttonii (strain Ly)
+BMID000000141538 Marinobacter aquaeolei (strain ATCC 700491 / DSM 11845 / VT8)
+BMID000000141586 Acetobacter pasteurianus IFO 3283-07
+BMID000000140239 Pseudomonas fluorescens (strain Pf-5 / ATCC BAA-477)
+BMID000000140779 Shewanella halifaxensis (strain HAW-EB4)
+BMID000000142842 Thiocystis violascens (strain ATCC 17096 / DSM 198 / 6111)
+BMID000000142070 Halobacteroides halobius (strain ATCC 35273 / DSM 5150 / MD-1)
+BMID000000141511 Lactococcus lactis subsp. cremoris (strain MG1363)
+BMID000000141534 Desulfobulbus propionicus (strain ATCC 33891 / DSM 2032 / 1pr3)
+BMID000000141254 Gallus gallus
+BMID000000142149 Helicobacter pylori Aklavik117
+BMID000000141963 Aciduliprofundum boonei (strain DSM 19572 / T469)
+BMID000000140454 Bradyrhizobium japonicum (strain USDA 110)
+BMID000000140511 Taeniopygia guttata
+BMID000000141481 Gardnerella vaginalis (strain ATCC 14019 / 317)
+BMID000000141826 Desulfotomaculum carboxydivorans (strain DSM 14880 / VKM B-2319 / CO-1-SRB)
+BMID000000141739 Coprinopsis cinerea (strain Okayama-7 / 130 / ATCC MYA-4618 / FGSC 9003)
+BMID000000141116 Thermotoga neapolitana (strain ATCC 49049 / DSM 4359 / NS-E)
+BMID000000140890 Chlamydophila pneumoniae TW-183
+BMID000000141659 Pseudoxanthomonas suwonensis (strain 11-1)
+BMID000000141603 Riesia pediculicola (strain USDA)
+BMID000000141096 Acinetobacter baumannii (strain AB0057)
+BMID000000140602 Burkholderia gladioli (strain BSR3)
+BMID000000140614 Lactobacillus brevis (strain ATCC 367 / JCM 1170)
+BMID000000140540 Alkalilimnicola ehrlichei (strain MLHE-1)
+BMID000000142041 Streptococcus pneumoniae (strain AP200)
+BMID000000140439 Weeksella virosa (strain ATCC 43766 / DSM 16922 / JCM 21250 / NBRC 16016 / NCTC 11634 / CL345/78)
+BMID000000140534 Bacillus selenitireducens (strain ATCC 700615 / DSM 15326 / MLS10)
+BMID000000141870 Bacillus cellulosilyticus (strain ATCC 21833 / DSM 2522 / FERM P-1141 / JCM 9156 / N-4)
+BMID000000141668 Cellulophaga algicola (strain DSM 14237 / IC166 / ACAM 630)
+BMID000000142175 Echinicola vietnamensis (strain DSM 17526 / LMG 23754 / KMM 6221)
+BMID000000140539 Weissella koreensis (strain KACC 15510)
+BMID000000140753 Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / NRRL 3357 / JCM 12722 / SRRC 167)
+BMID000000142250 Escherichia coli O55:H7 str. RM12579
+BMID000000142440 Helicobacter pylori Aklavik86
+BMID000000141233 Azobacteroides pseudotrichonymphae genomovar. CFP2
+BMID000000142543 Chlamydia psittaci NJ1
+BMID000000142695 Ruminococcus champanellensis (strain DSM 18848 / JCM 17042 / 18P13)
+BMID000000141537 Penicillium chrysogenum (strain ATCC 28089 / DSM 1075 / Wisconsin 54-1255)
+BMID000000140629 Nitrosomonas sp. (strain Is79A3)
+BMID000000141299 Mycoplasma putrefaciens (strain ATCC 15718 / NCTC 10155 / C30 KS-1 / KS-1)
+BMID000000142305 [Eubacterium] cylindroides T2-87
+BMID000000142133 Caldisphaera lagunensis (strain DSM 15908 / JCM 11604 / IC-154)
+BMID000000140858 Schizosaccharomyces pombe (strain 972 / ATCC 24843)
+BMID000000142064 Streptococcus salivarius (strain JIM8777)
+BMID000000141296 Pyrococcus abyssi (strain GE5 / Orsay)
+BMID000000142163 Turneriella parva (strain ATCC BAA-1111 / DSM 21527 / NCTC 11395 / H)
+BMID000000140697 Sulcia muelleri (strain SMDSEM)
+BMID000000142023 Lactobacillus rhamnosus (strain ATCC 53103 / GG)
+BMID000000142652 Helicobacter pylori (strain F16)
+BMID000000140594 Mycobacterium sp. (strain JDM601)
+BMID000000141541 Drosophila willistoni
+BMID000000141446 Yersinia pseudotuberculosis serotype O:1b (strain IP 31758)
+BMID000000141694 Methanoplanus petrolearius (strain DSM 11571 / OCM 486 / SEBR 4847)
+BMID000000140791 Orientia tsutsugamushi (strain Boryong)
+BMID000000141067 Actinoplanes missouriensis (strain ATCC 14538 / DSM 43046 / CBS 188.64 / JCM 3121 / NCIMB 12654 / NBRC 102363 / 431)
+BMID000000141799 Pan troglodytes
+BMID000000140228 Francisella tularensis subsp. holarctica (strain LVS)
+BMID000000140772 Salmonella newport (strain SL254)
+BMID000000140456 Streptococcus pneumoniae (strain JJA)
+BMID000000140337 Paracoccus denitrificans (strain Pd 1222)
+BMID000000140508 Methylobacterium extorquens (strain ATCC 14718 / DSM 1338 / AM1)
+BMID000000140332 Rhodopseudomonas palustris (strain BisB5)
+BMID000000142173 Riemerella anatipestifer RA-CH-2
+BMID000000141238 Bacillus cereus subsp. cytotoxis (strain NVH 391-98)
+BMID000000141295 Clostridium phytofermentans (strain ATCC 700394 / DSM 18823 / ISDg)
+BMID000000141187 Synechococcus sp. (strain CC9902)
+BMID000000140815 Haemophilus influenzae (strain 86-028NP)
+BMID000000140500 Bacillus cereus var. anthracis (strain CI)
+BMID000000141788 Mycoplasma agalactiae
+BMID000000142347 Aequorivita sublithincola (strain DSM 14238 / LMG 21431 / ACAM 643 / 9-3)
+BMID000000140310 Herpetosiphon aurantiacus (strain ATCC 23779 / DSM 785)
+BMID000000142091 Natronobacterium gregoryi (strain ATCC 43098 / CCM 3738 / NCIMB 2189 / SP2)
+BMID000000140670 Salmonella gallinarum (strain 287/91 / NCTC 13346)
+BMID000000140688 Thermococcus barophilus (strain DSM 11836 / MP)
+BMID000000141907 Caldilinea aerophila (strain DSM 14535 / JCM 11387 / NBRC 104270 / STL-6-O1)
+BMID000000141614 Acetobacter pasteurianus IFO 3283-22
+BMID000000142413 Corynebacterium pseudotuberculosis CIP 52.97
+BMID000000142083 Bacillus megaterium WSH-002
+BMID000000142812 Chlamydia trachomatis E/SotonE4
+BMID000000140792 Drosophila sechellia
+BMID000000142349 Eubacterium siraeum 70/3
+BMID000000142092 Haloquadratum walsbyi (strain DSM 16854 / JCM 12705 / C23)
+BMID000000140506 Nakamurella multipartita (strain ATCC 700099 / DSM 44233 / JCM 9543 / Y-104)
+BMID000000141661 Yersinia pseudotuberculosis serotype I (strain IP32953)
+BMID000000141658 Pseudomonas fulva (strain 12-X)
+BMID000000141223 Xenorhabdus nematophila (strain ATCC 19061 / DSM 3370 / LMG 1036 / NCIB 9965 / AN6)
+BMID000000140677 Nostoc azollae (strain 0708)
+BMID000000142079 Alistipes shahii WAL 8301
+BMID000000141466 Pediculus humanus subsp. corporis
+BMID000000142724 Riemerella anatipestifer (strain ATCC 11845 / DSM 15868 / JCM 9532 / NCTC 11014)
+BMID000000141373 Encephalitozoon cuniculi (strain GB-M1)
+BMID000000141008 Yersinia enterocolitica serotype O:8 / biotype 1B (strain 8081)
+BMID000000142243 Desulfitobacterium dichloroeliminans (strain LMG P-21439 / DCA1)
+BMID000000140562 Geobacter sulfurreducens (strain ATCC 51573 / DSM 12127 / PCA)
+BMID000000142423 Candidatus Blochmannia chromaiodes str. 640
+BMID000000140281 Thermocrinis albus (strain DSM 14484 / JCM 11386 / HI 11/12)
+BMID000000140748 Burkholderia pseudomallei MSHR346
+BMID000000141822 Delftia acidovorans (strain DSM 14801 / SPH-1)
+BMID000000140335 Prochlorococcus marinus (strain SARG / CCMP1375 / SS120)
+BMID000000140685 Filifactor alocis (strain ATCC 35896 / D40 B5)
+BMID000000142573 Faecalibacterium prausnitzii L2-6
+BMID000000141917 Thermoanaerobacter sp. (strain X514)
+BMID000000142159 Listeria monocytogenes SLCC2479
+BMID000000140426 Bartonella quintana (strain Toulouse)
+BMID000000142656 Advenella kashmirensis (strain DSM 17095 / LMG 22695 / WT001)
+BMID000000141594 Pelagibacterium halotolerans (strain JCM 15775 / CGMCC 1.7692 / B2)
+BMID000000142735 Chlamydia trachomatis L2b/Ams3
+BMID000000141949 Methanocaldococcus infernus (strain DSM 11812 / JCM 15783 / ME)
+BMID000000141729 Lactobacillus sanfranciscensis (strain TMW 1.1304)
+BMID000000141409 Moniliophthora perniciosa (strain FA553 / isolate CP02)
+BMID000000142354 Bacillus thuringiensis Bt407
+BMID000000140960 Streptococcus pneumoniae serotype 19F (strain G54)
+BMID000000141013 Yersinia pestis bv. Antiqua (strain Antiqua)
+BMID000000142461 Mycoplasma gallisepticum NC08_2008.031-4-3P
+BMID000000141313 Xanthomonas oryzae pv. oryzae (strain MAFF 311018)
+BMID000000142590 Corynebacterium pseudotuberculosis 31
+BMID000000141232 Burkholderia vietnamiensis (strain G4 / LMG 22486)
+BMID000000142106 Lawsonia intracellularis N343
+BMID000000142483 Torulaspora delbrueckii
+BMID000000141390 Shigella boydii serotype 4 (strain Sb227)
+BMID000000142457 Mycoplasma genitalium M6320
+BMID000000141768 Prevotella melaninogenica (strain ATCC 25845 / DSM 7089 / JCM 6325 / VPI 2381 / B282)
+BMID000000142036 Danio rerio
+BMID000000142419 Desulfosporosinus meridiei (strain ATCC BAA-275 / DSM 13257 / NCIMB 13706 / S10)
+BMID000000140418 Acetohalobium arabaticum (strain ATCC 49924 / DSM 5501 / Z-7288)
+BMID000000142688 Tepidanaerobacter acetatoxydans (strain DSM 21804 / JCM 16047 / Re1)
+BMID000000141635 Strongylocentrotus purpuratus
+BMID000000141369 Clostridium perfringens (strain SM101 / Type A)
+BMID000000141374 Bacillus weihenstephanensis (strain KBAB4)
+BMID000000141226 Desulfovibrio aespoeensis (strain ATCC 700646 / DSM 10631 / Aspo-2)
+BMID000000140904 Rickettsia rickettsii str. Brazil
+BMID000000141282 Neosartorya fischeri (strain ATCC 1020 / DSM 3700 / FGSC A1164 / NRRL 181)
+BMID000000142044 Ruthia magnifica subsp. Calyptogena magnifica
+BMID000000142075 Mycoplasma wenyonii (strain Massachusetts)
+BMID000000140289 Azoarcus sp. (strain BH72)
+BMID000000142700 Clostridium stercorarium subsp. stercorarium (strain ATCC 35414 / DSM 8532 / NCIMB 11754)
+BMID000000141554 Erwinia tasmaniensis Et1/99
+BMID000000140698 Blochmannia pennsylvanicus (strain BPEN)
+BMID000000140961 Burkholderia multivorans (strain ATCC 17616 / 249)
+BMID000000142807 Lactobacillus brevis KB290
+BMID000000140440 Helicobacter pylori (strain PeCan4)
+BMID000000141383 Chlamydophila abortus (strain S26/3)
+BMID000000140692 Ignicoccus hospitalis (strain KIN4/I / DSM 18386 / JCM 14125)
+BMID000000142388 Chlamydia trachomatis E/Bour
+BMID000000140404 Rattus norvegicus
+BMID000000141359 Drosophila persimilis
+BMID000000142493 Cardinium endosymbiont cEper1 of Encarsia pergandiella
+BMID000000142242 Streptococcus pneumoniae serotype 1 (strain INV104)
+BMID000000141686 Mycoplasma leachii (strain DSM 21131 / NCTC 10133 / N29 / PG50)
+BMID000000142470 Oscillatoria nigro-viridis PCC 7112
+BMID000000141329 Nectria haematococca (strain 77-13-4 / ATCC MYA-4622 / FGSC 9596 / MPVI)
+BMID000000141674 Methanocella conradii (strain DSM 24694 / JCM 17849 / CGMCC 1.5162 / HZ254)
+BMID000000142363 Shewanella baltica OS117
+BMID000000142539 Wolbachia endosymbiont of Onchocerca ochengi
+BMID000000140751 Geobacillus sp. (strain Y4.1MC1)
+BMID000000141715 Caldicellulosiruptor owensensis (strain ATCC 700167 / DSM 13100 / OL)
+BMID000000140555 Brucella melitensis (strain M5-90)
+BMID000000142544 Chlamydia trachomatis serovar E (strain Sweden2)
+BMID000000142713 Candidatus Tremblaya princeps PCVAL
+BMID000000140696 Buchnera aphidicola (Cinara tujafilina)
+BMID000000140934 Robiginitalea biformata (strain ATCC BAA-864 / HTCC2501 / KCTC 12146)
+BMID000000140579 Acidiphilium multivorum (strain DSM 11245 / JCM 8867 / AIU301)
+BMID000000141360 Flavobacterium columnare (strain ATCC 49512 / CIP 103533 / TG 44/87)
+BMID000000142678 Desulfovibrio hydrothermalis AM13 = DSM 14728
+BMID000000140775 Clostridium difficile (strain CD196)
+BMID000000141175 Listeria seeligeri serovar 1/2b (strain ATCC 35967 / DSM 20751 / CIP 100100 / SLCC 3954)
+BMID000000140993 Planctomyces brasiliensis (strain ATCC 49424 / DSM 5305 / JCM 21570 / NBRC 103401 / IFAM 1448)
+BMID000000141058 Burkholderia glumae (strain BGR1)
+BMID000000142736 Mycoplasma hyorhinis (strain MCLD)
+BMID000000140720 Mycobacterium bovis (strain BCG / Pasteur 1173P2)
+BMID000000142345 Helicobacter cinaedi (strain PAGU611)
+BMID000000142102 Encephalitozoon hellem (strain ATCC 50504)
+BMID000000142579 Taylorella asinigenitalis 14/45
+BMID000000142825 Candidatus Portiera aleyrodidarum TV
+BMID000000141734 Odoribacter splanchnicus (strain ATCC 29572 / DSM 20712 / JCM 15291 / NCTC 10825 / 1651/6)
+BMID000000140591 Liberibacter solanacearum (strain CLso-ZC1)
+BMID000000142087 Bacillus thuringiensis serovar kurstaki str. HD73
+BMID000000141059 Streptococcus agalactiae serotype III (strain NEM316)
+BMID000000141489 Paenibacillus mucilaginosus 3016
+BMID000000140358 Xanthomonas campestris pv. vesicatoria (strain 85-10)
+BMID000000142235 Escherichia coli (strain B / BL21-DE3)
+BMID000000140496 Ciona intestinalis
+BMID000000141703 Rickettsia prowazekii str. Katsinyian
+BMID000000142084 Burkholderia sp. KJ006
+BMID000000141485 Rickettsia typhi str. B9991CWPP
+BMID000000140208 Yersinia pseudotuberculosis serotype O:3 (strain YPIII)
+BMID000000142400 Enterococcus casseliflavus EC20
+BMID000000140220 Chromobacterium violaceum (strain ATCC 12472 / DSM 30191 / JCM 1249 / NBRC 12614 / NCIMB 9131 / NCTC 9757)
+BMID000000142734 alpha proteobacterium HIMB5
+BMID000000142515 Hydrogenobacter thermophilus (strain DSM 6534 / IAM 12695 / TK-6)
+BMID000000141086 Thermoanaerobacter pseudethanolicus (strain ATCC 33223 / 39E)
+BMID000000140667 Desulfotomaculum acetoxidans (strain ATCC 49208 / DSM 771 / VKM B-1644)
+BMID000000140984 Staphylococcus aureus (strain MW2)
+BMID000000141796 Desulfococcus oleovorans (strain DSM 6200 / Hxd3)
+BMID000000140438 Paenibacillus polymyxa (strain SC2)
+BMID000000142793 Propionibacterium acnes C1
+BMID000000141595 Nitratifractor salsuginis (strain DSM 16511 / JCM 12458 / E9I37-1)
+BMID000000140920 Rahnella aquatilis (strain ATCC 33071 / DSM 4594 / JCM 1683 / NBRC 105701 / NCIMB 13365 / CIP 78.65)
+BMID000000141757 Lactobacillus salivarius (strain UCC118)
+BMID000000140325 Ammonifex degensii (strain DSM 10501 / KC4)
+BMID000000141982 Wolinella succinogenes (strain ATCC 29543 / DSM 1740 / LMG 7466 / NCTC 11488 / FDC 602W)
+BMID000000140552 Ureaplasma parvum serovar 3 (strain ATCC 27815 / 27 / NCTC 11736)
+BMID000000142025 Collimonas fungivorans (strain Ter331)
+BMID000000142602 Pantoea ananatis PA13
+BMID000000142022 Methylacidiphilum infernorum (isolate V4)
+BMID000000142168 Helicobacter pylori (strain Lithuania75)
+BMID000000141531 Methylotenera sp. (strain 301)
+BMID000000141182 Sphaerochaeta pleomorpha (strain ATCC BAA-1885 / DSM 22778 / Grapes)
+BMID000000140965 Verrucosispora maris (strain AB-18-032)
+BMID000000142748 Enterococcus hirae (strain ATCC 9790 / DSM 20160 / JCM 8729 / LMG 6399 / NBRC 3181 / NCIMB 6459 / NCDO 1258)
+BMID000000140837 Brucella abortus (strain S19)
+BMID000000141055 Glycine max
+BMID000000142582 Bartonella quintana RM-11
+BMID000000142438 Streptococcus intermedius (strain JTH08)
+BMID000000142524 Erwinia pyrifoliae (strain DSM 12163 / CIP 106111 / Ep16/96)
+BMID000000142042 Streptococcus gallolyticus (strain UCN34)
+BMID000000141737 Francisella tularensis subsp. holarctica (strain FTNF002-00 / FTA)
+BMID000000142097 Sulfolobus acidocaldarius N8
+BMID000000142269 Serratia marcescens WW4
+BMID000000140906 Corynebacterium diphtheriae (strain CDCE 8392)
+BMID000000142818 Chlamydia trachomatis serovar G (strain G/9768)
+BMID000000141176 Erythrobacter litoralis (strain HTCC2594)
+BMID000000142587 Francisella cf. novicida (strain 3523)
+BMID000000142592 Leuconostoc carnosum (strain JB16)
+BMID000000141874 Sphaerobacter thermophilus (strain DSM 20745 / S 6022)
+BMID000000142686 Chlamydia trachomatis L2b/Ams5
+BMID000000141420 Pseudonocardia dioxanivorans (strain ATCC 55486 / DSM 44775 / JCM 13855 / CB1190)
+BMID000000142062 Xanthomonas axonopodis Xac29-1
+BMID000000140252 Syntrophobacter fumaroxidans (strain DSM 10017 / MPOB)
+BMID000000140863 Dichelobacter nodosus (strain VCS1703A)
+BMID000000141255 Xenopus tropicalis
+BMID000000141104 Sorghum bicolor
+BMID000000140881 Ilyobacter polytropus (strain DSM 2926 / CuHBu1)
+BMID000000142014 Caldicellulosiruptor obsidiansis (strain ATCC BAA-2073 / strain OB47)
+BMID000000140611 Thiomicrospira crunogena (strain XCL-2)
+BMID000000140543 Methanobrevibacter smithii (strain PS / ATCC 35061 / DSM 861)
+BMID000000142107 Mycobacterium tuberculosis KZN 605
+BMID000000140853 Solibacter usitatus (strain Ellin6076)
+BMID000000140760 Methanosaeta thermophila (strain DSM 6194 / PT)
+BMID000000142605 Helicobacter pylori Shi417
+BMID000000141779 Streptococcus pyogenes serotype M28 (strain MGAS6180)
+BMID000000141610 Yersinia pestis bv. Antiqua (strain Angola)
+BMID000000142320 Bdellovibrio bacteriovorus str. Tiberius
+BMID000000141904 Ketogulonicigenium vulgare (strain Y25)
+BMID000000141117 Xanthomonas campestris pv. campestris (strain B100)
+BMID000000142780 Fibrella aestuarina BUZ 2
+BMID000000141465 Phanerochaete chrysosporium RP-78
+BMID000000142594 Pseudomonas aeruginosa B136-33
+BMID000000140205 Shewanella sediminis (strain HAW-EB3)
+BMID000000142407 Helicobacter pylori (strain ATCC 700392 / 26695)
+BMID000000141824 Campylobacter concisus (strain 13826)
+BMID000000141491 Herminiimonas arsenicoxydans
+BMID000000142530 Lactobacillus rhamnosus (strain ATCC 53103 / GG)
+BMID000000140996 Yarrowia lipolytica (strain CLIB 122 / E 150)
+BMID000000142758 Streptococcus salivarius (strain 57.I)
+BMID000000140425 Gramella forsetii (strain KT0803)
+BMID000000140885 Vibrio cholerae serotype O1 (strain ATCC 39315 / El Tor Inaba N16961)
+BMID000000140708 Brachybacterium faecium (strain ATCC 43885 / DSM 4810 / NCIB 9860)
+BMID000000142335 Mycobacterium tuberculosis 7199-99
+BMID000000141532 Coxiella burnetii (strain Dugway 5J108-111)
+BMID000000141440 Archaeoglobus profundus (strain DSM 5631 / JCM 9629 / NBRC 100127 / Av18)
+BMID000000142637 Streptomyces sp. PAMC26508
+BMID000000142629 Lactococcus lactis subsp. lactis IO-1
+BMID000000142288 Riemerella anatipestifer RA-CH-1
+BMID000000142120 Mycoplasma pneumoniae M129-B7
+BMID000000142631 Candidatus Kinetoplastibacterium blastocrithidii (ex Strigomonas culicis)
+BMID000000140941 Clostridium tetani (strain Massachusetts / E88)
+BMID000000140381 Leptothrix cholodnii (strain ATCC 51168 / LMG 8142 / SP-6)
+BMID000000141198 Corynebacterium aurimucosum (strain ATCC 700975 / DSM 44827 / CN-1)
+BMID000000142439 Pseudomonas poae RE*1-1-14
+BMID000000141923 Wolbachia sp. subsp. Drosophila simulans (strain wRi)
+BMID000000141085 Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)
+BMID000000141905 Halorhodospira halophila (strain DSM 244 / SL1)
+BMID000000140866 Calditerrivibrio nitroreducens (strain DSM 19672 / NBRC 101217 / Yu37-1)
+BMID000000141358 Corynebacterium diphtheriae (strain HC03)
+BMID000000141321 Rhodospirillum rubrum (strain ATCC 11170 / NCIB 8255)
+BMID000000140648 Rickettsia amblyommii (strain GAT-30V)
+BMID000000141689 Campylobacter jejuni subsp. jejuni serotype O:2 (strain NCTC 11168)
+BMID000000140428 Brucella melitensis biotype 1 (strain 16M / ATCC 23456 / NCTC 10094)
+BMID000000140768 Streptomyces griseus subsp. griseus (strain JCM 4626 / NBRC 13350)
+BMID000000142339 Mycobacterium canettii CIPT 140070017
+BMID000000142667 Belliella baltica (strain DSM 15883 / CIP 108006 / LMG 21964 / BA134)
+BMID000000141062 Klebsiella pneumoniae subsp. pneumoniae (strain HS11286)
+BMID000000142460 Mycobacterium canettii CIPT 140060008
+BMID000000140803 Saprospira grandis (strain Lewin)
+BMID000000141377 Streptococcus suis (strain 98HAH33)
+BMID000000142701 Listeria monocytogenes SLCC2376
+BMID000000140478 Coxiella burnetii (strain RSA 331 / Henzerling II)
+BMID000000142708 Oligotropha carboxidovorans (strain ATCC 49405 / DSM 1227 / OM5)
+BMID000000140244 Rhodobacter sphaeroides (strain KD131 / KCTC 12085)
+BMID000000140218 Pseudomonas stutzeri (strain ATCC 17588 / DSM 5190 / CCUG 11256 / JCM 5965 / LMG 11199 / NCIMB 11358 / Stanier 221)
+BMID000000141924 Salmonella paratyphi C (strain RKS4594)
+BMID000000142698 Corynebacterium ulcerans 809
+BMID000000142803 Candidatus Kinetoplastibacterium desouzaii TCC079E
+BMID000000141909 Psychromonas ingrahamii (strain 37)
+BMID000000140343 Haemophilus influenzae (strain PittGG)
+BMID000000142570 Pseudomonas putida (strain DOT-T1E)
+BMID000000140322 Salmonella enteritidis PT4 (strain P125109)
+BMID000000142317 Corynebacterium urealyticum DSM 7111
+BMID000000140919 Xenopus laevis
+BMID000000142291 Chlamydophila psittaci (strain RD1)
+BMID000000141854 Bacillus anthracis (strain A0248)
+BMID000000140324 Thermoproteus uzoniensis (strain 768-20)
+BMID000000141970 Cryptosporidium hominis TU502
+BMID000000141867 Bacillus amyloliquefaciens (strain ATCC 23350 / DSM 7 / BCRC 11601 / NBRC 15535 / NRRL B-14393)
+BMID000000142362 Neisseria meningitidis serogroup B / serotype 15 (strain H44/76)
+BMID000000140739 Koribacter versatilis (strain Ellin345)
+BMID000000140686 Arcobacter sp. L
+BMID000000141049 Shewanella pealeana (strain ATCC 700345 / ANG-SQ1)
+BMID000000140292 Monodelphis domestica
+BMID000000140445 Puniceispirillum marinum (strain IMCC1322)
+BMID000000140221 Protochlamydia amoebophila (strain UWE25)
+BMID000000142469 Chlamydia psittaci M56
+BMID000000141021 Borrelia afzelii (strain PKo)
+BMID000000141148 Thermococcus sibiricus (strain MM 739 / DSM 12597)
+BMID000000141382 Corynebacterium urealyticum (strain ATCC 43042 / DSM 7109)
+BMID000000142626 Yersinia enterocolitica subsp. palearctica serotype O:3 (strain DSM 13030 / CIP 106945 / Y11)
+BMID000000140313 Streptomyces bingchenggensis (strain BCW-1)
+BMID000000142444 Alcanivorax dieselolei (strain DSM 16502 / CGMCC 1.3690 / B-5)
+BMID000000141521 Bacillus subtilis subsp. spizizenii (strain TU-B-10)
+BMID000000140457 Clavibacter michiganensis subsp. sepedonicus (strain ATCC 33113 / JCM 9667)
+BMID000000140851 Bacillus amyloliquefaciens (strain FZB42)
+BMID000000140762 Chlorobium phaeobacteroides (strain DSM 266)
+BMID000000140638 Nematostella vectensis
+BMID000000141581 Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H)
+BMID000000141110 Laribacter hongkongensis (strain HLHK9)
+BMID000000141207 Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / MED4)
+BMID000000142643 Nostoc sp. (strain ATCC 29411 / PCC 7524)
+BMID000000140512 Natrialba magadii (strain ATCC 43099 / DSM 3394 / NCIMB 2190 / MS3)
+BMID000000140271 Ferrimonas balearica (strain DSM 9799 / CCM 4581 / PAT)
+BMID000000141222 Geobacillus sp. (strain Y412MC61)
+BMID000000141177 Buchnera aphidicola subsp. Baizongia pistaciae (strain Bp)
+BMID000000141551 Saccharomyces mikatae IFO 1815
+BMID000000142756 Streptococcus suis D9
+BMID000000141208 Salmonella heidelberg (strain SL476)
+BMID000000141678 Rhodopseudomonas palustris (strain DX-1)
+BMID000000140429 Streptococcus pneumoniae (strain Hungary19A-6)
+BMID000000140903 Desulfotomaculum ruminis (strain ATCC 23193 / DSM 2154 / NCIB 8452 / DL)
+BMID000000141228 Staphylococcus aureus (strain MSSA476)
+BMID000000140558 Thermomicrobium roseum (strain ATCC 27502 / DSM 5159 / P-2)
+BMID000000141675 Streptomyces sp. SirexAA-E
+BMID000000142449 Staphylococcus aureus subsp. aureus HO 5096 0412
+BMID000000141966 Methanotorris igneus (strain DSM 5666 / JCM 11834 / Kol 5)
+BMID000000140481 Xanthobacter autotrophicus (strain ATCC BAA-1158 / Py2)
+BMID000000140356 Azospirillum lipoferum (strain 4B)
+BMID000000141520 Moraxella catarrhalis (strain RH4)
+BMID000000142552 Verticillium albo-atrum (strain VaMs.102 / ATCC MYA-4576 / FGSC 10136)
+BMID000000142357 Chlamydia trachomatis D/SotonD6
+BMID000000141922 Bifidobacterium breve (strain ACS-071-V-Sch8b)
+BMID000000141505 Citrobacter koseri (strain ATCC BAA-895 / CDC 4225-83 / SGSC4696)
+BMID000000140691 Rickettsia rickettsii str. Colombia
+BMID000000141650 Cyanothece sp. (strain PCC 8801)
+BMID000000142699 Helicobacter pylori Shi112
+BMID000000142714 Chlamydia trachomatis L1/440/LN
+BMID000000142668 Campylobacter jejuni subsp. jejuni (strain S3)
+BMID000000141857 Exiguobacterium sp. (strain ATCC BAA-1283 / AT1b)
+BMID000000142309 Helicobacter cinaedi ATCC BAA-847
+BMID000000141786 Streptococcus macedonicus (strain ACA-DC 198)
+BMID000000141877 Streptomyces avermitilis (strain ATCC 31267 / DSM 46492 / JCM 5070 / NCIMB 12804 / NRRL 8165 / MA-4680)
+BMID000000142409 Chlamydia psittaci WS/RT/E30
+BMID000000141362 Lactobacillus buchneri (strain NRRL B-30929)
+BMID000000140361 Leptospira interrogans serogroup Icterohaemorrhagiae serovar copenhageni (strain Fiocruz L1-130)
+BMID000000142654 Wolbachia endosymbiont of Drosophila simulans wNo
+BMID000000140969 Desulfitobacterium hafniense (strain Y51)
+BMID000000142238 Chlamydia psittaci 08DC60
+BMID000000142789 Streptococcus mutans GS-5
+BMID000000140801 Nitratiruptor sp. (strain SB155-2)
+BMID000000141861 Mycoplasma mobile (strain ATCC 43663 / 163K / NCTC 11711)
+BMID000000141386 Sulfolobus tokodaii (strain DSM 16993 / JCM 10545 / NBRC 100140 / 7)
+BMID000000141954 Salmonella typhimurium (strain 4/74)
+BMID000000142325 Listeria monocytogenes serotype 4a (strain M7)
+BMID000000140277 Streptomyces violaceusniger Tu 4113
+BMID000000140266 Caldicellulosiruptor saccharolyticus (strain ATCC 43494 / DSM 8903)
+BMID000000142397 Listeria monocytogenes SLCC7179
+BMID000000141034 Desulfitobacterium hafniense (strain DCB-2 / DSM 10664)
+BMID000000141764 Pelobacter carbinolicus (strain DSM 2380 / Gra Bd 1)
+BMID000000141606 Lactobacillus delbrueckii subsp. bulgaricus (strain ATCC BAA-365)
+BMID000000142076 Mycoplasma genitalium M2288
+BMID000000140729 Methanococcus maripaludis (strain C6 / ATCC BAA-1332)
+BMID000000141398 Prevotella denticola (strain F0289)
+BMID000000141123 Geobacillus sp. (strain C56-T3)
+BMID000000142301 Treponema pallidum subsp. pallidum str. Mexico A
+BMID000000141164 Francisella tularensis subsp. tularensis (strain FSC 198)
+BMID000000141326 Streptococcus pneumoniae (strain ATCC 700669 / Spain 23F-1)
+BMID000000142402 Pseudomonas putida (strain BIRD-1)
+BMID000000142350 Megamonas hypermegale ART12/1
+BMID000000141951 Lactobacillus plantarum (strain ATCC BAA-793 / NCIMB 8826 / WCFS1)
+BMID000000142065 Lactobacillus fermentum (strain CECT 5716)
+BMID000000141196 Frankia sp. (strain CcI3)
+BMID000000142110 Aggregatibacter actinomycetemcomitans D7S-1
+BMID000000141416 Enterococcus faecalis (strain ATCC 700802 / V583)
+BMID000000141574 Bacillus megaterium (strain DSM 319)
+BMID000000140241 Syntrophus aciditrophicus (strain SB)
+BMID000000141463 Streptococcus pyogenes serotype M18 (strain MGAS8232)
+BMID000000141957 Simkania negevensis (strain ATCC VR-1471 / Z)
+BMID000000141302 Corynebacterium variabile (strain DSM 44702 / JCM 12073 / NCIMB 30131)
+BMID000000141445 Rhodobacter sphaeroides (strain ATCC 17029 / ATH 2.4.9)
+BMID000000142218 Streptococcus pneumoniae SPN994038
+BMID000000141478 Acinetobacter baumannii (strain ATCC 17978 / NCDC KC 755)
+BMID000000141815 Methanothermococcus okinawensis (strain DSM 14208 / JCM 11175 / IH1)
+BMID000000142126 Candidatus Carsonella ruddii CE isolate Thao2000
+BMID000000141892 Buchnera aphidicola subsp. Acyrthosiphon pisum (strain Tuc7)
+BMID000000141346 Oryza sativa subsp. japonica
+BMID000000140411 Treponema azotonutricium (strain ATCC BAA-888 / DSM 13862 / ZAS-9)
+BMID000000142506 Neisseria meningitidis serogroup B (strain G2136)
+BMID000000140821 Alkaliphilus oremlandii (strain OhILAs)
+BMID000000141047 Bifidobacterium bifidum (strain PRL2010)
+BMID000000140537 Tropheryma whipplei (strain TW08/27)
+BMID000000141515 Vulcanisaeta distributa (strain DSM 14429 / JCM 11212 / NBRC 100878 / IC-017)
+BMID000000142195 Rickettsia prowazekii (strain Rp22)
+BMID000000140703 Rhodopseudomonas palustris (strain HaA2)
+BMID000000142001 Vulcanisaeta moutnovskia (strain 768-28)
+BMID000000142635 Mycoplasma gallisepticum NC06_2006.080-5-2P
+BMID000000141875 Pseudomonas putida (strain KT2440)
+BMID000000141269 Polymorphum gilvum (strain LMG 25793 / CGMCC 1.9160 / SL003B-26A1)
+BMID000000141562 Burkholderia sp. (strain CCGE1003)
+BMID000000141338 Croceibacter atlanticus (strain ATCC BAA-628 / HTCC2559 / KCTC 12090)
+BMID000000142411 Listeria monocytogenes serotype 1/2a (strain 10403S)
+BMID000000141840 Thermofilum pendens (strain Hrk 5)
+BMID000000142217 Bifidobacterium animalis subsp. animalis (strain ATCC 25527 / DSM 20104 / JCM 1190 / R101-8)
+BMID000000141684 Agrobacterium vitis (strain S4 / ATCC BAA-846)
+BMID000000141823 Uncinocarpus reesii (strain UAMH 1704)
+BMID000000140623 Ruegeria pomeroyi (strain ATCC 700808 / DSM 15171 / DSS-3)
+BMID000000140654 Methylobacterium extorquens (strain DSM 5838 / DM4)
+BMID000000141944 Magnaporthe oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958)
+BMID000000142270 Mycoplasma gallisepticum NY01_2001.047-5-1P
+BMID000000142051 Chlamydia psittaci GR9
+BMID000000140811 Ehrlichia ruminantium (strain Welgevonden)
+BMID000000141846 Coccidioides immitis (strain RS)
+BMID000000142390 Escherichia coli str. K-12 substr. MDS42
+BMID000000142287 Xanthomonas citri subsp. citri Aw12879
+BMID000000140278 Anaplasma centrale (strain Israel)
+BMID000000142840 Puccinia graminis f. sp. tritici (strain CRL 75-36-700-3 / race SCCL)
+BMID000000141660 Staphylococcus aureus (strain COL)
+BMID000000141444 Bacteroides fragilis (strain ATCC 25285 / NCTC 9343)
+BMID000000142577 Listeria monocytogenes SLCC2540
+BMID000000142548 Lactobacillus plantarum ZJ316
+BMID000000140330 Nostoc sp. (strain PCC 7120 / UTEX 2576)
+BMID000000142743 Clostridium botulinum (strain 230613 / Type F)
+BMID000000141612 Sulfolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2)
+BMID000000141325 Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSC A1100)
+BMID000000142361 Helicobacter pylori 2017
+BMID000000140824 Bacillus thuringiensis (strain Al Hakam)
+BMID000000140804 Jonesia denitrificans (strain ATCC 14870 / DSM 20603 / CIP 55134)
+BMID000000140240 Mycoplasma mycoides subsp. capri LC str. 95010
+BMID000000140554 Vibrio fischeri (strain MJ11)
+BMID000000141566 Mycobacterium tuberculosis RGTB327
+BMID000000140588 Frankia sp. (strain EAN1pec)
+BMID000000142662 Corynebacterium pseudotuberculosis (strain I19)
+BMID000000141071 Corynebacterium efficiens (strain DSM 44549 / YS-314 / AJ 12310 / JCM 11189 / NBRC 100395)
+BMID000000142143 Chlamydia trachomatis L2/25667R
+BMID000000141816 Streptococcus suis (strain P1/7)
+BMID000000141596 Conexibacter woesei (strain DSM 14684 / JCM 11494 / NBRC 100937 / ID131577)
+BMID000000141422 Acidovorax ebreus (strain TPSY)
+BMID000000142137 Mycoplasma gallisepticum VA94_7994-1-7P
+BMID000000141001 Maribacter sp. (strain HTCC2170 / KCCM 42371)
+BMID000000140618 Drosophila ananassae
+BMID000000141173 Methanococcus voltae (strain ATCC BAA-1334 / A3)
+BMID000000141252 Clostridium novyi (strain NT)
+BMID000000142751 Bacillus subtilis subsp. subtilis str. BSP1
+BMID000000140767 Methylobacterium radiotolerans (strain ATCC 27329 / DSM 1819 / JCM 2831)
+BMID000000141267 Hydrogenobacter thermophilus (strain DSM 6534 / IAM 12695 / TK-6)
+BMID000000142733 Thielavia heterothallica (strain ATCC 42464 / BCRC 31852 / DSM 1799)
+BMID000000141088 Caenorhabditis briggsae
+BMID000000141494 Geobacillus thermodenitrificans (strain NG80-2)
+BMID000000140861 Synechocystis sp. PCC 6803 substr. GT-I
+BMID000000140752 Streptococcus infantarius (strain CJ18)
+BMID000000142273 Escherichia coli (strain ATCC 9637 / CCM 2024 / DSM 1116 / NCIMB 8666 / NRRL B-766 / W)
+BMID000000141722 Anaerococcus prevotii (strain ATCC 9321 / DSM 20548 / JCM 6508 / PC1)
+BMID000000141095 Trypanosoma cruzi (strain CL Brener)
+BMID000000142781 Pseudanabaena sp. PCC 7367
+BMID000000142294 Methanolobus psychrophilus R15
+BMID000000142760 Mycobacterium massiliense str. GO 06
+BMID000000142412 Singulisphaera acidiphila (strain ATCC BAA-1392 / DSM 18658 / VKM B-2454 / MOB10)
+BMID000000141893 Arthrobacter phenanthrenivorans (strain DSM 18606 / JCM 16027 / LMG 23796 / Sphe3)
+BMID000000141483 Streptococcus pyogenes serotype M12 (strain MGAS2096)
+BMID000000141995 Chlamydia trachomatis serovar L2b (strain UCH-1/proctitis)
+BMID000000140749 Lachancea thermotolerans (strain ATCC 56472 / CBS 6340 / NRRL Y-8284)
+BMID000000141571 Corynebacterium diphtheriae (strain HC02)
+BMID000000142344 Solibacillus silvestris (strain StLB046)
+BMID000000141101 Streptococcus pyogenes serotype M6 (strain ATCC BAA-946 / MGAS10394)
+BMID000000141771 Ashbya gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056)
+BMID000000141311 Treponema pallidum subsp. pallidum (strain SS14)
+BMID000000140577 Muricauda ruestringensis (strain DSM 13258 / LMG 19739 / B1)
+BMID000000142215 Listeria monocytogenes L312
+BMID000000142191 Neisseria gonorrhoeae TCDC-NG08107
+BMID000000141663 Cronobacter turicensis (strain DSM 18703 / LMG 23827 / z3032)
+BMID000000142551 Escherichia coli O104:H4 (strain 2009EL-2050)
+BMID000000141351 Aspergillus niger (strain CBS 513.88 / FGSC A1513)
+BMID000000142104 Nonlabens dokdonensis (strain DSM 17205 / KCTC 12402 / DSW-6)
+BMID000000141955 Helicobacter hepaticus (strain ATCC 51449 / 3B1)
+BMID000000142799 Lactobacillus buchneri CD034
+BMID000000140293 Cellvibrio japonicus (strain Ueda107)
+BMID000000142086 Micavibrio aeruginosavorus EPB
+BMID000000141381 Archaeoglobus veneficus (strain DSM 11195 / SNP6)
+BMID000000141093 Amycolatopsis mediterranei (strain U-32)
+BMID000000142351 Chlamydia psittaci 02DC15
+BMID000000140587 Staphylococcus haemolyticus (strain JCSC1435)
+BMID000000140722 Megasphaera elsdenii DSM 20460
+BMID000000141245 Acidilobus saccharovorans (strain DSM 16705 / VKM B-2471 / 345-15)
+BMID000000141976 Streptomyces flavogriseus (strain ATCC 33331 / DSM 40990 / IAF-45CD)
+BMID000000141570 Methylobacterium nodulans (strain ORS2060 / LMG 21967)
+BMID000000142665 Escherichia coli (strain 'clone D i14')
+BMID000000140939 Lactobacillus johnsonii (strain CNCM I-12250 / La1 / NCC 533)
+BMID000000140870 Yersinia pestis (strain D106004)
+BMID000000142843 Burkholderia multivorans (strain ATCC 17616 / 249)
+BMID000000140646 Erwinia amylovora (strain ATCC 49946 / CCPPB 0273 / Ea273 / 27-3)
+BMID000000142101 Chlamydia psittaci 01DC11
+BMID000000140918 Symbiobacterium thermophilum (strain T / IAM 14863)
+BMID000000141453 Mycobacterium leprae (strain Br4923)
+BMID000000142272 Francisella tularensis subsp. holarctica FSC200
+BMID000000140571 Runella slithyformis (strain ATCC 29530 / DSM 19594 / LMG 11500 / NCIMB 11436 / LSU 4)
+BMID000000141950 Campylobacter jejuni (strain RM1221)
+BMID000000142420 Synechococcus sp. PCC 7502
+BMID000000140365 Bacillus halodurans (strain ATCC BAA-125 / DSM 18197 / FERM 7344 / JCM 9153 / C-125)
+BMID000000141147 Mycoplasma haemofelis (strain Langford 1)
+BMID000000141499 Mannheimia succiniciproducens (strain MBEL55E)
+BMID000000142428 Acinetobacter baumannii (strain TCDC-AB0715)
+BMID000000140489 Cyclobacterium marinum (strain ATCC 25205 / DSM 745)
+BMID000000140781 Desulfobacterium autotrophicum (strain ATCC 43914 / DSM 3382 / HRM2)
+BMID000000140652 Dickeya zeae (strain Ech1591)
+BMID000000140495 Synechococcus sp. (strain ATCC 27144 / PCC 6301 / SAUG 1402/1)
+BMID000000140777 Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97)
+BMID000000142422 Brucella suis biovar 1 (strain 1330)
+BMID000000140297 Oligotropha carboxidovorans (strain ATCC 49405 / DSM 1227 / OM5)
+BMID000000141573 Burkholderia mallei (strain ATCC 23344)
+BMID000000141294 Bifidobacterium animalis subsp. lactis (strain DSM 10140 / JCM 10602 / LMG 18314)
+BMID000000141261 Drosophila grimshawi
+BMID000000142813 Borrelia burgdorferi (strain JD1)
+BMID000000142815 Helicobacter pylori Rif1
+BMID000000142078 Dehalococcoides mccartyi BTF08
+BMID000000140689 Uncultured termite group 1 bacterium phylotype Rs-D17
+BMID000000142749 Aciduliprofundum sp. (strain MAR08-339)
+BMID000000140352 Dictyoglomus turgidum (strain Z-1310 / DSM 6724)
+BMID000000140895 Caldicellulosiruptor kristjanssonii (strain ATCC 700853 / DSM 12137 / I77R1B)
+BMID000000142111 Mycoplasma hyopneumoniae (strain 168)
+BMID000000140366 Shewanella amazonensis (strain ATCC BAA-1098 / SB2B)
+BMID000000142583 Ruminococcus sp. SR1/5
+BMID000000140368 Chlamydia trachomatis serovar B (strain TZ1A828/OT)
+BMID000000141884 Mycobacterium paratuberculosis (strain ATCC BAA-968 / K-10)
+BMID000000141903 Caldicellulosiruptor lactoaceticus 6A
+BMID000000140985 Sorangium cellulosum (strain So ce56)
+BMID000000140974 Nitrosomonas eutropha (strain C91)
+BMID000000141651 Wigglesworthia glossinidia endosymbiont of Glossina morsitans morsitans (Yale colony)
+BMID000000140921 Pediococcus claussenii (strain ATCC BAA-344 / DSM 14800 / JCM 18046 / KCTC 3811 / P06)
+BMID000000141066 Rickettsia felis (strain ATCC VR-1525 / URRWXCal2)
+BMID000000142332 Helicobacter pylori XZ274
+BMID000000140487 Chlamydomonas reinhardtii
+BMID000000140327 Acyrthosiphon pisum
+BMID000000141836 Bacillus subtilis (strain 168)
+BMID000000141856 Brachypodium distachyon
+BMID000000142139 Cronobacter sakazakii SP291
+BMID000000140798 Rickettsia rickettsii (strain Sheila Smith)
+BMID000000141697 Blattabacterium sp. (Mastotermes darwiniensis) str. MADAR
+BMID000000142026 Synechococcus sp. (strain WH8102)
+BMID000000142401 Staphylococcus pseudintermedius (strain ED99)
+BMID000000141470 Gibberella zeae (strain PH-1 / ATCC MYA-4620 / FGSC 9075 / NRRL 31084)
+BMID000000141934 Candida tropicalis (strain ATCC MYA-3404 / T1)
+BMID000000140583 Burkholderia mallei (strain SAVP1)
+BMID000000140820 Coxiella burnetii (strain CbuK_Q154)
+BMID000000140959 Francisella philomiragia subsp. philomiragia (strain ATCC 25017)
+BMID000000140988 Postia placenta (strain ATCC 44394 / Madison 698-R)
+BMID000000140463 Ralstonia metallidurans (strain CH34 / ATCC 43123 / DSM 2839)
+BMID000000140219 Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044
+BMID000000142730 Synergistetes bacterium SGP1
+BMID000000141745 Microcystis aeruginosa (strain NIES-843)
+BMID000000140958 Staphylothermus hellenicus (strain DSM 12710 / JCM 10830 / BK20S6-10-b1 / P8)
+BMID000000141556 Bradyrhizobium sp. S23321
+BMID000000140665 Clavispora lusitaniae (strain ATCC 42720)
+BMID000000140247 Pseudomonas aeruginosa (strain UCBPP-PA14)
+BMID000000140662 Clostridium botulinum (strain Langeland / NCTC 10281 / Type F)
+BMID000000140733 Helicobacter pylori (strain ATCC 700392 / 26695)
+BMID000000142282 Streptococcus thermophilus (strain ND03)
+BMID000000142745 Chlamydia psittaci VS225
+BMID000000140785 Methylotenera mobilis (strain JLW8 / ATCC BAA-1282 / DSM 17540)
+BMID000000140994 Streptococcus oralis (strain Uo5)
+BMID000000142795 Candidatus Kinetoplastibacterium crithidii TCC036E
+BMID000000141673 Brucella abortus A13334
+BMID000000140889 Bacillus tusciae (strain DSM 2912 / NBRC 15312 / T2)
+BMID000000142481 Listeria monocytogenes N53-1
+BMID000000140750 Methanosalsum zhilinae (strain DSM 4017 / NBRC 107636 / OCM 62 / WeN5)
+BMID000000140741 Dehalococcoides sp. (strain CBDB1)
+BMID000000141114 Cyanothece sp. (strain PCC 7424)
+BMID000000141708 Thermincola potens (strain JR)
+BMID000000140592 Roseburia hominis (strain DSM 16839 / NCIMB 14029 / A2-183)
+BMID000000140805 Serratia proteamaculans (strain 568)
+BMID000000141536 Thermoanaerobacter mathranii (strain DSM 11426 / CIP 108742 / A3)
+BMID000000142533 Gloeocapsa sp. PCC 7428
+BMID000000140755 Treponema pallidum subsp. pertenue (strain Samoa D)
+BMID000000142709 Methylophaga sp. (strain JAM7)
+BMID000000140912 Dictyoglomus thermophilum (strain ATCC 35947 / DSM 3960 / H-6-12)
+BMID000000140642 Rothia dentocariosa (strain ATCC 17931 / CDC X599 / XDIA)
+BMID000000141841 Burkholderia thailandensis (strain E264 / ATCC 700388 / DSM 13276 / CIP 106301)
+BMID000000141529 Desulfovibrio vulgaris (strain Hildenborough / ATCC 29579 / NCIMB 8303)
+BMID000000142508 Candida orthopsilosis (strain 90-125)
+BMID000000141761 Sulfuricurvum kujiense (strain ATCC BAA-921 / DSM 16994 / JCM 11577 / YK-1)
+BMID000000141921 Butyrivibrio proteoclasticus (strain ATCC 51982 / DSM 14932 / B316)
+BMID000000140342 Corynebacterium resistens (strain DSM 45100 / JCM 12819 / GTC 2026)
+BMID000000140320 Listeria monocytogenes serotype 1/2a (strain 08-5578)
+BMID000000141607 Helicobacter pylori (strain Shi470)
+BMID000000142418 Helicobacter cetorum (strain ATCC BAA-540 / MIT 99-5656)
+BMID000000140533 Pyrococcus sp. (strain NA2)
+BMID000000142148 Shewanella putrefaciens (strain 200)
+BMID000000142545 Streptococcus pneumoniae serotype 3 (strain OXC141)
+BMID000000141020 Clostridium clariflavum (strain DSM 19732 / NBRC 101661 / EBR45)
+BMID000000140509 Pedobacter saltans (strain ATCC 51119 / DSM 12145 / JCM 21818 / LMG 10337 / NBRC 100064 / NCIMB 13643)
+BMID000000141144 Pseudomonas fluorescens (strain Pf0-1)
+BMID000000140376 Rickettsia rickettsii str. Arizona
+BMID000000141249 Riemerella anatipestifer (strain ATCC 11845 / DSM 15868 / JCM 9532 / NCTC 11014)
+BMID000000140848 Saccharomyces paradoxus NRRL Y-17217
+BMID000000141112 Pyrobaculum islandicum (strain DSM 4184 / JCM 9189)
+BMID000000141436 Leuconostoc kimchii (strain IMSNU 11154 / KCTC 2386 / IH25)
+BMID000000141654 Bacteroides helcogenes (strain ATCC 35417 / DSM 20613 / JCM 6297 / P 36-108)
+BMID000000141098 Staphylococcus aureus (strain NCTC 8325)
+BMID000000140875 Aeromonas salmonicida (strain A449)
+BMID000000140928 Prochlorococcus marinus (strain NATL2A)
+BMID000000140967 Thermaerobacter marianensis (strain ATCC 700841 / DSM 12885 / JCM 10246 / 7p75a)
+BMID000000142664 Chlamydia trachomatis F/SW5
+BMID000000142765 Corynebacterium halotolerans YIM 70093 = DSM 44683
+BMID000000141391 Rhodobacter capsulatus (strain ATCC BAA-309 / NBRC 16581 / SB1003)
+BMID000000142314 Candidatus Methylomirabilis oxyfera
+BMID000000141961 Methanobacterium sp. (strain AL-21)
+BMID000000141181 Corynebacterium diphtheriae (strain ATCC 700971 / NCTC 13129 / Biotype gravis)
+BMID000000141558 Neisseria lactamica (strain 020-06)
+BMID000000141221 Pectobacterium carotovorum subsp. carotovorum (strain PC1)
+BMID000000140976 Mesorhizobium ciceri bv. biserrulae (strain HAMBI 2942 / LMG 23838 / WSM1271)
+BMID000000141876 Mycoplasma agalactiae (strain PG2)
+BMID000000141926 Mycobacterium sp. (strain KMS)
+BMID000000142446 Corynebacterium pseudotuberculosis Cp162
+BMID000000142131 Spirochaeta thermophila (strain ATCC 700085 / DSM 6578 / Z-1203)
+BMID000000140797 Brucella canis (strain ATCC 23365 / NCTC 10854)
+BMID000000142011 Herbaspirillum seropedicae (strain SmR1)
+BMID000000141458 Campylobacter jejuni subsp. doylei (strain ATCC BAA-1458 / RM4099 / 269.97)
+BMID000000140758 Chlamydia trachomatis (strain D/UW-3/Cx)
+BMID000000140634 Rickettsia rickettsii str. Hauke
+BMID000000142486 Helicobacter pylori (strain 51)
+BMID000000141895 Acinetobacter baumannii (strain 1656-2)
+BMID000000140626 Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-3)
+BMID000000141109 Sulcia muelleri (strain DMIN)
+BMID000000141618 Nocardioides sp. (strain BAA-499 / JS614)
+BMID000000141930 Pyrenophora teres f. teres (strain 0-1)
+BMID000000142553 Emticicia oligotrophica (strain DSM 17448 / GPTSA100-15)
+BMID000000141029 Burkholderia pseudomallei (strain 1710b)
+BMID000000141882 Bacteroides salanitronis (strain DSM 18170 / JCM 13567 / BL78)
+BMID000000140507 Listeria monocytogenes serotype 4b (strain F2365)
+BMID000000140409 Shewanella oneidensis (strain MR-1)
+BMID000000141507 Sulfolobus islandicus (strain M.16.4 / Kamchatka #3)
+BMID000000142292 beta proteobacterium CB
+BMID000000140915 Bacillus coagulans (strain 2-6)
+BMID000000140674 Methanospirillum hungatei JF-1 (strain ATCC 27890 / DSM 864 / NBRC 100397 / JF-1)
+BMID000000140375 Ehrlichia ruminantium (strain Gardel)
+BMID000000141946 Spirochaeta caldaria (strain ATCC 51460 / DSM 7334 / H1)
+BMID000000140334 Gluconacetobacter xylinus (strain NBRC 3288 / BCRC 11682 / LMG 1693)
+BMID000000142329 Chlamydia trachomatis L2b/8200/07
+BMID000000140887 Monosiga brevicollis MX1
+BMID000000140388 Bacillus amyloliquefaciens XH7
+BMID000000140223 Haemophilus somnus (strain 129Pt)
+BMID000000141800 Rhodopirellula baltica (strain SH1)
+BMID000000141754 Aliivibrio salmonicida (strain LFI1238)
+BMID000000140679 Streptococcus parasanguinis (strain ATCC 15912 / DSM 6778 / CIP 104372 / LMG 14537)
+BMID000000141935 Flavobacteriaceae bacterium (strain 3519-10)
+BMID000000141705 Shewanella baltica (strain OS185)
+BMID000000141073 Mycobacterium gilvum (strain PYR-GCK)
+BMID000000141883 Verminephrobacter eiseniae (strain EF01-2)
+BMID000000141973 Rickettsia parkeri (strain Portsmouth)
+BMID000000141733 Chlamydia muridarum (strain MoPn / Nigg)
+BMID000000140986 Caulobacter sp. (strain K31)
+BMID000000141057 Clostridium saccharolyticum (strain ATCC 35040 / DSM 2544 / NRCC 2533 / WM1)
+BMID000000142783 Listeria monocytogenes SLCC2755
+BMID000000140846 Zymomonas mobilis subsp. mobilis (strain NCIB 11163)
+BMID000000140225 Xanthomonas axonopodis pv. citrumelo F1
+BMID000000141030 Mycoplasma gallisepticum (strain R(low / passage 15 / clone 2))
+BMID000000142338 Escherichia coli (strain B / BL21-DE3)
+BMID000000140315 Buchnera aphidicola subsp. Acyrthosiphon pisum (strain JF98)
+BMID000000141210 Fibrobacter succinogenes (strain ATCC 19169 / S85)
+BMID000000141516 Kocuria rhizophila (strain ATCC 9341 / DSM 348 / NBRC 103217 / DC2201)
+BMID000000142113 Campylobacter jejuni subsp. jejuni (strain IA3902)
+BMID000000141977 Xylella fastidiosa (strain 9a5c)
+BMID000000142569 Streptococcus suis A7
+BMID000000141627 Anopheles gambiae str. PEST
+BMID000000141682 Leptospira biflexa serovar Patoc (strain Patoc 1 / Ames)
+BMID000000141388 Achromobacter xylosoxidans (strain A8)
+BMID000000141421 Bacillus cereus (strain ATCC 10987)
+BMID000000141543 Pelodictyon luteolum (strain DSM 273)
+BMID000000140601 Thermodesulfobium narugense DSM 14796
+BMID000000140503 Novosphingobium aromaticivorans (strain DSM 12444)
+BMID000000142114 Mycoplasma gallisepticum (strain F)
+BMID000000140818 Bacillus cereus (strain Q1)
+BMID000000141186 Listeria innocua serovar 6a (strain CLIP 11262)
+BMID000000140922 Thermococcus sp. (strain CGMCC 1.5172 / 4557)
+BMID000000140243 Legionella longbeachae serogroup 1 (strain NSW150)
+BMID000000141415 Vibrio harveyi (strain ATCC BAA-1116 / BB120)
+BMID000000141204 Staphylococcus epidermidis (strain ATCC 35984 / RP62A)
+BMID000000142488 Thioalkalivibrio nitratireducens (strain DSM 14787 / UNIQEM 213 / ALEN2)
+BMID000000142414 secondary endosymbiont of Ctenarytaina eucalypti
+BMID000000142176 Gardnerella vaginalis (strain HMP9231)
+BMID000000141247 Cupriavidus necator (strain ATCC 17699 / H16 / DSM 428 / Stanier 337)
+BMID000000141395 Methylobacterium extorquens (strain PA1)
+BMID000000142150 Deinococcus peraridilitoris (strain DSM 19664 / LMG 22246 / CIP 109416 / KR-200)
+BMID000000141931 Gallionella capsiferriformans (strain ES-2)
+BMID000000140841 Macrococcus caseolyticus (strain JCSC5402)
+BMID000000142777 Yersinia pestis bv. Medievalis (strain Harbin 35)
+BMID000000140280 Mycobacterium intracellulare MOTT-64
+BMID000000141120 Roseobacter litoralis (strain ATCC 49566 / DSM 6996 / JCM 21268 / NBRC 15278 / OCh 149)
+BMID000000142622 Mycobacterium tuberculosis RGTB423
+BMID000000140604 Leptospirillum ferrooxidans (strain C2-3)
+BMID000000140790 Brucella suis biovar 1 (strain 1330)
+BMID000000142244 Bacillus amyloliquefaciens subsp. plantarum UCMB5036
+BMID000000141509 Clostridium thermocellum (strain ATCC 27405 / DSM 1237)
+BMID000000142205 Chlamydia trachomatis L2b/795
+BMID000000140237 Campylobacter jejuni subsp. jejuni serotype HS:41 (strain ICDCCJ07001)
+BMID000000142802 Listeria monocytogenes SLCC5850
+BMID000000140269 Pongo abelii
+BMID000000140925 Desulfatibacillum alkenivorans (strain AK-01)
+BMID000000140700 Burkholderia pseudomallei (strain K96243)
+BMID000000141322 Rickettsia australis (strain Cutlack)
+BMID000000140719 Halothermothrix orenii (strain H 168 / OCM 544 / DSM 9562)
+BMID000000142404 Thermobacillus composti (strain DSM 18247 / JCM 13945 / KWC4)
+BMID000000140206 Cytophaga hutchinsonii (strain ATCC 33406 / NCIMB 9469)
+BMID000000140492 Prochlorococcus marinus (strain MIT 9313)
+BMID000000140675 Bacillus anthracis str. Ames
+BMID000000142223 Streptococcus thermophilus MN-ZLW-002
+BMID000000140401 Geobacter sp. (strain M18)
+BMID000000141159 Bacteroides fragilis (strain YCH46)
+BMID000000140859 Tannerella forsythia (strain ATCC 43037 / JCM 10827 / FDC 338)
+BMID000000141983 Shewanella sp. (strain MR-7)
+BMID000000140883 Methanopyrus kandleri (strain AV19 / DSM 6324 / JCM 9639 / NBRC 100938)
+BMID000000142747 Leptospira interrogans serogroup Icterohaemorrhagiae serovar Lai (strain IPAV)
+BMID000000142639 Chlamydia trachomatis L3/404/LN
+BMID000000141809 Pseudoalteromonas haloplanktis (strain TAC 125)
+BMID000000140282 Magnetococcus sp. (strain MC-1)
+BMID000000141587 Corynebacterium diphtheriae (strain BH8)
+BMID000000140232 Mycoplasma suis (strain Illinois)
+BMID000000141183 Francisella sp. (strain TX077308)
+BMID000000140793 Methylibium petroleiphilum (strain PM1)
+BMID000000140498 Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)
+BMID000000140879 Wigglesworthia glossinidia brevipalpis
+BMID000000142697 Xanthomonas oryzae pv. oryzicola BLS256
+BMID000000141111 Zunongwangia profunda (strain DSM 18752 / CCTCC AB 206139 / SM-A87)
+BMID000000142683 Bifidobacterium asteroides (strain PRL2011)
+BMID000000141308 Klebsiella pneumoniae (strain 342)
+BMID000000141508 Thermoanaerobacterium thermosaccharolyticum (strain ATCC 7956 / DSM 571 / NCIB 9385 / NCA 3814)
+BMID000000141274 Teredinibacter turnerae (strain ATCC 39867 / T7901)
+BMID000000141644 Chlamydophila pecorum (strain ATCC VR-628 / E58)
+BMID000000141564 Haemophilus influenzae (strain 10810)
+BMID000000141621 Pyrobaculum arsenaticum (strain DSM 13514 / JCM 11321)
+BMID000000142140 Dactylococcopsis salina PCC 8305
+BMID000000140231 Mycoplasma hyopneumoniae (strain 7448)
+BMID000000142633 Mannheimia haemolytica USDA-ARS-USMARC-185
+BMID000000142142 Polaribacter sp. MED152
+BMID000000141328 Bifidobacterium animalis subsp. lactis (strain Bl-04 / DGCC2908 / RB 4825 / SD5219)
+BMID000000142485 Mycoplasma mycoides subsp. mycoides SC (strain Gladysdale)
+BMID000000140622 Babesia bovis T2Bo
+BMID000000141486 Methanothermobacter marburgensis (strain DSM 2133 / 14651 / NBRC 100331 / OCM 82 / Marburg)
+BMID000000141542 Brucella suis (strain ATCC 23445 / NCTC 10510)
+BMID000000141353 Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+BMID000000142557 Chlamydia psittaci WC
+BMID000000140676 Pyrolobus fumarii (strain DSM 11204 / 1A)
+BMID000000142694 Synechocystis sp. PCC 6803
+BMID000000140451 Micrococcus luteus (strain ATCC 4698 / DSM 20030 / JCM 1464 / NBRC 3333 / NCIMB 9278 / NCTC 2665 / VKM Ac-2230)
+BMID000000140581 Rhodopseudomonas palustris (strain BisB18)
+BMID000000141068 Bacillus cereus (strain ZK / E33L)
+BMID000000140854 Geobacter bemidjiensis (strain Bem / ATCC BAA-1014 / DSM 16622)
+BMID000000142190 Mycosphaerella graminicola (strain CBS 115943 / IPO323)
+BMID000000140236 Azospira oryzae (strain ATCC BAA-33 / DSM 13638 / PS)
+BMID000000141002 Mycoplasma hyorhinis (strain HUB-1)
+BMID000000142043 Chlamydophila pneumoniae AR39
+BMID000000141160 Campylobacter hominis (strain ATCC BAA-381 / LMG 19568 / NCTC 13146 / CH001A)
+BMID000000142474 Helicobacter pylori (strain Sat464)
+BMID000000140725 Rickettsia typhi (strain ATCC VR-144 / Wilmington)
+BMID000000141936 Propionibacterium acnes TypeIA2 P.acn33
+BMID000000142006 Bifidobacterium animalis subsp. lactis BLC1
+BMID000000142571 Chlamydia trachomatis F/SotonF3
+BMID000000141994 Oceanimonas sp. (strain GK1)
+BMID000000141503 Methanococcoides burtonii (strain DSM 6242)
+BMID000000140461 Kangiella koreensis (strain DSM 16069 / KCTC 12182 / SW-125)
+BMID000000142432 Mycobacterium intracellulare (strain ATCC 13950 / DSM 43223 / JCM 6384 / NCTC 13025 / 3600)
+BMID000000142646 Rivularia sp. PCC 7116
+BMID000000141136 Methanococcus maripaludis X1
+BMID000000142179 Propionibacterium acidipropionici (strain ATCC 4875 / DSM 20272 / JCM 6432 / NBRC 12425 / NCIMB 8070)
+BMID000000142685 Exiguobacterium antarcticum (strain B7)
+BMID000000142817 Helicobacter pylori Rif2
+BMID000000142353 Staphylococcus aureus (strain MRSA ST398 / isolate S0385)
+BMID000000141135 Sulcia muelleri (strain GWSS)
+BMID000000140706 Uncultured methanogenic archaeon RC-I
+BMID000000142642 Methylocystis sp. (strain SC2)
+BMID000000141620 Streptococcus equi subsp. zooepidemicus
+BMID000000141962 Rothia mucilaginosa (strain DY-18)
+BMID000000141229 Xylella fastidiosa (strain M12)
+BMID000000140452 Salmonella agona (strain SL483)
+BMID000000140230 Candida dubliniensis (strain CD36 / ATCC MYA-646 / CBS 7987 / NCPF 3949 / NRRL Y-17841)
+BMID000000141633 Gloeobacter violaceus (strain PCC 7421)
+BMID000000140547 Prosthecochloris aestuarii (strain DSM 271 / SK 413)
+BMID000000141379 Vibrio vulnificus (strain CMCP6)
+BMID000000142155 Candidatus Carsonella ruddii PC isolate NHV
+BMID000000141074 Ornithorhynchus anatinus
+BMID000000142718 Cylindrospermum stagnale PCC 7417
+BMID000000140599 Deinococcus geothermalis (strain DSM 11300)
+BMID000000140656 Clostridium difficile (strain 630)
+BMID000000140382 Leptospira biflexa serovar Patoc (strain Patoc 1 / ATCC 23582 / Paris)
+BMID000000140585 Francisella tularensis subsp. tularensis (strain WY96-3418)
+BMID000000141045 Mesoplasma florum (strain ATCC 33453 / NBRC 100688 / NCTC 11704 / L1)
+BMID000000142212 Staphylococcus aureus subsp. aureus 11819-97
+BMID000000141441 Lactobacillus plantarum (strain ST-III)
+BMID000000140809 Rickettsia prowazekii str. RpGvF24
+BMID000000142588 Terriglobus roseus (strain DSM 18391 / NRRL B-41598 / KBS 63)
+BMID000000140406 Micavibrio aeruginosavorus (strain ARL-13)
+BMID000000141082 Melissococcus plutonius (strain ATCC 35311 / CIP 104052 / LMG 20360 / NCIMB 702443)
+BMID000000140661 Acinetobacter baumannii (strain SDF)
+BMID000000142674 Acinetobacter baumannii TYTH-1
+BMID000000141487 Beutenbergia cavernae (strain ATCC BAA-8 / DSM 12333 / NBRC 16432)
+BMID000000140477 Sphingobium sp. SYK-6
+BMID000000141547 Bacillus subtilis subsp. subtilis str. RO-NN-1
+BMID000000140766 Desulfovibrio desulfuricans (strain G20)
+BMID000000140684 Acinetobacter baumannii (strain AB307-0294)
+BMID000000142684 Desulfosporosinus acidiphilus (strain DSM 22704 / JCM 16185 / SJ4)
+BMID000000141759 Dictyostelium discoideum AX4
+BMID000000141174 Neorickettsia sennetsu (strain Miyayama)
+BMID000000142775 Phaeobacter gallaeciensis (strain ATCC 700781 / DSM 17395 / CIP 105210 / NBRC 16654 / BS107)
+BMID000000142641 Bifidobacterium longum subsp. infantis (strain ATCC 15697 / DSM 20088 / JCM 1222 / NCTC 11817 / S12)
+BMID000000140884 Synechococcus elongatus (strain PCC 7942)
+BMID000000142284 Streptomyces cattleya (strain ATCC 35852 / DSM 46488 / JCM 4925 / NBRC 14057 / NRRL 8057)
+BMID000000141881 Brucella abortus biovar 1 (strain 9-941)
+BMID000000142124 Chlamydia psittaci CP3
+BMID000000140497 Krokinobacter sp. (strain 4H-3-7-5)
+BMID000000141188 Campylobacter lari (strain RM2100 / D67 / ATCC BAA-1060)
+BMID000000141655 Desulforudis audaxviator (strain MP104C)
+BMID000000141280 Shewanella putrefaciens (strain CN-32 / ATCC BAA-453)
+BMID000000140699 Micromonospora sp. (strain L5)
+BMID000000142537 Escherichia coli (strain 'clone D i2')
+BMID000000142063 Campylobacter jejuni subsp. jejuni PT14
+BMID000000140810 Vibrio cholerae O1 str. 2010EL-1786
+BMID000000141928 Pelagibacter ubique (strain HTCC1062)
+BMID000000141430 Natronomonas pharaonis (strain ATCC 35678 / DSM 2160)
+BMID000000140795 Pseudomonas mendocina (strain ymp)
+BMID000000140545 Haloferax volcanii (strain ATCC 29605 / DSM 3757 / JCM 8879 / NBRC 14742 / NCIMB 2012 / VKM B-1768 / DS2)
+BMID000000141156 Escherichia coli (strain SE11)
+BMID000000141501 Staphylococcus aureus (strain Mu50 / ATCC 700699)
+BMID000000140608 Streptococcus pyogenes serotype M4 (strain MGAS10750)
+BMID000000142823 Pyrococcus sp. ST04
+BMID000000141130 Leuconostoc sp. (strain C2)
+BMID000000142360 Bacillus cereus FRI-35
+BMID000000142220 Octadecabacter antarcticus 307
+BMID000000142161 Enterobacter cloacae subsp. cloacae NCTC 9394
+BMID000000142184 Pseudomonas putida HB3267
+BMID000000141914 Brucella melitensis biotype 2 (strain ATCC 23457)
+BMID000000141405 Acinetobacter baumannii (strain AYE)
+BMID000000142033 Lactobacillus delbrueckii subsp. bulgaricus (strain ATCC 11842 / DSM 20081)
+BMID000000141309 Escherichia coli O157:H7 str. Sakai
+BMID000000141852 Blattabacterium sp. (Cryptocercus punctulatus) str. Cpu
+BMID000000141216 Sulfurimonas denitrificans (strain ATCC 33889 / DSM 1251)
+BMID000000140267 Korarchaeum cryptofilum (strain OPF8)
+BMID000000142089 Xylella fastidiosa (strain GB514)
+BMID000000140968 Escherichia coli (strain 55989 / EAEC)
+BMID000000140384 Mycobacterium africanum (strain GM041182)
+BMID000000141702 Neisseria gonorrhoeae (strain ATCC 700825 / FA 1090)
+BMID000000142236 Listeria monocytogenes serotype 7 str. SLCC2482
+BMID000000141714 Anoxybacillus flavithermus (strain DSM 21510 / WK1)
+BMID000000140494 Marivirga tractuosa (strain ATCC 23168 / DSM 4126 / NBRC 15989 / NCIMB 1408 / VKM B-1430 / H-43)
+BMID000000141978 Rickettsia akari (strain Hartford)
+BMID000000141549 Aquifex aeolicus (strain VF5)
+BMID000000142785 Enterococcus faecium DO
+BMID000000141535 Sulfolobus islandicus (strain M.14.25 / Kamchatka #1)
+BMID000000141665 Anaplasma marginale (strain St. Maries)
+BMID000000140568 Synechococcus sp. (strain RCC307)
+BMID000000142290 Deinococcus gobiensis (strain DSM 21396 / JCM 16679 / CGMCC 1.7299 / I-0)
+BMID000000140826 Halothiobacillus neapolitanus (strain ATCC 23641 / c2)
+BMID000000142696 Candidatus Carsonella ruddii CS isolate Thao2000
+BMID000000140584 Clostridium botulinum BKT015925
+BMID000000140704 Mycobacterium sp. (strain MCS)
+BMID000000141434 Sordaria macrospora (strain ATCC MYA-333 / DSM 997 / K(L3346) / K-hell)
+BMID000000142586 Brucella melitensis (strain M28)
+BMID000000142299 Butyrivibrio fibrisolvens 16/4
+BMID000000141476 cyanobacterium UCYN-A
+BMID000000141424 Stigmatella aurantiaca (strain DW4/3-1)
+BMID000000142134 Paracoccidioides brasiliensis (strain ATCC MYA-826 / Pb01)
+BMID000000140392 Desulfomicrobium baculatum (strain DSM 4028 / VKM B-1378)
+BMID000000140531 Escherichia coli O127:H6 (strain E2348/69 / EPEC)
+BMID000000141851 Opitutus terrae (strain DSM 11246 / PB90-1)
+BMID000000140979 Salmonella pullorum (strain RKS5078 / SGSC2294)
+BMID000000140273 Bacillus amyloliquefaciens TA208
+BMID000000142289 Mycoplasma leachii (strain 99/014/6)
+BMID000000142194 Methylophaga sp. (strain JAM1)
+BMID000000142657 Ehrlichia ruminantium (strain Welgevonden)
+BMID000000142372 Staphylococcus aureus 08BA02176
+BMID000000142222 Solitalea canadensis (strain ATCC 29591 / DSM 3403 / NBRC 15130 / NCIMB 12057 / USAM 9D)
+BMID000000141342 Caulobacter crescentus (strain ATCC 19089 / CB15)
+BMID000000142794 butyrate-producing bacterium SS3/4
+BMID000000140998 Borrelia turicatae (strain 91E135)
+BMID000000142540 Mycobacterium tuberculosis str. Beijing/NITR203
+BMID000000140255 Acinetobacter baumannii (strain ACICU)
+BMID000000141289 Alteromonas macleodii (strain DSM 17117 / Deep ecotype)
+BMID000000142408 Staphylococcus aureus (strain JKD6159)
+BMID000000141592 Ramlibacter tataouinensis (strain ATCC BAA-407 / DSM 14655 / LMG 21543 / TTB310)
+BMID000000141940 Clostridium botulinum A str. ATCC 3502
+BMID000000142333 Lactobacillus delbrueckii subsp. bulgaricus (strain 2038)
+BMID000000142374 Zymomonas mobilis subsp. mobilis (strain ATCC 10988 / DSM 424 / LMG 404 / NCIMB 8938 / NRRL B-806 / ZM1)
+BMID000000141172 Bacillus cereus (strain AH187)
+BMID000000142085 Salmonella enterica subsp. enterica serovar Heidelberg str. B182
+BMID000000142321 Enterobacteriaceae bacterium (strain FGI 57)
+BMID000000142378 Sulfurospirillum barnesii (strain ATCC 700032 / DSM 10660 / SES-3)
+BMID000000142565 Stanieria cyanosphaera (strain ATCC 29371 / PCC 7437)
+BMID000000142604 Halobacillus halophilus (strain ATCC 35676 / DSM 2266 / JCM 20832 / NBRC 102448/ NCIMB 2269)
+BMID000000140874 Streptococcus pyogenes serotype M49 (strain NZ131)
+BMID000000142167 Crinalium epipsammum PCC 9333
+BMID000000141948 Methylovorus sp. (strain SIP3-4)
+BMID000000142038 Blochmannia vafer (strain BVAF)
+BMID000000141825 Sphingobacterium sp. (strain 21)
+BMID000000141756 Corynebacterium diphtheriae (strain HC04)
+BMID000000142127 Tetrapisispora blattae (strain ATCC 34711 / CBS 6284 / DSM 70876 / NBRC 10599 / NRRL Y-10934 / UCD 77-7)
+BMID000000141352 Eggerthella sp. (strain YY7918)
+BMID000000140632 Prochlorococcus marinus (strain AS9601)
+BMID000000140354 Streptomyces cattleya (strain ATCC 35852 / DSM 46488 / JCM 4925 / NBRC 14057 / NRRL 8057)
+BMID000000140542 Bacillus atrophaeus (strain 1942)
+BMID000000141609 Rhizobium loti (strain MAFF303099)
+BMID000000142109 Bordetella pertussis (strain ATCC 9797 / DSM 5571 / NCTC 10739 / 18323)
+BMID000000141202 Treponema pallidum subsp. pallidum DAL-1
+BMID000000142261 Chlamydia psittaci MN
+BMID000000141801 Bordetella avium (strain 197N)
+BMID000000140464 Plasmodium knowlesi (strain H)
+BMID000000141725 Borrelia burgdorferi (strain ATCC 35210 / B31 / CIP 102532 / DSM 4680)
+BMID000000141736 Sclerotinia sclerotiorum (strain ATCC 18683 / 1980 / Ss-1)
+BMID000000142448 Mycobacterium tuberculosis (strain ATCC 35801 / TMC 107 / Erdman)
+BMID000000142705 Bifidobacterium longum subsp. longum F8
+BMID000000141533 Rickettsia canadensis (strain McKiel)
+BMID000000140309 Buchnera aphidicola subsp. Acyrthosiphon pisum (strain 5A)
+BMID000000140757 Buchnera aphidicola subsp. Acyrthosiphon pisum (strain LL01)
+BMID000000141018 Bifidobacterium longum subsp. longum KACC 91563
+BMID000000142050 Corynebacterium diphtheriae (strain 241)
+BMID000000141250 Mycobacterium sp. (strain JLS)
+BMID000000140253 Rahnella sp. (strain Y9602)
+BMID000000141991 Bacillus cereus (strain B4264)
+BMID000000140951 Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239)
+BMID000000141901 Cupriavidus pinatubonensis (strain JMP134 / LMG 1197)
+BMID000000141287 Chlamydophila pneumoniae CWL029
+BMID000000140945 Streptococcus pyogenes M1 GAS
+BMID000000141291 Canis familiaris
+BMID000000142399 Azospirillum brasilense Sp245
+BMID000000140467 Marinomonas mediterranea (strain ATCC 700492 / JCM 21426 / NBRC 103028 / MMB-1)
+BMID000000141943 Nitrobacter winogradskyi (strain Nb-255 / ATCC 25391)
+BMID000000142343 Streptococcus pneumoniae SPN034183
+BMID000000141872 Burkholderia sp. YI23
+BMID000000142487 Escherichia coli (strain ATCC 55124 / KO11)
+BMID000000142513 Acinetobacter baumannii MDR-TJ
+BMID000000140882 Streptococcus pyogenes serotype M1 (strain ATCC BAA-947 / MGAS5005)
+BMID000000142093 Escherichia coli O104:H4 (strain 2011C-3493)
+BMID000000140603 Synechococcus sp. (strain WH7803)
+BMID000000141979 Mycoplasma fermentans (strain M64)
+BMID000000142370 Candidatus Portiera aleyrodidarum BT-B-HRs
+BMID000000140574 Acidovorax sp. (strain JS42)
+BMID000000142672 Sinorhizobium meliloti Rm41
+BMID000000141298 Prochlorococcus marinus (strain MIT 9215)
+BMID000000140702 Lactobacillus crispatus (strain ST1)
+BMID000000140659 Ruegeria sp. (strain TM1040)
+BMID000000141448 Staphylococcus aureus subsp. aureus MSHR1132
+BMID000000142766 Pseudomonas fluorescens A506
+BMID000000140972 Cupriavidus necator (strain ATCC 43291 / DSM 13513 / N-1)
+BMID000000140610 Schizophyllum commune (strain H4-8 / FGSC 9210)
+BMID000000142108 Bacteroides xylanisolvens XB1A
+BMID000000140344 Anaplasma phagocytophilum (strain HZ)
+BMID000000140829 Borrelia garinii (strain PBi)
+BMID000000141399 Dechloromonas aromatica (strain RCB)
+BMID000000141439 Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009)
+BMID000000141933 Escherichia coli O17:K52:H18 (strain UMN026 / ExPEC)
+BMID000000142507 Candidatus Portiera aleyrodidarum BT-B-HRs
+BMID000000140447 Photorhabdus asymbiotica subsp. asymbiotica (strain ATCC 43949 / 3105-77)
+BMID000000141925 Caulobacter segnis (strain ATCC 21756 / DSM 7131 / JCM 7823 / NBRC 15250 / LMG 17158 / TK0059)
+BMID000000142576 Mycoplasma gallisepticum CA06_2006.052-5-2P
+BMID000000141106 Shewanella woodyi (strain ATCC 51908 / MS32)
+BMID000000141014 Enterobacter asburiae (strain LF7a)
+BMID000000140963 Phytoplasma australiense
+BMID000000142757 Rickettsia prowazekii str. NMRC Madrid E
+BMID000000140379 Bacillus subtilis (strain BSn5)
+BMID000000140907 Pedobacter heparinus (strain ATCC 13125 / DSM 2366 / NCIB 9290)
+BMID000000140515 Clostridium perfringens (strain ATCC 13124 / NCTC 8237 / Type A)
+BMID000000140468 Shigella sonnei (strain Ss046)
+BMID000000140284 Brevundimonas subvibrioides (strain ATCC 15264 / DSM 4735 / LMG 14903 / NBRC 16000 / CB 81)
+BMID000000142393 Actinoplanes sp. (strain ATCC 31044 / CBS 674.73 / SE50/110)
+BMID000000140916 Pyrococcus kodakaraensis (strain ATCC BAA-918 / JCM 12380 / KOD1)
+BMID000000142056 Desulfovibrio piezophilus (strain DSM 21447 / JCM 15486 / C1TLV30)
+BMID000000140276 Parabacteroides distasonis (strain ATCC 8503 / DSM 20701 / NCTC 11152)
+BMID000000140651 Mycoplasma crocodyli (strain ATCC 51981 / MP145)
+BMID000000142746 Pseudomonas aeruginosa DK2
+BMID000000140909 Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228)
+BMID000000142240 Ajellomyces capsulata (strain NAm1 / WU24)
+BMID000000142017 Clostridium kluyveri (strain ATCC 8527 / DSM 555 / NCIMB 10680)
+BMID000000142383 Halanaerobium praevalens (strain ATCC 33744 / DSM 2228 / GSL)
+BMID000000142595 Streptococcus dysgalactiae subsp. equisimilis (strain ATCC 12394 / D166B)
+BMID000000141235 Trichodesmium erythraeum (strain IMS101)
+BMID000000141717 Flavobacterium branchiophilum (strain FL-15)
+BMID000000142808 Borrelia afzelii (strain PKo)
+BMID000000141653 Caldisericum exile (strain DSM 21853 / NBRC 104410 / AZM16c01)
+BMID000000142103 Pasteurella multocida subsp. multocida str. 3480
+BMID000000141624 Caldivirga maquilingensis (strain ATCC 700844 / DSM 13496 / JCM 10307 / IC-167)
+BMID000000142421 Enterobacter aerogenes EA1509E
+BMID000000141488 Brucella ovis (strain ATCC 25840 / 63/290 / NCTC 10512)
+BMID000000142200 Amphimedon queenslandica
+BMID000000140459 Bifidobacterium longum (strain NCC 2705)
+BMID000000140645 Bacillus pumilus (strain SAFR-032)
+BMID000000140788 Kytococcus sedentarius (strain ATCC 14392 / DSM 20547 / CCM 314 / 541)
+BMID000000140389 Brucella suis VBI22
+BMID000000141277 Culex quinquefasciatus
+BMID000000140396 Desulfovibrio desulfuricans ND132
+BMID000000141899 Clostridium sp. (strain SY8519)
+BMID000000141784 Legionella pneumophila subsp. pneumophila ATCC 43290
+BMID000000142723 Candidatus Carsonella ruddii HT isolate Thao2000
+BMID000000142830 Rickettsia prowazekii str. Breinl
+BMID000000142623 Staphylococcus aureus subsp. aureus T0131
+BMID000000141956 Methylobacillus flagellatus (strain KT / ATCC 51484 / DSM 6875)
+BMID000000140434 Pseudomonas fluorescens (strain SBW25)
+BMID000000142542 Marinobacter hydrocarbonoclasticus ATCC 49840
+BMID000000141863 Paenibacillus polymyxa (strain E681)
+BMID000000141990 Rhodococcus erythropolis (strain PR4 / NBRC 100887)
+BMID000000142331 Candidatus Portiera aleyrodidarum BT-QVLC
+BMID000000141072 Podospora anserina (strain S / ATCC MYA-4624 / DSM 980 / FGSC 10383)
+BMID000000141672 Buchnera aphidicola subsp. Acyrthosiphon pisum (strain APS)
+BMID000000142774 Flexibacter litoralis (strain ATCC 23117 / DSM 6794 / NBRC 15988 / NCIMB 1366 / Sio-4)
+BMID000000142193 Streptococcus pneumoniae SPN994039
+BMID000000140299 Legionella pneumophila (strain Corby)
+BMID000000142146 Thiomonas sp. (strain 3As)
+BMID000000140338 Flexistipes sinusarabici (strain DSM 4947 / MAS 10)
+BMID000000142138 Francisella tularensis subsp. holarctica F92
+BMID000000141981 Bifidobacterium adolescentis (strain ATCC 15703 / DSM 20083 / NCTC 11814 / E194a)
+BMID000000140466 Macaca mulatta
+BMID000000140513 Sus scrofa
+BMID000000140209 Frankia sp. (strain EuI1c)
+BMID000000141728 Methanosphaerula palustris (strain ATCC BAA-1556 / DSM 19958 / E1-9c)
+BMID000000141762 Chlorobium phaeobacteroides (strain BS1)
+BMID000000141009 Thermovirga lienii (strain ATCC BAA-1197 / DSM 17291 / Cas60314)
+BMID000000141276 Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1)
+BMID000000140746 Citrobacter rodentium (strain ICC168)
+BMID000000142442 Bacillus anthracis str. H9401
+BMID000000140894 Ignisphaera aggregans (strain DSM 17230 / JCM 13409 / AQ1.S1)
+BMID000000140678 Brevibacillus brevis (strain 47 / JCM 6285 / NBRC 100599)
+BMID000000140808 Rhodothermus marinus SG0.5JP17-172
+BMID000000141700 Lactobacillus amylovorus (strain GRL 1112)
+BMID000000140536 Rickettsia prowazekii str. Dachau
+BMID000000140557 Shewanella violacea (strain JCM 10179 / CIP 106290 / LMG 19151 / DSS12)
+BMID000000140336 Methanohalobium evestigatum (strain DSM 3721 / OCM 161 / Z-7303)
+BMID000000140589 Slackia heliotrinireducens (strain ATCC 29202 / DSM 20476 / NCTC 11029 / RHS 1)
+BMID000000140849 Alicyclobacillus acidocaldarius (strain Tc-4-1)
+BMID000000142722 Escherichia coli UMNK88
+BMID000000140424 Synechococcus sp. (strain JA-2-3B'a(2-13))
+BMID000000142477 Sulfolobus islandicus (strain REY15A)
+BMID000000140212 Vibrio splendidus (strain LGP32)
+BMID000000141967 Aedes aegypti
+BMID000000142555 Helicobacter pylori PeCan18
+BMID000000140502 Streptococcus thermophilus (strain ATCC BAA-491 / LMD-9)
+BMID000000142492 Mycobacterium smegmatis (strain ATCC 700084 / mc(2)155)
+BMID000000140687 Lotus japonicus
+BMID000000141474 Roseobacter denitrificans (strain ATCC 33942 / OCh 114)
+BMID000000142827 Helicobacter pylori (strain SouthAfrica7)
+BMID000000141680 Magnetospirillum magneticum (strain AMB-1 / ATCC 700264)
+BMID000000141099 Geobacillus sp. (strain WCH70)
+BMID000000140328 Tropheryma whipplei (strain Twist)
+BMID000000140246 Rhodopseudomonas palustris (strain BisA53)
+BMID000000142836 Clostridium botulinum (strain H04402 065 / Type A5)
+BMID000000141751 Propionibacterium acnes (strain SK137)
+BMID000000142715 Desulfitobacterium dehalogenans (strain ATCC 51507 / DSM 9161 / JW/IU-DC1)
+BMID000000140377 Sulfurospirillum deleyianum (strain ATCC 51133 / DSM 6946 / 5175)
+BMID000000141079 Methanocella paludicola (strain DSM 17711 / JCM 13418 / NBRC 101707 / SANAE)
+BMID000000142197 Helicobacter pylori OK113
+BMID000000142226 Azoarcus sp. KH32C
+BMID000000141231 Bifidobacterium dentium (strain ATCC 27534 / DSM 20436 / JCM 1195 / Bd1)
+BMID000000140913 Francisella tularensis subsp. tularensis TIGB03
+BMID000000142257 Alteromonas macleodii AltDE1
+BMID000000140612 Rhodobacter sphaeroides (strain ATCC 17023 / 2.4.1 / NCIB 8253 / DSM 158)
+BMID000000142453 Alteromonas macleodii (strain Black Sea 11)
+BMID000000141335 Lactobacillus reuteri (strain JCM 1112)
+BMID000000142100 Chlamydia psittaci C19/98
+BMID000000140991 Schistosoma mansoni
+BMID000000141069 Salmonella enterica subsp. arizonae serovar 62:z4,z23:- str. RSK2980
+BMID000000142118 Sinorhizobium meliloti GR4
+BMID000000142620 Listeria monocytogenes J0161
+BMID000000140932 Niastella koreensis (strain DSM 17620 / KACC 11465 / GR20-10)
+BMID000000141769 Acetobacter pasteurianus IFO 3283-32
+BMID000000140348 Rickettsia bellii (strain OSU 85-389)
+BMID000000142005 Myxococcus fulvus (strain ATCC BAA-855 / HW-1)
+BMID000000142105 Acidovorax sp. KKS102
+BMID000000142072 Streptococcus gallolyticus (strain ATCC 43143 / F-1867)
+BMID000000140897 Staphylococcus aureus subsp. aureus USA300_FPR3757
+BMID000000141349 Clostridium acetobutylicum DSM 1731
+BMID000000140399 Toxoplasma gondii ME49
+BMID000000141480 Bordetella pertussis (strain CS)
+BMID000000141629 Ralstonia solanacearum PSI07
+BMID000000141201 Oscillibacter valericigenes (strain DSM 18026 / NBRC 101213 / Sjm18-20)
+BMID000000140668 Arthrobacter aurescens (strain TC1)
+BMID000000141518 Paenibacillus mucilaginosus (strain KNP414)
+BMID000000142009 Aeropyrum pernix (strain ATCC 700893 / DSM 11879 / JCM 9820 / NBRC 100138 / K1)
+BMID000000141818 Acinetobacter sp. (strain JCM 1667 / KCTC 23045 / DR1)
+BMID000000142554 Chroococcidiopsis thermalis PCC 7203
+BMID000000141920 Salmonella typhimurium (strain 14028s / SGSC 2262)
+BMID000000142580 Thermus sp. CCB_US3_UF1
+BMID000000140764 Thermosipho africanus (strain TCF52B)
+BMID000000142081 secondary endosymbiont of Heteropsylla cubana
+BMID000000141344 Thermobaculum terrenum (strain ATCC BAA-798 / YNP1)
+BMID000000142574 Alistipes finegoldii (strain DSM 17242 / JCM 16770 / AHN 2437 / CCUG 46020 / CIP 107999)
+BMID000000140948 Bifidobacterium longum (strain DJO10A)
+BMID000000141317 Cenarchaeum symbiosum (strain A)
+BMID000000140374 Pantoea ananatis (strain LMG 20103)
+BMID000000141605 Fervidobacterium nodosum (strain ATCC 35602 / DSM 5306 / Rt17-B1)
+BMID000000142028 Escherichia coli O157:H7 (strain TW14359 / EHEC)
+BMID000000142627 Psychromonas sp. CNPT3
+BMID000000141710 Burkholderia phymatum (strain DSM 17167 / STM815)
+BMID000000141312 Metallosphaera cuprina (strain Ar-4)
+BMID000000141787 Psychrobacter sp. (strain PRwf-1)
+BMID000000142712 Chlamydia trachomatis A/363
+BMID000000142208 Streptococcus suis SC070731
+BMID000000142754 Mycobacterium sp. MOTT36Y
+BMID000000141131 Mahella australiensis (strain DSM 15567 / CIP 107919 / 50-1 BON)
+BMID000000141652 Nitrobacter hamburgensis (strain X14 / DSM 10229)
+BMID000000142359 Fervidicoccus fontis (strain DSM 19380 / VKM B-2539 / Kam940)
+BMID000000140268 Salmonella enterica subsp. enterica serovar Typhi str. Ty2
+BMID000000141270 Caulobacter crescentus (strain NA1000 / CB15N)
+BMID000000141709 Brucella abortus (strain 2308)
+BMID000000142154 Chlamydia trachomatis L2b/Canada1
+BMID000000142798 Enterobacter cloacae subsp. cloacae ENHKU01
+BMID000000141504 Francisella tularensis subsp. holarctica (strain OSU18)
+BMID000000141318 Rickettsia prowazekii str. BuV67-CWPP
+BMID000000141154 Haemophilus parainfluenzae (strain T3T1)
+BMID000000140773 Rickettsia rhipicephali (strain 3-7-female6-CWPP)
+BMID000000141410 Streptococcus mitis (strain B6)
+BMID000000142241 Leptospirillum ferriphilum (strain ML-04)
+BMID000000142601 Burkholderia pseudomallei BPC006
+BMID000000140525 Klebsiella pneumoniae subsp. pneumoniae (strain ATCC 700721 / MGH 78578)
+BMID000000142653 Mycobacterium tuberculosis H37Rv
+BMID000000140261 Syntrophomonas wolfei subsp. wolfei (strain DSM 2245B / Goettingen)
+BMID000000141911 Acidianus hospitalis (strain W1)
+BMID000000140957 Saccharopolyspora erythraea (strain NRRL 23338)
+BMID000000140997 Accumulibacter phosphatis (strain UW-1)
+BMID000000141039 Agrobacterium sp. (strain H13-3)
+BMID000000140249 Granulicella mallensis (strain ATCC BAA-1857 / DSM 23137 / MP5ACTX8)
+BMID000000141831 Saccharophagus degradans (strain 2-40 / ATCC 43961 / DSM 17024)
+BMID000000142589 Streptococcus dysgalactiae subsp. equisimilis AC-2713
+BMID000000142391 Carnobacterium maltaromaticum LMA28
+BMID000000141545 Bacteroides fragilis (strain 638R)
+BMID000000142304 Thielavia terrestris (strain ATCC 38088 / NRRL 8126)
+BMID000000140430 Methylomicrobium alcaliphilum (strain DSM 19304 / NCIMB 14124 / VKM B-2133 / 20Z)
+BMID000000142703 Psychroflexus torquis (strain ATCC 700755 / ACAM 623)
+BMID000000140423 Pseudomonas putida (strain GB-1)
+BMID000000142732 butyrate-producing bacterium SM4/1
+BMID000000142135 Helicobacter pylori (strain 35A)
+BMID000000140635 Clostridium perfringens (strain 13 / Type A)
+BMID000000140644 Alcanivorax borkumensis (strain SK2 / ATCC 700651 / DSM 11573)
+BMID000000141600 Pyrobaculum aerophilum (strain ATCC 51768 / IM2 / DSM 7523 / JCM 9630 / NBRC 100827)
+BMID000000140437 Thermotoga sp. (strain RQ2)
+BMID000000140615 Nitrosospira multiformis (strain ATCC 25196 / NCIMB 11849)
+BMID000000142616 Saccharothrix espanaensis (strain ATCC 51144 / DSM 44229 / JCM 9112 / NBRC 15066 / NRRL 15764)
+BMID000000141027 Halalkalicoccus jeotgali (strain DSM 18796 / CECT 7217 / JCM 14584 / KCTC 4019 / B3)
+BMID000000141278 Mesorhizobium opportunistum (strain LMG 24607 / HAMBI 3007 / WSM2075)
+BMID000000141195 Borrelia bissettii (strain DN127)
+BMID000000141442 Mycobacterium vanbaalenii (strain DSM 7251 / PYR-1)
+BMID000000141908 Dickeya dadantii (strain 3937)
+BMID000000141706 Midichloria mitochondrii (strain IricVA)
+BMID000000142725 Haloferax mediterranei (strain ATCC 33500 / DSM 1411 / JCM 8866 / NBRC 14739 / NCIMB 2177 / R-4)
+BMID000000141701 Rickettsia massiliae str. AZT80
+BMID000000142617 Roseburia intestinalis M50/1
+BMID000000141526 Mycoplasma conjunctivae (strain ATCC 25834 / HRC/581 / NCTC 10147)
+BMID000000141180 Spirochaeta coccoides (strain ATCC BAA-1237 / DSM 17374 / SPN1)
+BMID000000142255 Helicobacter pylori (strain Cuz20)
+BMID000000141997 Cryptococcus neoformans var. neoformans serotype D (strain B-3501A)
+BMID000000142541 Blattabacterium sp. (Blatta orientalis) str. Tarazona
+BMID000000141239 Clostridium beijerinckii (strain ATCC 51743 / NCIMB 8052)
+BMID000000141236 Streptococcus pyogenes serotype M5 (strain Manfredo)
+BMID000000142251 Bifidobacterium bifidum BGN4
