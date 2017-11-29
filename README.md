@@ -34,6 +34,10 @@ cd java/PathwayFinding/Scripts/
 * [Sayan Ranu](https://github.com/sayanranu)
 * [Karthik Raman](https://github.com/karthikraman)
 
+### Citing ReactionMiner
+If you use ReactionMiner in your work, please cite
+>Aravind Sankar, Sayan Ranu and Karthik Raman (2017) "Predicting novel metabolic pathways through subgraph mining
+" _Bioinformatics_ **In Press** [doi:10.1093/bioinformatics/btx481](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btx481/4042129)
 
 ## License
 
